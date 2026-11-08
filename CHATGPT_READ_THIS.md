@@ -18,10 +18,10 @@ This repository holds an **opt-in, public, partial mirror** of approved Discord-
 
 ## How updates arrive
 
-Discord bot on the owner's PC → original local exports → TGC Live Bridge v4 → approved public-safe subset uploaded to GitHub approximately every 15 minutes **while the bridge runs** → GitHub Pages build/deployment.
+Discord bot on the owner's PC → original local exports → TGC Live Bridge (v4 or expanded v5) → approved public-safe subset uploaded to GitHub approximately every 15 minutes **while the bridge runs** → GitHub Pages build/deployment.
 
 The site does not run the bot. Files are not ingested by ChatGPT automatically. A new chat can **open the link on demand**, subject to the chat/browser's web access, and use the published source files. Continuous ChatGPT research/organizing would require a separate user-configured automation.
 
 The bridge keeps Discord bot tokens and GitHub access tokens off the public site. The owner must review any public exports before first publishing. Public repository names are not passwords.
 
-**Snapshot limits (current bridge):** up to 160 preferred text sources, 7 MiB in total, 384 KiB each. Some materials are intentionally excluded for privacy or size. The repository and commit history can expose anything that has been published.
+**Snapshot capacity:** v4 publishes up to 160 text files / 7 MiB, 384 KiB each. The upgraded v5 can publish up to 1,200 approved text files / 64 MiB, 1 MiB each, but **only after the user runs it on their PC and explicitly re-approves the larger public exposure**. Check `included_files` in the LIVE JSON catalog for the actual published count; the upgrade alone does not upload new data. It remains a partial snapshot rather than the full 14 GB archive. Private/admin channels, oversized files, media and other content remain excluded. GitHub commits can preserve published contents.
