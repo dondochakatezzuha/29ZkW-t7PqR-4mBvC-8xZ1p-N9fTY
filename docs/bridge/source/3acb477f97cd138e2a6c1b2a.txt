@@ -1,0 +1,49 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Eye_Register/0001.md
+Category: powers | Collection: Eye Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0001
+
+Source: `Archive/Original_Texts/Reference/Eye_Register.txt`  
+Lines: 33–69  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Athena remains a five-year-old child participating in the family scenes and cheering on Maeve. No full premium manipulation set or new combat feat is awarded to her here. Loki's claim that his children are strongest in the entire realm is a player's boast. General jokes about numerous wives/children or universal Null adulthood rules are not a canon census or a proven race mechanic.
+Sources: 1565294859156328511, 1565297616864940137, 1565299750188875848, 1565301999153717309, 1565303859956555827, 1565305436624785570, 1565306634211696721, 1565308254320468031, 1565309265483137067, 1565311992116543551, 1565312369138204773, 1565314517918027867, 1565317253950341141, 1565319001293455472
+
+10. Shift family lore and TGC versus Vespa eyes
+
+Draven identifies five children of the NPC Shift: Albion, Move, run, Mercer and Estelar. This refers to the story entity, not automatically the Discord user currently named Shift who plays Loki. Draven also explains that Move's father chose his large appearance and could change it but does not want to. These are attributed lore explanations, not a new player race or power acquisition.
+
+Draven says only three TGC Eyes exist in all TGC. A separate statement calls Vespa a TGC-ranked entity while saying its eyes are not ranked in that way. A forwarded historical Eye of Vespa listing from General gives RoR rarity, Dragon requirement, trade through Draven and a 1.2 trillion VIP-card price; Draven answers that it is RoR. Preserve the distinction between the entity's rank, the historical item's rarity and the three numbered TGC Eyes. The repost is not a current purchase, new owner or proof that RoR and TGC eyes are identical.
+
+The discussion adds no resolved acquisition of a new biological race or a new numbered player eye. Azreal's green-eye bloodline manifestation and Predator's Eye assistance are covered in their character entries, without inventing ranks. Reposted Cell names, Kaizen's YellowCell-as-race wording and assertions about relative player ranks do not independently award new species or settle a current strongest-player table.
+Sources: 1565272686488195133, 1565272845477744694, 1565271725988646923, 1565272066528387213, 1565272133246914632, 1565273782736789566, 1565273997212520632, 1565274029168795730, 1565274072974368789
+
+PRIOR SOURCE HISTORY
+
+v51 DATED CLARIFICATIONS
+
+Loki transfers all eight manipulations to Adelram and Kaizen
+
+Loki's Outside System K can transfer the eight Fundamental Manipulations through a recipient's Outside System trading interface or directly into the soul of a recipient without that system. Both routes now have completed results. The transferred set remains Shadow, Spatial, Energy, Existence, Matter, Reality, Soul and Time. This interval completes the previously pending Adelram and Kaizen gifts; Dargen's earlier successful transfer remains in force.
+
+Kaizen's first soul-transfer attempt fails at 11:09 UTC: Aeth detects K as an unfamiliar entity and declines access, mistaking it for an attack. Kaizen then authorizes receiving the gift and asks for a resend. Aeth apologizes and promises to check the sender and inform Kaizen. This failed attempt is part of the history, not a permanent block on transferring to someone without an Outside System.
+
+K resends Adelram's trade request at 11:10 UTC. Adelram accepts, and at 11:13 UTC Croco explicitly narrates ALL EIGHT FUNDAMENTAL MANIPULATIONS ACQUIRED and TRANSFER SUCCESSFUL. X confirms that Adelram personally pressed accept. Energy Manipulation acquisition advances The Eternal Sovereign quest from 0/3 to 1/3. Mastering Energy and applying it to Imperial Horizon remain unfinished; unlimited form duration has not been awarded, so the prior 25-minute maximum still applies.
+
+At 11:15 UTC Kaizen's resent request appears and Aeth immediately accepts it following Kaizen's authorization. Eight lights enter his consciousness and merge safely with his soul. The source explicitly confirms TRANSFER SUCCESSFUL and ALL EIGHT FUNDAMENTAL MANIPULATIONS ACQUIRED; Sora confirms all eight are registered. Kaizen now owns the transferred set individually. This does not give him an Outside System, remerge him into Adarlok, or grant other characters his newly received powers.
+
+At 11:17 UTC Kaizen asks whether the transfer is mastered because Loki sent it at full potential. Croco directly answers that Loki has not trained them and they are all level 0. Record this as the controlling clarification: receiving the abilities does not transfer mastery. Keep Kaizen's earlier independent Matter history without inventing a reset of that older skill; this reply concerns the gifted package. Do not assign trained levels to Adelram or Dargen from possession alone.
+
+Team use: verify the sender, obtain the intended recipient's acceptance and confirm the success narration before updating ownership. A system trading interface is not required for the soul route, but protective entities can reject it. The previous limits on Loki-exclusive YellowCell flames, Grey Flames, Judgement Day, Primal, Stones and his sealed peak remain; these successful manipulation gifts do not transfer those restricted powers. No new J/L plus Max Method distribution, active remerge, race or eye award is shown.
+Sources: 1564959230216380498, 1564959354463985736, 1564959602288893963, 1564959673038147686, 1564959806232596591, 1564959860502560811, 1564960140501713037, 1564960207170310175, 1564960699929600005, 1564960979219914795, 1564961201597976638
+
+PRIOR SOURCE HISTORY
+
+v50 DATED CLARIFICATIONS
+
+Outside System transfers: permissions and actual recipients
+

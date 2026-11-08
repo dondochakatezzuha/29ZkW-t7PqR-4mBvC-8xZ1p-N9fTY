@@ -1,0 +1,66 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Titan_Register/0005.md
+Category: powers | Collection: Titan Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0005
+
+Source: `Archive/Original_Texts/Reference/Titan_Register.txt`  
+Lines: 361–414  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+The association and recipient are sourced from Croco's announcements. Exact weapon names, move sets, costs, limits, ability-unlock conditions and whether they transmit every Titan power are not supplied. Player disagreement about immediate access versus unlocking through use remains unresolved. A contract holder receiving a weapon is not an additional Titan contract or a completed Titan/player merge.
+
+Separately, in Kaizen's channel Croco rejects a pictured blade as not canon; the user calls that picture Mercury Null. This rules on the particular depicted blade. It does not explicitly revoke the user's separately confirmed retained Mercury Null, nor does it turn the new Vaelthoryn bow into Mercury Null. Preserve these as separate records.
+
+Sources:
+Croco | 2026-10-20T06:31:21.943Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561990191143583778
+Croco | 2026-10-20T06:34:52.569Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561991074573193267
+Croco | 2026-10-20T06:42:30.173Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561992993903222814
+Croco | 2026-10-20T06:55:33.956Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561996281327648770
+Croco | 2026-10-20T07:03:59.858Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561998403234435124
+Croco | 2026-10-20T07:09:08.055Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999695906082836
+kaizen | 2026-10-20T07:06:34.565Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999052122624075
+Shift | 2026-10-20T07:06:51.843Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999124591677441
+Croco | 2026-10-19T10:00:04.054Z | #kaizen
+https://discord.com/channels/1535189086258855946/1535267861113602058/1561680324818370593
+kaizen | 2026-10-19T10:01:26.780Z | #kaizen
+https://discord.com/channels/1535189086258855946/1535267861113602058/1561680671796105299
+
+
+
+RETAINED TITAN ROSTER AND FULL PROFILES
+
+TITAN REGISTER - v37
+
+The latest v36 companion roster and six full profiles follow. The Titan-eye request and Sun CF proposal are reviewed in 37.2; no new merged form is granted.
+
+TITAN REGISTER - v36
+
+The latest v35 companion roster and six full profiles follow. The new CF discussion is reviewed in 36.2; no new merged form is granted by an image alone.
+
+TITAN REGISTER - v35; all six Titans and holder rules
+
+35.2 CURRENT RACES AND TITAN HOLDERS - CAST REGISTER
+
+ADELRAM: latest explicit race result is GENESIS, October 16 at 20:00 UTC. Earlier Human, Null, Void and Titan results are dated history. Croco says three rolls produced Null, Asura and Genesis, but the lock-in awards Genesis alone; without the lock-in he would have received the first result, Null. He does not receive all three races. Adelram had already become Sylvara's holder with a ring, and later narrated scenes still take him to Sylvara's house after the Genesis result. Preserve both the latest race and continuing observed companionship; the rules explaining retention of a Titan after a race change are not supplied. Do not silently remove Sylvara or claim universal permission to stack races.
+
+ARLO: Titan, obtained on the fifth spin after an earlier Genesis result was rolled past because Titan was locked in. Arlo accepts and chooses Dromak; Croco responds with Dromak's personality and Veymi form. Earlier Dwarf height, gravity restrictions and crafting benefits are historical race rulings. No fresh full post-Titan rewrite of Arlo's gravity/portal kit is given, so do not invent new ranges or restored unlimited output. His summoning accessory is not identified in the captured text.
+
+DARGAN / DARGEN: Titan, first-spin result confirmed and kept. He selects Kryvorn, wears the required bracelet and summons him in a later scene. The earlier Leviathan-Siren body and heat weakness are not automatically current after this replacement. Existing Lumen/Omnipresence history is retained without inferring unlimited new Titan feats.
+
+KAIZEN / UMBRA / 01yt: Titan, obtained on the fourth spin on October 15, superseding the intermediate Null-Archon result and earlier Dwarf state. His companion is Vaelthoryn, called Vael in dialogue, summoned with a necklace. Croco confirms wearing it and narrates their conversation. The full user-confirmed Bluecell, Redcell/Inversion, Purplecell, YellowCell, Mercury Null and established Shadowics/OASIS foundation remains distinct from the replacement race. The Null-Archon sheet remains a historical record, not an automatic second current race. No latest height or post-Titan full body sheet is stated.
+
+LOKI / LIA! / SHIFT (posting account): Titan, fifth-spin result confirmed, with Varkhazar/Var as companion and earrings as summoning/link accessories. Later scenes show Var carrying Loki's Life Stone and returning it. The earlier Raijin stillness weakness and body-specific modifiers are historical. This player's display name Shift does not identify him as the NPC who governs the All Time Realm.
+
+MARIAM: new eye results are confirmed below, but this update does not establish a new race result or Titan grant. Do not fill a missing result using another character's spin or an eye's appearance.
+

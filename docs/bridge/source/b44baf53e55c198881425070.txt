@@ -1,0 +1,75 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0079.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0079
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4415–4477  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Separately, in Kaizen's channel Croco rejects a pictured blade as not canon; the user calls that picture Mercury Null. This rules on the particular depicted blade. It does not explicitly revoke the user's separately confirmed retained Mercury Null, nor does it turn the new Vaelthoryn bow into Mercury Null. Preserve these as separate records.
+
+Sources:
+Croco | 2026-10-20T06:31:21.943Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561990191143583778
+Croco | 2026-10-20T06:34:52.569Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561991074573193267
+Croco | 2026-10-20T06:42:30.173Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561992993903222814
+Croco | 2026-10-20T06:55:33.956Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561996281327648770
+Croco | 2026-10-20T07:03:59.858Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561998403234435124
+Croco | 2026-10-20T07:09:08.055Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999695906082836
+kaizen | 2026-10-20T07:06:34.565Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999052122624075
+Shift | 2026-10-20T07:06:51.843Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561999124591677441
+Croco | 2026-10-19T10:00:04.054Z | #kaizen
+https://discord.com/channels/1535189086258855946/1535267861113602058/1561680324818370593
+kaizen | 2026-10-19T10:01:26.780Z | #kaizen
+https://discord.com/channels/1535189086258855946/1535267861113602058/1561680671796105299
+
+38.10 SLUGS, WISPS, KORRINS AND VEYLITHS — DEVICES AND HOLDERS
+
+Hollow Grave introduces a living-creature power system with ordinary Slugs and three named variants: Wisps, Korrins and Veyliths. These are distinct creature/device combinations, not new races awarded to the players. High-speed launch triggers ordinary Slug battle transformations; safe purpose-built devices matter.
+
+FULL DEVICE EXPLANATION
+
+1st image just choases a blaster For typical slug yk not a good blaster but a normal one that owrks
+
+Wisps use a special device called a Resonator which produces frequencies that activate their powers and allow them to transform into stronger forms while floating inside the device and different frequencies unlock different abilities depending on the Wisp being used
+
+Korrins use a special device called an Impact Core which holds them safely inside a mechanical sphere and when thrown against the ground it creates powerful vibrations that trigger their transformation into larger battle forms ready to fight
+
+Veyliths use a device called a Rift Projector which opens dimensional portals allowing them to teleport across the battlefield and use their shapeshifting abilities to attack enemies from unexpected directions
+
+Ordinary Slug: Blaster only under Croco's explicit reply. Wisp: Resonator frequencies activate its powers and different stronger forms/abilities. Korrin: Impact Core holds it in a mechanical sphere; ground impact creates transformation-triggering vibrations. Veylith: Rift Projector opens portals for teleportation and shapeshifting attacks. Do not assume every variant uses every device or that an unapproved gauntlet substitutes for a Blaster.
+
+The earlier location post says Slugs are found in the world; Croco's later edited allowance gives everyone a common spin. These can coexist as collection and introductory distribution methods. The actual observed grants are:
+
+Loki / Shift: Air, Common, dark variant, explicitly stated by Croco. A later statement confirms a common one-shell Slug Blaster.
+Adelram: Croco posts an award image of a blue, aquatic-looking creature with red eyes. It has no readable species or element label, so its exact power is unresolved. Croco later includes Adelram alongside Loki as having a common one-shell Slug Blaster. The creature's blue color is not sufficient to name it a Water Slug.
+Kaizen and Arlo: spin requests appear, but no completed creature award is shown. The GIF response to Kaizen is not a grant. Other players' hypothetical species and combinations do not establish ownership.
+
+The one-shell capacity applies to these awarded common blasters; it does not establish the capacity of every future device. Mimic Slugs copying the owner's powers are an explicitly described rare species, but no player here is awarded one. YellowCell, all-stone, Burpy and other proposed Slug combinations remain plans or comparisons. Bond growth and rarity do not supply an automatic instant mastery rule, reproduction exploit or limitless copying of council-locked stones.
+
+Sources:
+Croco | 2026-10-20T10:41:16.497Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562053082861412422
+Croco | 2026-10-20T10:52:34.894Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562055928264658994
+Croco | 2026-10-20T10:43:25.066Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562053622118744086
+Croco | 2026-10-20T11:07:07.347Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562059587597631562
+Croco | 2026-10-20T11:11:14.507Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562060624262078645
+Croco | 2026-10-20T11:18:28.839Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562062445982519336
+Croco | 2026-10-20T11:25:06.867Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562064115432693810

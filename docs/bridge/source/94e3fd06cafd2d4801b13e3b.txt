@@ -1,0 +1,37 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/arlo_1535422274260308058/2026-11.txt
+Category: characters | Collection: Arlo
+Export content (not verified canon; see source context):
+
+#arlo | 2026-11
+All times are UTC. Message IDs identify original sources.
+
+[2026-11-01T10:19:36.783000+00:00] Arlo | 1566396285852844082
+Author ID: 1076431615523311628
+https://discord.com/channels/1535189086258855946/1535422274260308058/1566396285852844082
+Reply to: 1565681466749358142
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "** Ability 1, Threefold Devour **\n\n** You can intercept and absorb up to three energy attacks, storing one inside each hooked mark before releasing them separately or combining them into one devastating blast **\n\n** You must see the attack coming, anything beyond your storage capacity can shatter the seal and injure you **\n\n** Ability 2, Dragonfall **\n\n** The outer rings spread across an area you can see, allowing you to direct immense pressure downward or pull enemies toward a chosen point **\n\n** You can ground flying enemies and crush defensive formations, stronger opponents can resist and maintaining a wider field drains more energy **\n\n** Ability 3, Severing Spiral **\n\n** By focusing on a visible barrier or active technique you can unravel its energy structure, peeling away its layers until it collapses **\n\n** Powerful techniques require sustained focus, breaking your sight interrupts the process and you cannot erase someone’s innate powers **\n\n** Ability 4, Twin Fang Passage **\n\n** The two pointed markings open linked passages between two visible locations, letting you cross the battlefield instantly or send an attack through from an unexpected angle **\n\n** You can maintain only one pair at a time, sealed spaces resist entry and a passage cannot open inside someone’s body **\n\n** Ability 5, Sovereign Dragon **\n\n** You consume all three stored attacks to manifest an enormous ivory dragon around your body, its coils shield you while its jaws unleash the combined power you captured **\n\n** For thirty seconds it strengthens your pressure field and moves with your attacks, afterward your active eye abilities become unavailable for several minutes **\n\n** Passive 1, Predator’s Sight **\n\n** You perceive the flow of energy through bodies and techniques, revealing weak points and the buildup before an attack is released **\n\n** This gives you exceptional combat awareness, it does not read minds or guarantee your body can react in time **\n\n** Passive 2, Ivory Adaptation **\n\n** Surviving repeated hits from the same energy signature gradually strengthens your resistance to it, reaching up to half its original damage **\n\n** You can adapt to three signatures at once, these resistances fade after battle and never grant complete immunity **", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-10-23T12:05:54.942000+00:00", "type": 19}}
+
+[2026-11-02T06:39:50.833000+00:00] Arlo | 1566703367835746357
+Author ID: 1076431615523311628
+https://discord.com/channels/1535189086258855946/1535422274260308058/1566703367835746357
+Reply to: 1566702528924754001
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "level 10 -Galaxia Primordial: The user possesses terrifying authority over creation itself, capable of creating beings, planets, dimensions, and entire multiverses with a single thought, but their true power goes far beyond that. They can create beings with entirely original abilities, Fundamental Manipulations, immortality, and powers capable of surpassing their own creators. They can forge planets that devour concepts, stars that erase immortality, and living dimensions that imprison even entities beyond existence. They can create perfect duplicates of opponents with their abilities, manufacture entirely new forms of life that defy all known laws, and turn their creations into weapons powerful enough to shatter dimensional hierarchies. Most importantly, they can give physical existence to anything they imagine, including impossible beings, nonexistent forces, and powers that have never existed before.", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "a078ec7722bd8813228ccadcd0f2f5d7", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 256, "global_name": "Arlo", "id": "1076431615523311628", "primary_guild": null, "public_flags": 256, "username": "a1loknown"}], "timestamp": "2026-11-02T06:36:30.821000+00:00", "type": 19}}
+
+[2026-11-04T13:13:59.527000+00:00] Draven | 1567527333378654270
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535422274260308058/1567527333378654270
+..
+
+[2026-11-04T13:14:02.946000+00:00] Draven | 1567527347719118918
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535422274260308058/1567527347719118918
+https://klipy.com/gifs/tom-and-jerry-tom-laughing
+Embed: {"content_scan_version": 4, "provider": {"name": "Klipy", "url": "https://klipy.com"}, "thumbnail": {"flags": 0, "height": 420, "placeholder": "YigGHgL3iahplJlXd4uHY1d494mLn5g=", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/pkrLsv38xhDKj7nC1-xQTa8alUEOmbFuCUCcA8m7ahk/https/static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/bc/e2/s4caZk2dkVJsVnmtyBRv.webp", "url": "https://static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/bc/e2/s4caZk2dkVJsVnmtyBRv.webp", "width": 358}, "title": "Tom And Jerry Tom Laughing", "type": "gifv", "url": "https://klipy.com/gifs/tom-and-jerry-tom-laughing", "video": {"flags": 0, "height": 420, "placeholder": "YigGHgL3iahplJlXd4uHY1d494mLn5g=", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/NOQcWy6NcW_OGoUEIvwqVeQCc5iRaWNWd95M16uieYA/https/static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/bc/e2/7QnI3wMMiSE7A6rjvv.mp4", "url": "https://static.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/bc/e2/7QnI3wMMiSE7A6rjvv.mp4", "width": 358}}
+
+[2026-11-04T20:57:26.531000+00:00] Arlo | 1567643964406767668
+Author ID: 1076431615523311628
+https://discord.com/channels/1535189086258855946/1535422274260308058/1567643964406767668
+😔
+

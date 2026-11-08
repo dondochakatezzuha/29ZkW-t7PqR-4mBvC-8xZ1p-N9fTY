@@ -1,0 +1,83 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Race_Register/0003.md
+Category: powers | Collection: Race Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Race_Register.txt`  
+Lines: 102–172  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+No new individual race award. Real Dargen rejoins the merge, restoring his contributions. The altered/imitated Null inheritance claims are attributed NPC disclosures, not verified universal mechanics; see section45.8.
+
+RACE REGISTER - v44
+
+No new race award. Loki Upper God request explicitly refused. Resolved departures change current merge access; do not silently retain departed races.
+
+RACE REGISTER - v43
+
+No new race award confirmed. Loki status language does not itself award an Upper God race. Prior source history retained.
+
+RACE REGISTER - v42
+
+No new race award is confirmed in this interval. Replar/Jinka are distributed ability kits. Current merge membership does not make former members permanent race donors. Apply the unmerge/retention rule below.
+
+DIRECT USER CLARIFICATION - v42, October 25, 2026
+
+The user stated: "the new merge adarlok doesnt have a few people, mariam and loki arent there and stuff, so like its different slightly".
+
+Apply this correction to the new Adarlok: Mariam and Loki are absent. Discord first lists Toby, Abraxas, Dargen, Max and Kaizen, then explicitly accepts Arlo and Adelram. The resulting supported roster is those seven. The user did not supply an exhaustive alternative roster, so the other members are derived from those dated Discord confirmations.
+
+The stale Loki name in the Max Method narration is preserved as original evidence but must not grant him present membership or new distributed abilities. Older original-five, alternate-self, Titan and larger fusions remain dated history. Shared abilities, eyes, races and simultaneous control belong to the actual participating assembly.
+
+Additional direct user rule: "whenever someone says "unmerge" and croco does it or smth means they literally leave the merge and merged  players lose the leaving members powers from the merge unless they unlocked it with j and was distributed with max method".
+
+Operational interpretation: completed departure removes that member and their contributed powers; J unlock plus Max Method distribution is the retention exception. Keep proposals separate from resolved unmerges. Apply this across the historical fusion register and current ownership. The newly registered/distributed Replar and Jinka abilities meet both conditions for the corrected current recipients. This rule does not automatically retain every eye, race, Stone, companion or ability that ever appeared in any merge.
+
+Retain the previous user-confirmed full Cell kit, Mercury Null and Tyreror water-from-air ONLY WITH A YELLOW STONE. GM/player actions and AI-run narration do not automatically establish every suggested outcome. This update covers all characters, not only Kaizen.
+
+
+RETAINED USER-CONFIRMED RULES
+
+RETAINED USER CLARIFICATIONS - v41 CONTEXT
+
+The user previously confirmed that the original Kaizen/Toby/Loki/Dargan/Adelram fusion combines all abilities, eyes and races in one jointly controlled body. This is a historical membership snapshot and a shared-control rule, not the latest roster. October 25 narration explicitly lists Toby, Abraxas, Dargen, Max and Kaizen.
+
+Full Cell kit and Mercury Null remain in the corrected Kaizen foundation. Tyreror water-from-air requires a Yellow Stone. GM/player proposals do not automatically happen. Draven can be both a player and GM, and AI-run narration retains its source context. All characters receive coverage. No new direct user canon correction was supplied in this refresh. The posted handbook claims a prior Adelram Titan correction and is labeled as that source.
+
+
+RETAINED USER-CONFIRMED RULES
+
+USER CONFIRMATION - v40 UPDATE, OCTOBER 21, 2026 CDT
+
+Source: the user's direct message in this archive task; not a Discord post.
+
+"the adarlok has kaizen, toby, loki, dargan, adelram so far merged, all their abilities are merged including eyes and races and stuff, they all become one and can control the single body at once"
+
+Current rule: Kaizen, Toby, Loki, Dargan and Adelram become one Adarlok, combining all their abilities, eyes, races and other powers. All five can control the shared body at once. The older three- and four-member entries describe earlier stages. This confirmation does not by itself grant every member permanent ownership of everyone else's kit after separation. The new separation scene explicitly removes Loki-specific access from the remaining fusion, and his re-merger restores it.
+
+
+RETAINED USER-CONFIRMED RULES
+
+USER CONFIRMATIONS — CURRENT v39
+
+The user directly confirms Hamza = Monarch, awakened with Yellow Stone,
+Space/Astria and Mystia, and supplies the five-move sheet. That dated sheet
+is preserved in section 33.1. The later Astralux/new character sequence is
+reviewed in section 35.5; coexistence of old and new moves is unresolved.
+This is the user's current-task confirmation, not an invented Discord post.
+
+The user-confirmed Kaizen corrected PDF remains canon: full Bluecell,
+Redcell (including Red/Inversion), Purplecell and YellowCell; Mercury Null
+is retained. Red + Blue = Purple; two Purplecell parents produce YellowCell.
+Tyreror water from air works ONLY WITH A YELLOW STONE. No universal unnamed
+ability is inferred from cell ancestry. Mercury Null, Mercury Cell and the
+removed Tyreror Mercury Form stay separate.
+
+TGC is the merged setting, including TWN/Prism/Vesperia and ROR; ROR is the
+current universe as clarified by the user. Preserve the full supplied books
+as lore sources. Draven is both a player and GM and has allowed AI to run
+the game. A GM channel/account does not make every proposal a completed event.
+Save accessible server text with authors, times and evidence. Keep images

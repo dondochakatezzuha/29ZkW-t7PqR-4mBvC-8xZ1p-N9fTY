@@ -1,0 +1,66 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Eye_Register/0006.md
+Category: powers | Collection: Eye Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0006
+
+Source: `Archive/Original_Texts/Reference/Eye_Register.txt`  
+Lines: 274–327  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564234866843713539
+Croco | 2026-10-26T11:19:00.087Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564236904239468665
+kaizen | 2026-10-26T11:35:35.899Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241080977985547
+
+45.4 POWER READOUTS: EXACT VALUES AND INTERNAL CONFLICTS
+
+Loki's displayed status gives base Dragon x345 and a headline maximum Dragon x103,500. Its transformation table gives Black Flames x450, White Flames x599, Grey Flames x5,000 and All Stones + Flames x403,500. The headline maximum conflicts with the larger combined-form entry in that same post. Retain both attributed numbers rather than silently repairing one. Player claims of being fifth or strongest do not resolve that inconsistency.
+
+Dargen's displayed status states third strongest, healthy, Omnipresence speed, TGC Eye and Veymi Kryvorn. It lists base Dragon x200, Black Flames x450 and final form x85,000, with Toaa Yang's Black Flames, recovered Lyra Witchcraft, Jinka abilities/gamma-radiation tail and Replar abilities. Preserve the dated rank as the readout's claim, without using inconsistent Loki values to manufacture a new global ranking.
+
+J's 10:47 analysis of the then-five-person Adarlok gives base Dragon x350, four active forms (Null, Black Flames, Abraxas, Max) and an UNCONFIRMED combined multiplier. It expressly says Platonic Dargen does not supply real Dargen's original x85,000 power and cannot determine whether this Adarlok exceeds him. This new base readout supersedes the earlier assembly's x354 for that assessed state, but Dargen returns afterward. There is no final recalculated base/maximum for the six-member state before the cutoff.
+
+Original status tables are retained in the source evidence and transcript. None of these values proves a proposed victory over Ignis, Caelen or another player. Such comparisons remain proposals and boasts.
+
+Sources:
+Croco | 2026-10-26T10:01:49.080Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564217480388288613
+Croco | 2026-10-26T10:10:04.008Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564219556266909809
+Croco | 2026-10-26T10:47:56.936Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564229089617772575
+Croco | 2026-10-26T11:10:54.334Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564234866843713539
+
+45.5 ADELRAM: ADVANCED TIME BRANCH QUEST COMPLETED
+
+The Master of Time quest requires a future manifestation maintained sixty seconds, restoration of a destroyed object through its individual timeline, and a region with independent acceleration, slowing and reversal. The first endurance attempt ends at fifty-two seconds. Using Maleficia's Kiji training, the next reaches sixty seconds successfully. Adelram then restores a shattered boulder and completes the independent temporal field. X marks all three challenges complete and unlocks Temporal Sovereignty plus Advanced Time Branch mastery.
+
+The resulting five-technique sheet is: Temporal Multiplication, maintaining a future self independently for at least sixty seconds; Temporal Reversal of an object's individual timeline; Temporal Acceleration on selected targets; Temporal Deceleration on selected targets; and Temporal Sovereignty, a controlled domain with independent acceleration, slowing and reversal. X expressly says this is NOT full Time Manipulation and still has limits.
+
+Sylvara produces five independently moving wooden training constructs from roots and branches, says they do not feel pain and can be regrown. Adelram initially catches an unintended third target, then corrects to one at twenty percent speed, one at three hundred percent and three unaffected. He maintains this as targets cross and change positions, then successfully controls acceleration, slowing and reversal on three separate moving targets after correcting another overlap. Current control still requires conscious concentration; instinctive combat adjustment is a future training goal.
+
+Selective reversal of injured tissue is proposed as a later exercise, beginning with damaged training materials. It has not been demonstrated on his body. Longer-than-sixty-second combat coordination and control of ten independent objects are goals, not completed feats. The final scene releases the targets and ends training with Advanced mastery stable.
+
+Sources:
+Croco | 2026-10-26T09:55:42.426Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564215942530076693
+Croco | 2026-10-26T10:03:09.837Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564217819107950653
+Croco | 2026-10-26T10:10:37.627Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564219697275080805
+Croco | 2026-10-26T10:14:34.112Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564220689165193227
+Croco | 2026-10-26T10:21:25.644Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564222415255638097
+Croco | 2026-10-26T10:28:37.621Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564224227098230877
+Croco | 2026-10-26T11:05:16.590Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564233450242973717
+Croco | 2026-10-26T11:08:51.097Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564234349950533674
+Croco | 2026-10-26T11:13:20.756Z | #the-xiv

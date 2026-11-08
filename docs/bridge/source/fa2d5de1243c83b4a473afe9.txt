@@ -1,0 +1,79 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0078.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0078
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4348–4414  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020263560871967
+Croco | 2026-10-20T08:32:09.511Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020589647040523
+Croco | 2026-10-20T08:36:03.676Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562021571806232619
+Croco | 2026-10-20T08:37:21.482Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562021898148257853
+
+38.8 EXTRA EYES, HAND-EYE PROPOSAL AND STONE RESTRICTIONS
+
+Croco initially says Loki can mutate extra eyes without the stones, but later explicitly warns that pushing past the body's natural two-, three- or four-eye arrangement causes nerfs or complications, using Danzo as an example. Loki backs out of the earlier proposal. Mutation capability is not the same thing as safe unlimited capacity, a new rolled power or a completed implantation.
+
+The October 21 tail adds Croco's report that Loki says he is giving Adelram and Dargan '2 more eyes' and wants them on the hand. This documents a newly reported plan. It does not specify the eye names, individual quantities with complete clarity, completed surgery, rolled powers or the resulting drawbacks. Keep both characters' confirmed sets unchanged pending an executed grant; do not silently discard the earlier complication warning. Kaizen's claim that a hand eye prevents holding a weapon is likewise a player objection, not a settled GM equipment rule.
+
+The eight multiversal stones have a separate ownership lock. Croco directly says Null cannot adapt around it, even in the surrounding argument about god-level strength. General adaptation, cellular control, mutation and a higher ranking therefore do not supply permission to harvest or wield those stones. Player theories about children inheriting all stones or Titan powers are not new grants.
+
+The latest hypothetical anime matchup also includes a direct Croco statement that Adelram could wipe out Aizen's hypnosis using the Time Branch. Preserve that as a GM matchup claim, not a completed TGC encounter or a numeric new technique sheet. Adelram's broader claim that future sight means all illusions fail is not independently expanded into blanket immunity by that exchange.
+
+Sources:
+Croco | 2026-10-20T09:34:52.990Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562036374822060106
+Croco | 2026-10-20T09:57:22.898Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562042036746453005
+Croco | 2026-10-20T09:57:31.424Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562042072507220130
+Croco | 2026-10-20T09:57:53.760Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562042166191325237
+Croco | 2026-10-20T09:59:03.086Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562042456965386281
+Shift | 2026-10-20T09:58:13.747Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562042250022883369
+Croco | 2026-10-21T05:50:00.825Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562342172446171158
+kaizen | 2026-10-21T05:50:53.918Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562342395134345297
+Croco | 2026-10-19T09:41:53.509Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561675750740987915
+Croco | 2026-10-19T09:41:56.012Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561675761239334953
+Croco | 2026-10-19T09:42:42.057Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561675954366185533
+Shift | 2026-10-20T06:53:22.734Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561995730942562317
+Shift | 2026-10-20T06:54:45.947Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561996079963185203
+Shift | 2026-10-20T06:54:53.555Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561996111873319026
+Croco | 2026-10-21T05:53:57.358Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562343164537339907
+Adelram | 2026-10-21T05:53:01.218Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562342929069113378
+Croco | 2026-10-21T05:54:14.413Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562343236071067690
+
+38.9 JERIAL WEAPONS FOR SIX TITAN CONTRACT HOLDERS
+
+Croco assigns Jerial weapons to the six existing Titan contract holders. The attached designs were visually inspected; they do not contain a move list. These are not all swords, and design colors alone do not establish elements, ranges or damage.
+
+Toby — Mother Prana: blue/purple double-ended bladed polearm.
+Arlo — Dromak: paired curved swords, one red/black and one white/gold.
+Adelram — Sylvara: paired pale/gold plantlike or vine/wood scythes.
+Dargan — Kryvorn: blue crystalline curved scythe/hook-shaped weapon.
+Loki — Varkhazar: large jagged gold/red/black blade.
+Kaizen — Vaelthoryn: gold/white bow, with quiver and arrows.
+
+The association and recipient are sourced from Croco's announcements. Exact weapon names, move sets, costs, limits, ability-unlock conditions and whether they transmit every Titan power are not supplied. Player disagreement about immediate access versus unlocking through use remains unresolved. A contract holder receiving a weapon is not an additional Titan contract or a completed Titan/player merge.
+

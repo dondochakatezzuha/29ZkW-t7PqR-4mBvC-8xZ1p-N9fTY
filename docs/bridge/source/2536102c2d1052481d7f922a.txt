@@ -1,0 +1,611 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kaizen_1535267861113602058/2026-08.txt
+Category: characters | Collection: Kaizen
+Export content (not verified canon; see source context):
+
+#kaizen | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-07T12:46:22.323000+00:00] Tickets v2 | 1535267862522896445
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535267862522896445
+-# ||<@&1535189086258855954>||
+
+[2026-08-07T12:46:22.628000+00:00] Tickets v2 | 1535267863802281985
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535267863802281985
+
+Embed: {"color": 3066993, "content_scan_version": 4, "description": "Create. make only one to store your info, like appearance and abilities.", "fields": [{"inline": true, "name": "- Player Character Information", "value": "Character creation: Name, Age, gender, Height, Weight, Clothing, clothing color, hair, hair color. Don't put too much thought into character creation but weight and height does affect your character. Your character will change in appearance overtime depending on how your story unfolds."}, {"inline": false, "name": "- Choose 2 unique features that your character may possess:", "value": "These features are aesthetical and serve no real power or purpose besides more personality."}, {"inline": false, "name": "UNIQUE FEATURES, Physical features:", "value": "Scarred knuckles, uneven eyes, a chipped tooth, a streak of naturally lighter hair, unusual freckles, faint ritual markings, a missing earring, slightly pointed ears, cracked-looking nails, a birthmark shaped like a symbol, a small scar across the eyebrow, different-colored irises, an old burn mark, a faint limp from an old injury, unusually long fingers, a small notch in one ear, or a permanently tired-looking expression."}, {"inline": false, "name": "UNIQUE FEATURES, Clothing/gear details:", "value": "A weathered cloak with dozens of stitched repairs, mismatched gloves, an old belt covered in tiny charms, a dented shoulder guard, a sword with a repaired handle, a necklace made from an unknown coin, bandages wrapped around one arm, boots from different sets, a cloak clasp bearing an unfamiliar crest, a small journal hanging from the belt, a ring worn on a strange finger, a pouch filled with seemingly useless objects, or a weapon with an oddly personal modification."}, {"inline": false, "name": "UNIQUE FEATURES, Subtle supernatural features:", "value": "Their eyes reflect light strangely, their breath briefly fogs in warm weather, old wounds faintly glow when magic is nearby, their reflection looks slightly different for a moment, animals sometimes stare at them, their hair lifts slightly around magical objects, their voice has a faint echo in certain places, nearby candles occasionally flicker when they're emotional, their footsteps sometimes sound slightly delayed, or magical objects react subtly to their presence."}, {"inline": true, "name": "- Information", "value": "Make a thread and send content like weapons, abilities, friends, or any information you'd like to store that you would believe benefit you in the near future, this makes it so YOU can look back and think about what you have and what you could do for a more strategic play."}, {"inline": true, "name": "- anonymous messaging (VOLT)", "value": "for anonymous messaging, you can use VOLT, using /volt (message) (channel), you can send anonymous messages from your Ticket. only requirement i would like to say, Do NOT spam it and make sure the writers have a way of knowing it is you before hand."}, {"inline": true, "name": "- Questions", "value": "futher questions, you should ping or notify the Writers."}], "footer": {"icon_url": "https://tickets.bot/assets/img/logo.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/8MjyyuscKsVyuL1EfsDZtZd8r36jwYZjKpVb8s2tYws/https/tickets.bot/assets/img/logo.png", "text": "Powered by tickets.bot"}, "type": "rich"}
+
+[2026-08-07T12:46:32.807000+00:00] kaizen | 1535267906495975465
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535267906495975465
+fixed
+
+[2026-08-07T23:08:48.275000+00:00] Draven | 1535424502798753842
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535424502798753842
+<@1388446131620548760>
+
+[2026-08-09T02:57:58.053000+00:00] kaizen | 1535844561413480571
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535844561413480571
+**Surname:** Sethren 
+**Name:** Falko
+**Possible nickname??:** Hollowcoat
+**Age:**20 
+**Sex:** Male 
+**Height:** 6’0” 
+**Weight: **178 lbs 
+**Description:**
+Muscular yet wiry build, his frame leaner than most fighters of similar stature, broad shouldered yet with less bulk evident in his arms. Overall, sturdy and healthy, but with more endurance than strength.
+**Most distinguishing features:**
+Long dark brown layered hair which is parted unevenly and falls messily around his face, with a thick rat tail falling from the back of his head down around his neck. Bangs hang unevenly from the front in thick clumps and strands, with others constantly falling around his ears and shoulders. His face is lean and angular, with a strong jaw and a pronounced, straight nose. His cheek bones are visible, giving him a hollow look to his cheeks, and his eyebrows are thick and uneven. His eyes are narrow and set deeply, and shadowed with heavy upper lids, giving him a perpetually tired and unapproachable look. Heavy stubble covers his jaw line, and a messier goatee hangs from his chin, with only a few days’ worth of growth on his upper lip. His eyes are a muted brown color, and often seem aloof and detached, more often than not tired, dull and irritable. Other distinguishing features are the dented shoulder bit he wears, the torn cloak slung over his right shoulder, the constant cigarette dangling from his lips, the small inconspicuous earring at the top of his left ear, the abraded knuckles from his workman’s gloves, the unkempt and stubbly jaw and the constant loose strands of hair falling around his face.
+
+[2026-08-09T02:57:59.986000+00:00] kaizen | 1535844569520934933
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535844569520934933
+**Wears:**
+A torn and frayed dark cloak, which is worn with a fur hood slung over his head and around his shoulders. Underneath a long heavy fur coat, with a large fur hood that usually hangs around his neck and over his shoulders. He wears fingerless gloves, worn leather boots, with his trousers tucked into them, a slim belt holding a few pouches with useful items at his waist. His clothes are all dark, in muted colors of grey and brown, with touches of silver, and are worn and patched in several places, showing age and use.
+**Overall impression:**
+He looks like someone who has spent a lifetime surviving in the wilderness and not a single day wasted on frivolous pursuits. All of his clothes are worn but serve a purpose, and everything about him speaks of a man used to working with his hands and living outdoors. He has a rugged appeal, but nothing overly heroic about him, with the unkempt dark hair, the tired eyes, the worn leather clothing and the generally unkempt appearance. He looks like a survivor, not a noble champion of any cause. He carries himself casually, leaning against things frequently and with one hand constantly in his coat pocket, giving him an easygoing but also indifferent appearance, until he has to do something that requires purposeful movement, in which case he moves with a certain economy of motion and appears more serious and focused.
+
+[2026-08-09T02:58:07.551000+00:00] kaizen | 1535844601250709604
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535844601250709604
+<@1187513925739237408>
+
+[2026-08-09T03:37:12.182000+00:00] Croco | 1535854435345891368
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535854435345891368
+
+File (saved): attachments/1535267861113602058/1535854435345891368/1535854434993836032_9k.png
+
+[2026-08-09T03:39:16.849000+00:00] kaizen | 1535854958237188096
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1535854958237188096
+thank you
+
+[2026-08-11T01:51:00.890000+00:00] kaizen | 1536552487941570581
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536552487941570581
+Each Class grants its own unique abilities, from 🌊 Tyrerors, who command liquids, to 🔥 Infernias, who wield flames, 🌌 Gravitos, who bend gravity, and many more. Every Class has the potential to become just as powerful through training and mastery.
+
+[2026-08-11T01:51:06.240000+00:00] kaizen | 1536552510381228052
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536552510381228052
+does this mean there are more classes
+
+[2026-08-11T01:51:12.117000+00:00] kaizen | 1536552535031292044
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536552535031292044
+or are these the only options
+
+[2026-08-11T01:51:22.142000+00:00] kaizen | 1536552577079185488
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536552577079185488
+if so id like to choose a class if thats an option
+
+[2026-08-11T02:26:23.550000+00:00] civic | 1536561391023169707
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536561391023169707
+Reply to: 1536552510381228052
+yes
+
+[2026-08-11T02:26:55.980000+00:00] kaizen | 1536561527044444210
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536561527044444210
+Reply to: 1536561391023169707
+ooh cool
+
+[2026-08-11T20:47:36.654000+00:00] kaizen | 1536838521707434024
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536838521707434024
+yoo what if i add to my prompt that im an amputee
+
+[2026-08-11T20:47:37.684000+00:00] kaizen | 1536838526027440168
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536838526027440168
+LOL
+
+[2026-08-11T20:47:44.052000+00:00] kaizen | 1536838552736895147
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536838552736895147
+im missing an arm or smth
+
+[2026-08-12T04:35:24.572000+00:00] kaizen | 1536956247088168970
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536956247088168970
+<@1463100226318368874> when you could
+
+[2026-08-12T04:35:30.434000+00:00] kaizen | 1536956271675310150
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536956271675310150
+id like to completely restart my character
+
+[2026-08-12T04:35:40.854000+00:00] kaizen | 1536956315379957830
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536956315379957830
+i feel like i look too much of a man or main character
+
+[2026-08-12T04:35:55.427000+00:00] kaizen | 1536956376503423038
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536956376503423038
+i look strong yk
+
+[2026-08-12T04:35:57.846000+00:00] kaizen | 1536956386649440267
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536956386649440267
+thats how i feel
+
+[2026-08-12T04:52:58.194000+00:00] kaizen | 1536960666299142144
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536960666299142144
+is better IMO since i dont look all that strong
+
+[2026-08-12T05:04:40.802000+00:00] kaizen | 1536963613250691174
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1536963613250691174
+yoo also my negative prompt (this is recommended for all characters) is "**(worst quality, low quality, blurry:1.3), low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render, ((line, outline)), face only, big head, Bad mouth, unnatural mouth, bad eyes, bad chin, unnatural chin**"
+
+[2026-08-15T10:36:50.213000+00:00] kaizen | 1538134366855897179
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538134366855897179
+i want Mystia
+
+[2026-08-15T10:37:11.362000+00:00] kaizen | 1538134455561228328
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538134455561228328
+<@1187513925739237408> <@1538115083513761813>
+
+[2026-08-15T10:47:17.631000+00:00] Riven | 1538136998437462076
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538136998437462076
+wha
+
+[2026-08-15T10:48:25.400000+00:00] kaizen | 1538137282681512036
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538137282681512036
+im asking for my class
+
+[2026-08-15T10:48:27.875000+00:00] kaizen | 1538137293062144003
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538137293062144003
+mystia
+
+[2026-08-15T11:00:27.073000+00:00] kaizen | 1538140309597323366
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538140309597323366
+<@1538115083513761813> can i have it
+
+[2026-08-15T11:03:01.090000+00:00] Riven | 1538140955591446589
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538140955591446589
+Reply to: 1538140309597323366
+Yea
+
+[2026-08-15T11:03:33.319000+00:00] kaizen | 1538141090769801256
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538141090769801256
+okay
+
+[2026-08-15T11:04:06.645000+00:00] Riven | 1538141230549180488
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538141230549180488
+**you are now named : Kaizen Mystia, the ability to control a person's mind : your current aro is not yet awakened nor growing you'll need to play AT least one story to awaken **
+
+[2026-08-15T11:41:35.879000+00:00] kaizen | 1538150664520339456
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538150664520339456
+Surname: Sethren 
+Name: Falko
+Possible nickname??: Hollowcoat
+Age:20 
+Sex: Male 
+Height: 6’0” 
+Weight: 178 lbs 
+Description:
+Muscular yet wiry build, his frame leaner than most fighters of similar stature, broad shouldered yet with less bulk evident in his arms. Overall, sturdy and healthy, but with more endurance than strength.
+Most distinguishing features:
+Long dark brown layered hair which is parted unevenly and falls messily around his face, with a thick rat tail falling from the back of his head down around his neck. Bangs hang unevenly from the front in thick clumps and strands, with others constantly falling around his ears and shoulders. His face is lean and angular, with a strong jaw and a pronounced, straight nose. His cheek bones are visible, giving him a hollow look to his cheeks, and his eyebrows are thick and uneven. His eyes are narrow and set deeply, and shadowed with heavy upper lids, giving him a perpetually tired and unapproachable look. Heavy stubble covers his jaw line, and a messier goatee hangs from his chin, with only a few days’ worth of growth on his upper lip. His eyes are a muted brown color, and often seem aloof and detached, more often than not tired, dull and irritable. Other distinguishing features are the dented shoulder bit he wears, the torn cloak slung over his right shoulder, the constant cigarette dangling from his lips, the small inconspicuous earring at the top of his left ear, the abraded knuckles from his workman’s gloves, the unkempt and stubbly jaw and the constant loose strands of hair falling around his face.
+
+[2026-08-15T11:41:36.779000+00:00] kaizen | 1538150668295217152
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538150668295217152
+Wears:
+A torn and frayed dark cloak, which is worn with a fur hood slung over his head and around his shoulders. Underneath a long heavy fur coat, with a large fur hood that usually hangs around his neck and over his shoulders. He wears fingerless gloves, worn leather boots, with his trousers tucked into them, a slim belt holding a few pouches with useful items at his waist. His clothes are all dark, in muted colors of grey and brown, with touches of silver, and are worn and patched in several places, showing age and use.
+Overall impression:
+He looks like someone who has spent a lifetime surviving in the wilderness and not a single day wasted on frivolous pursuits. All of his clothes are worn but serve a purpose, and everything about him speaks of a man used to working with his hands and living outdoors. He has a rugged appeal, but nothing overly heroic about him, with the unkempt dark hair, the tired eyes, the worn leather clothing and the generally unkempt appearance. He looks like a survivor, not a noble champion of any cause. He carries himself casually, leaning against things frequently and with one hand constantly in his coat pocket, giving him an easygoing but also indifferent appearance, until he has to do something that requires purposeful movement, in which case he moves with a certain economy of motion and appears more serious and focused.
+
+[2026-08-15T11:42:54.136000+00:00] kaizen | 1538150992753725460
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538150992753725460
+thats old prompt
+
+[2026-08-15T13:00:54.400000+00:00] kaizen | 1538170623203999744
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538170623203999744
+Ragnar
+
+[2026-08-15T13:01:09.421000+00:00] kaizen | 1538170686206517268
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538170686206517268
+would be my wolfs name
+
+[2026-08-15T13:01:14.589000+00:00] Riven | 1538170707882807326
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538170707882807326
+**Ragnar obtained**
+
+[2026-08-15T13:01:25.135000+00:00] kaizen | 1538170752115937400
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538170752115937400
+thank you
+
+[2026-08-15T13:05:01.546000+00:00] kaizen | 1538171659809460234
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538171659809460234
+Ragnar scion of loki, devourer of souls
+
+[2026-08-15T13:32:42.125000+00:00] kaizen | 1538178624782598258
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538178624782598258
+Reply to: 1538178572814917754
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**Ragnar learnt to stop when you say no no matter the situation, and he learnt to attack when you clap twice**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-08-15T13:32:29.735000+00:00", "type": 19}}
+
+[2026-08-15T13:36:25.249000+00:00] kaizen | 1538179560632488016
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538179560632488016
+Reply to: 1538179428709048402
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**Ragnar eats anything**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-08-15T13:35:53.796000+00:00", "type": 19}}
+
+[2026-08-15T14:09:31.904000+00:00] kaizen | 1538187893267365961
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538187893267365961
+Reply to: 1538187679089557514
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1538187893070241802", "original_content_type": "image/png", "placeholder": "ifcBDYCGgXhfNkmEmliosDVgFAUh", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1538187893070241802/content.png?ex=6aea93db&is=6ae9425b&hm=b9da840670b840db00a9f02251ba74df33328f5a909faa40594e38ed0e236af5&", "size": 3219421, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1538187893070241802/content.png?ex=6aea93db&is=6ae9425b&hm=b9da840670b840db00a9f02251ba74df33328f5a909faa40594e38ed0e236af5&", "width": 1536}], "components": [], "content": "**your vehicle comes with many great capabilities : Costed : 7 VIP**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "9e537790feeb756d2c148251ec601cfc", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "Lord_Tanishk", "id": "977420155120410624", "primary_guild": null, "public_flags": 0, "username": "lord_tanishk"}], "timestamp": "2026-08-15T14:08:40.840000+00:00", "type": 19}}
+
+[2026-08-15T14:33:42.568000+00:00] kaizen | 1538193977793191966
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538193977793191966
+Reply to: 1538191138391982080
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1538193977168105572", "original_content_type": "image/png", "placeholder": "yAcGBYATZ3lPhYiVeGeZZJSAQGMG", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1538193977168105572/content.png?ex=6aea9986&is=6ae94806&hm=ae050bc6df77c0f6ac82827d4a39e53be86246a5c1ad3d14f3938e3034b28354&", "size": 2927641, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1538193977168105572/content.png?ex=6aea9986&is=6ae94806&hm=ae050bc6df77c0f6ac82827d4a39e53be86246a5c1ad3d14f3938e3034b28354&", "width": 1536}], "components": [], "content": "**The house you can buy**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-15T14:22:25.602000+00:00", "type": 19}}
+
+[2026-08-15T14:33:50.496000+00:00] kaizen | 1538194011045625936
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538194011045625936
+Veloria - ai
+
+[2026-08-15T14:51:51.249000+00:00] kaizen | 1538198544052392026
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538198544052392026
+Reply to: 1538198490981728297
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1538198543742009364", "original_content_type": "image/png", "placeholder": "BAgCBYA5QJt8iHh2eUmok5efu/rK", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1538198543742009364/content.png?ex=6aea9dc7&is=6ae94c47&hm=f198001377fd58608b46f3b4e07ab9d9aec8c90f80e37f596054996c90b3c836&", "size": 2377903, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1538198543742009364/content.png?ex=6aea9dc7&is=6ae94c47&hm=f198001377fd58608b46f3b4e07ab9d9aec8c90f80e37f596054996c90b3c836&", "width": 1536}], "components": [], "content": "", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-08-15T14:51:38.596000+00:00", "type": 19}}
+
+[2026-08-15T14:55:22.367000+00:00] kaizen | 1538199429545205860
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538199429545205860
+Reply to: 1538199344744890478
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1538199429239144489", "original_content_type": "image/png", "placeholder": "RQgGDYJfYiWsd4eZdXaGdn+p+Zea", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1538199429239144489/content.png?ex=6aea9e9a&is=6ae94d1a&hm=82a2f73574cbea673cd34483cca681f49679b144db5b05f1bd49c669a9b92f26&", "size": 2353046, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1538199429239144489/content.png?ex=6aea9e9a&is=6ae94d1a&hm=82a2f73574cbea673cd34483cca681f49679b144db5b05f1bd49c669a9b92f26&", "width": 1536}], "components": [], "content": "", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-15T14:55:02.149000+00:00", "type": 19}}
+
+[2026-08-15T23:42:59.968000+00:00] kaizen | 1538332211147968532
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538332211147968532
+Reply to: 1538331767109451927
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "C89DB370-550C-4431-B4FB-A3D0E10A8CBD.png", "height": 1024, "id": "1538332210787131392", "placeholder": "hhgCDYBpWleIiWeAeIZ2kVqZwHcI", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1538332210787131392/C89DB370-550C-4431-B4FB-A3D0E10A8CBD.png?ex=6aea7183&is=6ae92003&hm=4629a0e1829dfeecfcacd4ff6d1d12b5e4c0d62cafb84d21ac25dbee1065abc5&", "size": 2195856, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1538332210787131392/C89DB370-550C-4431-B4FB-A3D0E10A8CBD.png?ex=6aea7183&is=6ae92003&hm=4629a0e1829dfeecfcacd4ff6d1d12b5e4c0d62cafb84d21ac25dbee1065abc5&", "width": 1536}], "components": [], "content": "", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-08-15T23:41:14.101000+00:00", "type": 19}}
+
+[2026-08-16T01:31:56.799000+00:00] Riven | 1538359628604383252
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538359628604383252
+bro
+
+[2026-08-16T01:32:00.450000+00:00] Riven | 1538359643917783141
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538359643917783141
+its just a room 😹
+
+[2026-08-16T01:35:04.241000+00:00] kaizen | 1538360414792982548
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538360414792982548
+😂 ✌️
+
+[2026-08-16T09:53:22.256000+00:00] kaizen | 1538485816156889128
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538485816156889128
+<@1538115083513761813> <@1187513925739237408> cant send images here
+
+[2026-08-16T09:53:37.427000+00:00] kaizen | 1538485879788806225
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538485879788806225
+its kinda required i have that permission here
+
+[2026-08-16T09:54:50.136000+00:00] civic | 1538486184752316476
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1538486184752316476
+Reply to: 1538485816156889128
+try now
+
+[2026-08-18T02:28:14.409000+00:00] Riven | 1539098571058446356
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539098571058446356
+i did
+
+[2026-08-18T07:17:29.574000+00:00] Riven | 1539171363896688710
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539171363896688710
+i created a faction
+
+[2026-08-18T07:17:31.474000+00:00] Riven | 1539171371865739354
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539171371865739354
+why am i in it tho
+
+[2026-08-18T07:20:07.518000+00:00] kaizen | 1539172026361839636
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539172026361839636
+which faction
+
+[2026-08-18T07:20:25.428000+00:00] kaizen | 1539172101481562152
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539172101481562152
+ill fix it dw
+
+[2026-08-18T07:20:39.100000+00:00] kaizen | 1539172158826225735
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539172158826225735
+make it so you only need to create one and admins can force people in them
+
+[2026-08-20T10:05:27.754000+00:00] kaizen | 1539938410578321530
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539938410578321530
+
+File (saved): attachments/1535267861113602058/1539938410578321530/1539938410653941900_image.png
+
+[2026-08-20T10:05:29.931000+00:00] kaizen | 1539938419709313124
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539938419709313124
+pure aura
+
+[2026-08-20T10:15:05.545000+00:00] civic | 1539940834009686036
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539940834009686036
+see
+
+[2026-08-20T10:15:15.844000+00:00] civic | 1539940877206556742
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539940877206556742
+no eyes and a freakish long tongue
+
+[2026-08-20T10:15:21.543000+00:00] civic | 1539940901110153227
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539940901110153227
+i had a vision
+
+[2026-08-20T11:55:04.276000+00:00] ?̷͊͋̆͝?̸͐̎̋̕ | 1539965994511106099
+Author ID: 1537580093759692893
+https://discord.com/channels/1535189086258855946/1535267861113602058/1539965994511106099
+wag
+
+[2026-08-21T11:07:19.709000+00:00] kaizen | 1540316367511879700
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540316367511879700
+If Mystia won't give me power, I'll become strong enough that I don't need it.
+
+[2026-08-21T11:07:29.940000+00:00] kaizen | 1540316410423681045
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540316410423681045
+- Kaizen Mystia
+
+[2026-08-21T11:07:33.488000+00:00] kaizen | 1540316425304932383
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540316425304932383
+2026
+
+[2026-08-21T12:36:29.224000+00:00] kaizen | 1540338805003788399
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540338805003788399
+Reply to: 1540338489390796841
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1540338805041791048", "original_content_type": "image/png", "placeholder": "xwcCDYB9SYevl6aJqwqYgXqHv6j4", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1540338805041791048/content.png?ex=6aea7e0d&is=6ae92c8d&hm=21eea30631a08b3b6610786b7d5c24f07f9971e4900cd695b84f8c675b5a7375&", "size": 3213508, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1540338805041791048/content.png?ex=6aea7e0d&is=6ae92c8d&hm=21eea30631a08b3b6610786b7d5c24f07f9971e4900cd695b84f8c675b5a7375&", "width": 1536}], "components": [], "content": "**Rooms Upgrades and Facilitites**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-21T12:35:13.976000+00:00", "type": 0}}
+
+[2026-08-21T13:11:27.913000+00:00] kaizen | 1540347607543578706
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540347607543578706
+Reply to: 1540347515856093245
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1540347607199649872", "original_content_type": "image/png", "placeholder": "hxgCBYADd7dzq2RzqGRXoQQ1TEC0", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1540347607199649872/content.png?ex=6aea863f&is=6ae934bf&hm=c3f26dacadd4e49364ff1c0410ff1b94b74a73b232f0927d2a77df33ca81f866&", "size": 3052178, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1540347607199649872/content.png?ex=6aea863f&is=6ae934bf&hm=c3f26dacadd4e49364ff1c0410ff1b94b74a73b232f0927d2a77df33ca81f866&", "width": 1536}], "components": [], "content": "**Ragnar**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-21T13:11:06.053000+00:00", "type": 0}}
+
+[2026-08-22T09:28:04.055000+00:00] kaizen | 1540653775553830953
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540653775553830953
+Reply to: 1540653545026621480
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1402, "id": "1540653775294038026", "original_content_type": "image/png", "placeholder": "higKHgYHyEeoZ4d4eHZ5d3iHB4R4QIg=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1540653775294038026/content.png?ex=6aeafaa3&is=6ae9a923&hm=3da967861503c462a5234b627023742a0166a1c548fb559081fac652ab022cb8&", "size": 2166322, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1540653775294038026/content.png?ex=6aeafaa3&is=6ae9a923&hm=3da967861503c462a5234b627023742a0166a1c548fb559081fac652ab022cb8&", "width": 1122}], "components": [], "content": "**DM SPAWN : JERIAL SWORD **\n\n**Rarity : Mythical +++**\n**Abilitites : 5**\n\n**6 seconds to claim**\n\n**In order to get say : Claim \"Name of the item\"**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-22T09:22:33.406000+00:00", "type": 0}}
+
+[2026-08-22T09:57:03.472000+00:00] Draven | 1540661071197634561
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540661071197634561
+**Ability 1 : Mind set : Ability alters your brain to go from people to people who are close to you this allows you to gain knowledge from other people's perspective**
+
+**Ability 2: Mind control :Normal mind control lasts 10 seconds**
+
+[2026-08-22T09:57:36.845000+00:00] civic | 1540661211174150155
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540661211174150155
+Reply to: 1540661071197634561
+it sohuld be extremely unstable
+
+[2026-08-22T09:57:38.388000+00:00] civic | 1540661217645957182
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540661217645957182
+and unreliable
+
+[2026-08-22T09:57:42.260000+00:00] civic | 1540661233886171167
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540661233886171167
+cuz of his poor aro connection
+
+[2026-08-22T10:01:12.715000+00:00] civic | 1540662116598546432
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540662116598546432
+Reply to: 1540653775553830953
+cant hold ts while ur gooning to valentine btw
+
+[2026-08-22T10:01:15.125000+00:00] civic | 1540662126706819103
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540662126706819103
+😂
+
+[2026-08-22T10:24:24.759000+00:00] kaizen | 1540667955254136952
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540667955254136952
+adding a look for it too dw
+
+[2026-08-22T10:39:20.950000+00:00] kaizen | 1540671714151632916
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540671714151632916
+Reply to: 1540670699981766716
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**Upgrading AI : Downloading new modified suits : Slime Suit : A small item that can' be kept in your pocket and once needed can be used it can fully fit your skeletal body giving you a new suit, slime suit has upgraded modifier and can create an extra slime limb but once suit is taken off the limb disappears**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-22T10:35:19.153000+00:00", "type": 0}}
+
+[2026-08-22T10:40:34.732000+00:00] kaizen | 1540672023615770705
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540672023615770705
+Reply to: 1540671840488398848
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1402, "id": "1540672023163052032", "original_content_type": "image/png", "placeholder": "xQcCBgBFx91px7tkqJVolFcKuJlPt/o=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1540672023163052032/content.png?ex=6aea62e2&is=6ae91162&hm=1ceb5ae07141cf7a643fb4b346ce0349e28cdbf577bd9ec9062f0c8e42ad1e5c&", "size": 2722850, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1540672023163052032/content.png?ex=6aea62e2&is=6ae91162&hm=1ceb5ae07141cf7a643fb4b346ce0349e28cdbf577bd9ec9062f0c8e42ad1e5c&", "width": 1122}], "components": [], "content": "**AI FULLY upgraded**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-22T10:39:51.071000+00:00", "type": 0}}
+
+[2026-08-22T10:40:48.279000+00:00] kaizen | 1540672080436007013
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540672080436007013
+<@1538115083513761813> can you make my arm now?
+
+[2026-08-22T10:40:51.373000+00:00] kaizen | 1540672093413310475
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540672093413310475
+;-;
+
+[2026-08-22T10:44:08.628000+00:00] kaizen | 1540672920760877129
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540672920760877129
+A heavily reinforced robotic prosthetic extending from my shoulder, built for heavy weapons and extreme combat. It features a retractable grappling hook that can pull me toward enemies or drag enemies toward me, with Grapple Slingshot allowing me to launch myself toward targets at extreme speed. A Morphing Blade Socket compresses five long curved claws into a single needle-sharp ballistic spike; upon impact, the spike unfolds into five curved blades that anchor into targets and form a functional mechanical hand, with four blades as fingers and one as an opposing thumb. The arm has Weapon Lock for securing oversized weapons, Siege Mode with forearm braces and a shoulder lock, Impact Storage to absorb and release force, Momentum Bank to store momentum from heavy attacks and add it to the next strike, Recoil Conversion to turn weapon recoil into additional movement or force, retractable Anchor Claws, Force-Assisted Swing to accelerate heavy weapons, and a Gyroscopic Stabilizer to control vibration and momentum. It also features an Emergency Clamp that lets the forearm lock around a weapon if grip is lost, a lockable rotating wrist, layered armor, exposed pistons, reinforced joints, powerful mechanical grip, modular weapon mounts, and an intimidating advanced mechanical design.
+
+[2026-08-22T10:44:09.551000+00:00] kaizen | 1540672924632219648
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540672924632219648
+design: A massive, heavily reinforced robotic prosthetic extending directly from the shoulder, built like a brutal heavy-weapons platform. Dark layered armor plates cover exposed pistons, hydraulic mechanisms, reinforced joints, and rotating mechanical components. The forearm houses a concealed grappling launcher and retractable anchor claws, while the hand consists of powerful articulated metal fingers capable of locking around oversized weapons.
+
+The wrist is thick and rotational, able to completely lock in place, while the forearm can unfold into reinforced Siege Mode braces that clamp around a weapon and connect its weight directly into the shoulder. The prosthetic contains a Morphing Blade Socket, where five long curved claws compress into a single needle-like ballistic spike before unfolding into a five-bladed mechanical hand upon impact.
+
+Heavy cables, modular weapon mounts, locking mechanisms, and compact gyroscopic systems are integrated throughout the arm. Its construction is rugged and intimidating, with scratched metal, exposed machinery, reinforced plating, and a powerful industrial silhouette designed to withstand enormous recoil, momentum, and the weight of weapons far beyond normal human limits.
+
+[2026-08-22T13:43:57.217000+00:00] kaizen | 1540718171382616165
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540718171382616165
+
+File (saved): attachments/1535267861113602058/1540718171382616165/1540718171089145936_image.png
+
+[2026-08-23T07:52:12.949000+00:00] kaizen | 1540992041532784671
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992041532784671
+Reply to: 1540653775553830953
+<@1187513925739237408>
+
+[2026-08-23T07:52:28.168000+00:00] civic | 1540992105365897226
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992105365897226
+Reply to: 1540992041532784671
+shojuld it suit the needs of ur missing arm
+
+[2026-08-23T07:52:42.522000+00:00] kaizen | 1540992165570682890
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992165570682890
+i mean idc
+
+[2026-08-23T07:52:48.957000+00:00] kaizen | 1540992192561020938
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992192561020938
+your choice youre a writer
+
+[2026-08-23T07:52:51.396000+00:00] kaizen | 1540992202791190628
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992202791190628
+im happy with whatever
+
+[2026-08-23T07:53:04.515000+00:00] kaizen | 1540992257816006677
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992257816006677
+i mean its 2 rarities above the vespa horn so its really good
+
+[2026-08-23T07:53:11.533000+00:00] kaizen | 1540992287251767376
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992287251767376
+canonically worth 500K VIP points
+
+[2026-08-23T07:53:30.847000+00:00] kaizen | 1540992368260550728
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992368260550728
+Reply to: 1540927654398533713
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "51348D87-F88B-41FE-9452-D18F3A34F48B.png", "height": 1122, "id": "1540992367991984218", "placeholder": "BAgCBoAE2gR7l6aIl5WoV5d5XzLwIxM=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1535267861113602058/1540992367991984218/51348D87-F88B-41FE-9452-D18F3A34F48B.png?ex=6aeae47a&is=6ae992fa&hm=51c86d430ca1f57143e72c95f2523822fa0966b3211cc610b5aa708df9cc8a0f&", "size": 2127866, "url": "https://cdn.discordapp.com/attachments/1535267861113602058/1540992367991984218/51348D87-F88B-41FE-9452-D18F3A34F48B.png?ex=6aeae47a&is=6ae992fa&hm=51c86d430ca1f57143e72c95f2523822fa0966b3211cc610b5aa708df9cc8a0f&", "width": 1402}], "components": [], "content": "A masked man comes to you offering 500K VIP card for your weapon", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-08-23T03:36:21.860000+00:00", "type": 19}}
+
+[2026-08-23T07:54:35.743000+00:00] kaizen | 1540992640454230037
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1540992640454230037
+30,000,000,000  gold
+
+[2026-08-23T10:31:09.274000+00:00] kaizen | 1541032039778615418
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541032039778615418
+wallah ragebait
+
+[2026-08-24T09:17:09.810000+00:00] kaizen | 1541375807182864547
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541375807182864547
+<@1311460994660306996>
+
+[2026-08-24T09:17:19.516000+00:00] kaizen | 1541375847892521100
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541375847892521100
+how to learn sword abilities
+
+[2026-08-24T09:17:23.474000+00:00] kaizen | 1541375864493703228
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541375864493703228
+i have 2 arms now
+
+[2026-08-24T09:31:24.097000+00:00] Riven | 1541379390322253864
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541379390322253864
+weapon isn't there to be unlocked its there to be used as an advantage
+
+[2026-08-25T10:11:48.113000+00:00] Riven | 1541751945247854694
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541751945247854694
+Reply to: 1535854435345891368
+remaking
+
+[2026-08-25T10:16:17.429000+00:00] Riven | 1541753074840768602
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541753074840768602
+Reply to: 1541751945247854694
+remade
+File (saved): attachments/1535267861113602058/1541753074840768602/1541753074476122252_content.png
+
+[2026-08-25T10:16:38.215000+00:00] kaizen | 1541753162023698533
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541753162023698533
+Reply to: 1541753074840768602
+send in general pls
+
+[2026-08-25T10:16:40.480000+00:00] kaizen | 1541753171523670077
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1541753171523670077
+aurafarming
+

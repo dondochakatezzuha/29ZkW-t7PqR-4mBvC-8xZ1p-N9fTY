@@ -1,0 +1,57 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Fusion_Register/0005.md
+Category: powers | Collection: Fusion Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0005
+
+Source: `Archive/Original_Texts/Reference/Fusion_Register.txt`  
+Lines: 152–196  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+The working Adarlok roster remains Kaizen, Toby, Abraxas, Max, real Dargen, Mariam and Loki, with the previously retained Platonic Dargen record. Mariam and Loki's completed October 26 returns supersede older exclusions. Adelram remains outside. Arlo's self-reported departure and independent scenes stand; his accepted return requests remain unresolved. No new combined numerical rank or multiplier is established.
+
+Adelram says not everyone has the discussed system and that X is not responding to Kaizen. Kaizen replies "Merge" and later says it will respond if they are merged. These are a request and a player prediction, not a completed Adelram merge, a response from X, or a GM ruling granting unrestricted system access. Keep X's exact identity and this access claim unresolved here.
+
+Kaizen proposes using J to analyse Loki and his manipulations, speaking to Paja face to face, evolving Jinka and fighting Olim. None is completed in the captured interval. Kaizen says Olim has White Flames; Draven responds to the danger of that premise, but no Olim battle, new ownership award or Grey/White winner is shown. Preserve the earlier sourced Olim record separately from this exchange.
+
+Draven's suggestion involving Null and Paja is out-of-character discussion, not a narrated act or an outcome for either character. Toby is reminded of his children; that is not a new child creation, power award or action by the children. Croco's later correction of the wording about luck is conversational, not a Luck-system mechanic. Draven and Croco are posting account attributions; the account name alone does not establish that every comment is canon or that a particular operator wrote it.
+Sources: 1564464154885234792, 1564464174166310975, 1564476871318437999, 1564478014501429300, 1564478534322356235, 1564478577322238084, 1564478593520893973, 1564481143670186075, 1564481229846216836, 1564514373119119451, 1564514443604393987, 1564514571073355776, 1564515495623921765, 1564515521809088613, 1564520953189507073
+
+PRIOR SOURCE HISTORY
+
+FUSION REGISTER - v46; seven working real members, Arlo return pending
+
+46.1 MERGE OWNERSHIP AND REQUESTS VERSUS COMPLETED RETURNS
+
+Mariam's merge and Loki's later merge are explicit resolved additions. Arlo's departure is reported by Arlo himself and corroborated by his independent scenes; its exact activation moment is not captured. His accepted remerge requests remain pending. Do not grant Arlo's racial, eye or companion contributions to the current working assembly on acceptance alone. Adelram's Time Branch and Sovereign Fracture remain his individual powers outside Adarlok.
+
+Current working real membership: Kaizen, Toby, Abraxas, Max, Dargen, Mariam, Loki. Retain the prior Platonic Dargen record unless a later resolved event removes it. Mariam's new contribution is narrowly described as Stellar powers plus the disputed "16x(2) tgc eyes" phrase; this is not confirmation of numbered Secret Eyes or a new Genesis award. Loki's completed merge supplies his current contribution while he remains a member. No permanent distribution to every individual is demonstrated by the merge itself.
+
+Apply the user's retention exception only to abilities actually unlocked with J AND distributed using the Max Method. Mere presence, a player claim or a plan to acquire Caelen's powers does not satisfy it. No post-Loki-merge combined numeric multiplier or ranking is supplied. Historical status tables remain dated and Loki's prior conflicting maximum values remain unresolved.
+
+Sources:
+Croco | 2026-10-26T11:36:38.509Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241343583363093
+kaizen | 2026-10-26T11:37:03.446Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241448176459819
+kaizen | 2026-10-26T11:37:05.816Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241458117218365
+Arlo | 2026-10-26T11:49:12.710Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244506931499143
+Arlo | 2026-10-26T11:49:21.986Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244545837867029
+Arlo | 2026-10-26T12:02:24.475Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564247827834609855
+Arlo | 2026-10-26T12:07:05.446Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564249006312521802
+Croco | 2026-10-26T12:07:51.830Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564249200860991569
+Arlo | 2026-10-26T12:09:38.394Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564249647822798914
+
+46.2 MAX ENERGY ABSORPTION AND ARCHIVED CONTAINMENT DESIGNS
+
+J identifies the metallic storage cylinder as a separate reserve, not part of the main containment system. Its compressed energy circulates through independently regulated layers at stable pressure. The preserved records contain enough structural information to attempt a replica using Max's energy manipulation; no replica is actually built here.
+

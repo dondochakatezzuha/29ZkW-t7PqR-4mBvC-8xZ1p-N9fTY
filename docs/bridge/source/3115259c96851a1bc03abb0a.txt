@@ -1,0 +1,44 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Eye_Register/0000.md
+Category: powers | Collection: Eye Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0000
+
+Source: `Archive/Original_Texts/Reference/Eye_Register.txt`  
+Lines: 1–32  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+v52 DATED CLARIFICATIONS
+
+2. Null Zone access, Kael and the WhiteCell correction
+
+Kaizen's first seated Aro Zone attempt produces darkness. Standing, closing his eyes and focusing on Null Zone makes the heart-beam respond; Null opens the way and Kaizen enters the grassy realm at 09:12 UTC. This resolves the recent interruption in access. It does not establish a universal posture requirement or a new Null ability for other characters.
+
+Null says Kael is a name by which he has been known. This is an explicit NPC self-identification. Kaizen later groups Kael Nullborn, Kevin Aurther and Kael Moon together, but that player statement alone does not independently reconcile every historical identity. Null's appearance and dialogue should not be treated as proof of every prior theory about his origins.
+
+At 10:06 Null explicitly corrects the first-meeting sensation: Kaizen felt Null's presence and the connection to his consciousness, not WhiteCell. Retain older WhiteCell references as history, but do not list that sensation as a WhiteCell acquisition. No new WhiteCell recipe, ownership or usable technique is awarded here.
+
+At 10:24 Null says the realm admits Kaizen alone: neither the nine tails nor a person possessing his body can enter. At 10:49 Croco nevertheless narrates Draven appearing inside and dancing; Null repeatedly calls this impossible. At 10:52 Draven is gone and Null remains bewildered. Both the restriction and the contradictory intrusion are retained. There is no explained bypass, transferable entry method, or general revocation of exclusivity. Do not silently discard the event, but do not turn this unexplained comedic narration into universal access.
+Sources: 1565288077444907070, 1565289376009945180, 1565290733437714485, 1565292189532029019, 1565293918109700239, 1565305799683612673, 1565310232173748276, 1565316726139125761, 1565317461346357309, 1565320154143920289
+
+3. Kaizen learns basic Energy Manipulation
+
+Null teaches Kaizen using an independent blue energy sphere and asks him to sense it without Oasis or other abilities. Energy control does not create an infinite supply. The four-sphere exercise distinguishes quantity, intensity and different sensations: the cold fourth sphere is the densest, and density is not simply equivalent to needing more energy. Null says there is no shortcut to mastery.
+
+The progression is concrete: a few centimetres of movement, then steady movement over several metres, then return to the exact starting position with concentration. At 10:17 the sphere strikes his chest, stops his heart and leaves him lifeless for seconds; Null restores him with a thought. Kaizen resumes training alive. This is a narrated incident inside Null Zone, not permanent character death or a resurrection power granted to Kaizen.
+
+Predator's Eye improves perception of small fluctuations, allowing a complete smooth rotation around his body. Null stresses that perception assists control rather than replacing it. With the eye deactivated, the sphere trembles halfway through but Kaizen stabilizes it and completes the rotation. At 11:01 he increases speed, briefly corrects a wobble and completes three rapid rotations without losing precision. Null proposes a harder exercise involving the remaining spheres; its result is not yet shown.
+
+These are basic demonstrated Energy Manipulation skills, not full mastery, a new numeric level, Time Tree access or an upgraded eye. Draven denies the asserted Time Tree access earlier in the discussion. The final ideas about nine tails, Mercury Null and a hypothetical 'byron mode' draining life force remain player suggestions, not an acquired mode or demonstrated combination.
+Sources: 1565296607732305971, 1565304135991955477, 1565306378934034576, 1565307666564124844, 1565308665647603723, 1565312392009621625, 1565314610444238851, 1565316113066102899, 1565317461346357309, 1565318703011201167, 1565319703638052899, 1565238133610651699, 1565320343642579036, 1565320361531277385
+
+9. Damien, Azreal, Maeve and Athena
+
+Azreal wins the first physical round against Damien. Damien subsequently shows blue eyes during improved blocking/strategy; no new numbered eye or Cell is identified. Staff transformations/clones, levitation and feints occur, while Azreal uses shadow intangibility. K estimates Damien's IQ as 2665 and Azreal's as 3372: these are in-fiction system estimates, not real psychological measurements. A staff collision explodes across the arena; both boys remain conscious with minor injuries. Varkhazar emerges from Loki's skin to shield Maeve and Athena.
+
+Azreal's green eyes activate an automatic defence against Loki's attacks. K attributes it to Aviala's bloodline as former Queen of the North; the exact ability name remains unknown. This is not an award of GreenCell, Time Stone or an identified TGC eye. Tests show attacks fast enough to exceed his reactions can bypass it, and Loki stops before impact. The eyes return to normal. Deliberate activation and complete invulnerability are not established.
+
+Maeve first struggles with stance, punches and teleportation and becomes discouraged. After Loki asks K to train her, the 10:41 scene shows an effective combination: teleport behind Loki, staff strike, Shadow Form through his body, punch, then swap positions with her staff and kick while K controls Loki's body. K says she outsmarted him using techniques learned minutes earlier. This is successful training and a specific landed combination, not proof she is stronger than every character. The actual result supersedes her initial inability. Her staff, teleportation, Shadow Form and position-swap belong in her own entry.
+

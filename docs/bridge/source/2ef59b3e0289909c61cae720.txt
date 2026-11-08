@@ -1,0 +1,68 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/TGC_Lore_Guide/0001.md
+Category: lore | Collection: TGC Lore Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0001
+
+Source: `Archive/Original_Texts/Reference/TGC_Lore_Guide.txt`  
+Lines: 59–114  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Null says Kael is a name by which he has been known. This is an explicit NPC self-identification. Kaizen later groups Kael Nullborn, Kevin Aurther and Kael Moon together, but that player statement alone does not independently reconcile every historical identity. Null's appearance and dialogue should not be treated as proof of every prior theory about his origins.
+
+At 10:06 Null explicitly corrects the first-meeting sensation: Kaizen felt Null's presence and the connection to his consciousness, not WhiteCell. Retain older WhiteCell references as history, but do not list that sensation as a WhiteCell acquisition. No new WhiteCell recipe, ownership or usable technique is awarded here.
+
+At 10:24 Null says the realm admits Kaizen alone: neither the nine tails nor a person possessing his body can enter. At 10:49 Croco nevertheless narrates Draven appearing inside and dancing; Null repeatedly calls this impossible. At 10:52 Draven is gone and Null remains bewildered. Both the restriction and the contradictory intrusion are retained. There is no explained bypass, transferable entry method, or general revocation of exclusivity. Do not silently discard the event, but do not turn this unexplained comedic narration into universal access.
+
+Sources:
+2026-10-29T08:55:59.309Z | Croco | 1565288077444907070
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565288077444907070
+2026-10-29T09:01:08.911Z | Croco | 1565289376009945180
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565289376009945180
+2026-10-29T09:06:32.547Z | Croco | 1565290733437714485
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565290733437714485
+2026-10-29T09:12:19.707Z | Croco | 1565292189532029019
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565292189532029019
+2026-10-29T09:19:11.832Z | Croco | 1565293918109700239
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565293918109700239
+2026-10-29T10:06:24.620Z | Croco | 1565305799683612673
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565305799683612673
+2026-10-29T10:24:01.408Z | Croco | 1565310232173748276
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565310232173748276
+2026-10-29T10:49:49.690Z | Croco | 1565316726139125761
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565316726139125761
+2026-10-29T10:52:44.977Z | Croco | 1565317461346357309
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565317461346357309
+2026-10-29T11:03:26.990Z | kaizen | 1565320154143920289
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565320154143920289
+
+3. Kaizen learns basic Energy Manipulation
+OBSERVED TRAINING PROGRESS, TEMPORARY DEATH AND RESTORED LIFE
+
+Null teaches Kaizen using an independent blue energy sphere and asks him to sense it without Oasis or other abilities. Energy control does not create an infinite supply. The four-sphere exercise distinguishes quantity, intensity and different sensations: the cold fourth sphere is the densest, and density is not simply equivalent to needing more energy. Null says there is no shortcut to mastery.
+
+The progression is concrete: a few centimetres of movement, then steady movement over several metres, then return to the exact starting position with concentration. At 10:17 the sphere strikes his chest, stops his heart and leaves him lifeless for seconds; Null restores him with a thought. Kaizen resumes training alive. This is a narrated incident inside Null Zone, not permanent character death or a resurrection power granted to Kaizen.
+
+Predator's Eye improves perception of small fluctuations, allowing a complete smooth rotation around his body. Null stresses that perception assists control rather than replacing it. With the eye deactivated, the sphere trembles halfway through but Kaizen stabilizes it and completes the rotation. At 11:01 he increases speed, briefly corrects a wobble and completes three rapid rotations without losing precision. Null proposes a harder exercise involving the remaining spheres; its result is not yet shown.
+
+These are basic demonstrated Energy Manipulation skills, not full mastery, a new numeric level, Time Tree access or an upgraded eye. Draven denies the asserted Time Tree access earlier in the discussion. The final ideas about nine tails, Mercury Null and a hypothetical 'byron mode' draining life force remain player suggestions, not an acquired mode or demonstrated combination.
+
+Sources:
+2026-10-29T09:29:53.088Z | Croco | 1565296607732305971
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565296607732305971
+2026-10-29T09:59:47.965Z | Croco | 1565304135991955477
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565304135991955477
+2026-10-29T10:08:42.724Z | Croco | 1565306378934034576
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565306378934034576
+2026-10-29T10:13:49.719Z | Croco | 1565307666564124844
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565307666564124844
+2026-10-29T10:17:47.919Z | Croco | 1565308665647603723
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565308665647603723
+2026-10-29T10:32:36.353Z | Croco | 1565312392009621625
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565312392009621625
+2026-10-29T10:41:25.269Z | Croco | 1565314610444238851
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565314610444238851
+2026-10-29T10:47:23.522Z | Croco | 1565316113066102899
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565316113066102899

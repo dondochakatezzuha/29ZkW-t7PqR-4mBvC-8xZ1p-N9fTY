@@ -1,0 +1,371 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/how-to-play_1542818571196047452/2026-08.txt
+Category: rules | Collection: How To Play
+Export content (not verified canon; see source context):
+
+#how-to-play | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-28T08:50:47.822000+00:00] Riven | 1542818723306541066
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542818723306541066
+# HOW TO PLAY / GAME GUIDE
+
+Welcome to the game! This is an **action-based RPG focused on character-driven storytelling**, similar to a simplified D&D-style experience.
+
+You do not need to be an expert writer. Just create a character, interact with the world, make choices, and react to what happens around you.
+
+━━━━━━━━━━━━━━━━━━━━
+
+## STEP 1 — CREATE YOUR CHARACTER
+
+Go to **<#1535189087760154671>** and create your character.
+
+Use this template:
+
+```yaml
+Age:
+Sex:
+Height:
+Weight:
+Description:
+Wears:
+```
+
+You do not need an extremely detailed character. Even a simple character can develop naturally throughout the story.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# HOW CHARACTER INTERACTIONS WORK
+
+You control **your character**, including their actions, dialogue, and decisions.
+
+### Dialogue
+
+```text
+Civic: "I'm not running from this."
+```
+
+### Actions
+
+```text
+Civic steps forward and raises his weapon.
+```
+
+### Combined Example
+
+```text
+Civic narrows his eyes, gripping his weapon tighter. "If you want a fight, you've got one."
+```
+
+## Do Not Control Other Players' Characters
+
+### Bad Example
+
+```text
+Civic punches Arlo and knocks him unconscious.
+```
+
+### Better Example
+
+```text
+Civic throws a punch toward John.
+```
+
+Let **John decide how his character reacts**, whether they dodge, block, or get hit.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# ACTION AND COMBAT
+
+Combat works through character interactions and your character's abilities.
+
+Describe what your character **tries to do** instead of automatically deciding the outcome.
+
+### Example
+
+```text
+Civic rushes toward the enemy and swings his sword toward their side.
+```
+
+The other player, Game Master, or staff can determine how the situation continues.
+
+Be creative. Your character is not limited to repeating the same attack over and over.
+
+[2026-08-28T08:50:58.680000+00:00] Riven | 1542818768848162836
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542818768848162836
+━━━━━━━━━━━━━━━━━━━━
+
+# CHARACTER DEATH
+
+Character death is a permanent part of the game.
+
+If your character dies, you must create a new character to continue playing. Your new character will begin their own story and will not inherit the previous character's progress, abilities, relationships, or achievements.
+
+Treat death seriously, make meaningful choices, and remember that every character's story can come to an end.
+
+[2026-08-28T08:51:15.073000+00:00] Riven | 1542818837605388392
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542818837605388392
+# ARO & CLASSES
+
+━━━━━━━━━━━━━━━━━━━━
+
+# WHAT IS ARO?
+
+**Aro is the conscious life essence that flows through every living being.**
+
+Your Aro is not just a source of power. It has its own consciousness and can make decisions based on your character's true nature.
+
+You **guide your Aro**, but you do not completely control it.
+
+Your choices, experiences, personality, and connection with your Aro can affect how it develops.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# THE 9 ARO CLASSES
+
+Once your Aro awakens, you will be randomly assigned **1 of 9 Classes**.
+
+You cannot choose or inherit your Class.
+
+Your Aro decides your path.
+
+### Aure
+
+The power to control the essence of **light** itself.
+
+### Tyreror
+
+The power to control all **liquids**, including water and even blood.
+
+### Infernia
+
+The power to control **flames**.
+
+White flames are extremely difficult to obtain and control.
+
+### Gravitos
+
+The power to control **gravity** itself.
+
+### Astria
+
+The power to manipulate **space**.
+
+### Mystia
+
+The power connected to controlling and manipulating **one's mind**.
+
+### Tempest
+
+The power to control **lightning**.
+
+### Class 8
+
+**CLASSIFIED**
+
+### Class 9
+
+**CLASSIFIED**
+
+> **Every Class has the potential to become powerful.**
+
+Your strength depends on how your Aro develops, how you train, your choices, and how you use your abilities.
+
+Two people with the same Class may become completely different in strength and abilities.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# ARO GROWTH
+
+Your Aro constantly reacts to who your character becomes.
+
+## Your Choices Matter
+
+Your actions can cause your Aro to:
+
+* Grow stronger
+* Become weaker
+* Develop differently from others with the same Class
+
+Your Aro reflects **who you truly are**, not just what Class you possess.
+
+━━━━━━━━━━━━━━━━━━━━
+
+[2026-08-28T08:51:43.858000+00:00] Riven | 1542818958338429070
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542818958338429070
+# ARO COLORS
+
+Check the current state of your Aro.
+
+**Red** — Your Aro is weakening.
+
+**Green** — Your Aro is growing stronger.
+
+**Blue** — Your Aro is close to awakening.
+
+**Yellow** — Your Aro is currently evolving.
+
+> Once your Aro awakens, the **Blue glow can never appear again**.
+
+[2026-08-28T08:51:51.653000+00:00] Riven | 1542818991033294868
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542818991033294868
+# ARO DEVELOPMENT
+
+━━━━━━━━━━━━━━━━━━━━
+
+# CONNECTING WITH YOUR ARO
+
+Before awakening, your character can communicate with their Aro and build a connection with it.
+
+The stronger and more genuine that connection is, the more potential your character may unlock.
+
+However, your Aro knows your character's **true intentions**.
+
+Trying to manipulate or connect with your Aro purely for power may actually weaken it.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# WHAT DOES MY ARO LOOK LIKE?
+
+Your Aro can take a form that your character wants it to have.
+
+It could appear as:
+
+* An animal
+* A creature
+* A humanoid
+* A strange spirit
+* A monster
+* Objects
+* Buildings
+* Something completely unique
+
+However, the form **cannot be NSFW**.
+
+Remember: even if your Aro takes a form you choose, it is still a **conscious life essence** with its own thoughts and decisions.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# ARO EVOLUTION
+
+As your character and Aro continue to grow, they may eventually reach a **Critical Evolution Point**.
+
+A rare **Yellow Evolution Stone** can completely rewrite an Aro.
+
+This may create:
+
+* A completely new Class
+* New abilities
+* New forms
+* Powers that have never existed before
+
+These Evolutions are shaped by your character's:
+
+* Personality
+* Experiences
+* Decisions
+* True nature
+
+Because of this, no two Evolutions are guaranteed to be the same.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# WHEN CAN I AWAKEN OR EVOLVE?
+
+There is no exact level where awakening or evolution must happen.
+
+It can happen:
+
+* Early in the story
+* During a major event
+* After significant character development
+* Much later in the storyline
+* On the verge of death
+
+Your character's actions and the direction of the story can influence when these moments occur.
+
+[2026-08-28T08:52:10.169000+00:00] Riven | 1542819068694761494
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542819068694761494
+# STORY & WORLD LORE
+
+━━━━━━━━━━━━━━━━━━━━
+
+# THE STORY — GAME 1
+
+Game 1 took place on **Aethelgard (Nova-7)** in the **RoR verse**.
+
+The main threat was **Vespa**, a powerful and highly intelligent man seeking to overcome the limitations of Aro.
+
+His goal was to gain access to power beyond those limitations and eventually reach a form known as **"The Final."**
+
+Players were recruited by the **SS**, whose main mission was to stop Vespa before he could obtain this power.
+
+However, the world contained far more than just the main storyline.
+
+Throughout Game 1, characters could explore, form relationships, fight enemies, train, uncover secrets, and discover hidden missions as the story developed.
+
+> **SPOILER ALERT:** The SS was completely destroyed, and almost all players died.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# THE ARO TITANS
+
+Long before the current events, the first being connected to Aro was **Mother Prana**.
+
+She is known as the original **Aro Titan** and the first being to possess Aro.
+
+There are **six Titans in total**, each connected to protecting the world.
+
+They are not gods. They are essentially **nature's final defense system**.
+
+The Titans normally remain dormant and only awaken if they believe their world is facing destruction.
+
+━━━━━━━━━━━━━━━━━━━━
+
+[2026-08-28T08:52:20.743000+00:00] Riven | 1542819113045458994
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542818571196047452/1542819113045458994
+# THE ETERNAL
+
+If all six Titans gather together, they can unleash **The Eternal**.
+
+This event creates a powerful blast that reaches into the sky, combining the power of all six Titans to create a **Seventh Titan**.
+
+The Seventh Titan can trigger a cosmic reset similar to a new Big Bang, destroying the old universe and beginning the cycle again.
+
+━━━━━━━━━━━━━━━━━━━━
+
+# THE MOST IMPORTANT RULE
+
+**Your character is yours.**
+
+Make choices.
+
+Develop relationships.
+
+Make enemies.
+
+Train.
+
+Fail.
+
+Change.
+
+Your character does not need to become the strongest person.
+
+The fun comes from watching them **grow throughout the story**.
+
+All you require is a brain.
+
+Just ask yourself:
+
+> **"What would my character do?"**
+
+Then write it and see where the story takes you.
+**btw always read lore (we have way too much dumb people already)**
+

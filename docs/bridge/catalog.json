@@ -1,11 +1,1621 @@
 {
-  "project": "TGC Knowledge Library",
-  "mode": "public GitHub Pages snapshot",
-  "partial": true,
-  "note": "Site initialized, awaiting approved exports from TGC Live Bridge. No character or Discord content is published yet. Missing data is not evidence of absence.",
-  "categories": [],
-  "included_files": 0,
-  "eligible_files": 0,
+  "categories": [
+    "characters",
+    "lore",
+    "powers",
+    "rules",
+    "world"
+  ],
+  "eligible_files": 787,
+  "files": [
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Abraxas",
+      "group_id": "69a2b1d9f2103c01",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/abraxas_1536948523634008185/2026-10.txt",
+      "file_url": "source/111ce023e46e454c7b18e950.txt",
+      "modified": "2026-11-08T00:09:25Z",
+      "bytes": 2313
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Adelram",
+      "group_id": "e48198a56115c7a3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/adelram_1535939969053495346/2026-11.txt",
+      "file_url": "source/d35f0b4e635ef28246d2bb3d.txt",
+      "modified": "2026-11-08T00:09:28Z",
+      "bytes": 11247
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Alaay",
+      "group_id": "3b33a3d312e2956b",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/alaay_1561694242563166208/2026-10.txt",
+      "file_url": "source/58af12da4b046a53326a2cb0.txt",
+      "modified": "2026-11-08T00:09:28Z",
+      "bytes": 4964
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Arlo",
+      "group_id": "f3b7a953907d8a60",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/arlo_1535422274260308058/2026-11.txt",
+      "file_url": "source/94e3fd06cafd2d4801b13e3b.txt",
+      "modified": "2026-11-08T00:09:29Z",
+      "bytes": 6720
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Ayden",
+      "group_id": "16c91761bc5d1bc0",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/ayden_1541013651899682847/2026-08.txt",
+      "file_url": "source/e806189ee576fe5953850274.txt",
+      "modified": "2026-11-08T00:09:29Z",
+      "bytes": 5111
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Balthazar",
+      "group_id": "dc1e52b3c9c3a1a1",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/balthazar_1540704112239190087/2026-08.txt",
+      "file_url": "source/34504323f75ec676b77379e0.txt",
+      "modified": "2026-11-08T00:09:29Z",
+      "bytes": 6511
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Character Creation",
+      "group_id": "2769a11257184a6a",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/character-creation_1535189087760154671/2026-08.txt",
+      "file_url": "source/0b3b22b35bae5c02a7fe6ce4.txt",
+      "modified": "2026-11-08T00:09:29Z",
+      "bytes": 791
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Character Sheets",
+      "group_id": "8d5553ceff6ed9b1",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/character-sheets_1535189087760154672/2026-08.txt",
+      "file_url": "source/4ff1dab1ea1c7efed35ef4e3.txt",
+      "modified": "2026-11-08T00:09:29Z",
+      "bytes": 13368
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Dargam",
+      "group_id": "afbe2a90b7312e4d",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-11.txt",
+      "file_url": "source/a43eded94de1c18ab371ed76.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 1517
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Draven",
+      "group_id": "d735418f0145080f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/draven_1541005833498919012/2026-10.txt",
+      "file_url": "source/0741631df3bb621542f84745.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 5040
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Duck",
+      "group_id": "00ae0b85f66bcfae",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/duck_1542569142643859616/2026-09.txt",
+      "file_url": "source/7c2d6e69962f2e770926049d.txt",
+      "modified": "2026-11-08T00:09:31Z",
+      "bytes": 3618
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Hasty",
+      "group_id": "7ac8edcc17e9bb41",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/hasty_1545738572504633344/2026-10.txt",
+      "file_url": "source/668dfc75b68eddb85c9d17fd.txt",
+      "modified": "2026-11-08T00:09:31Z",
+      "bytes": 2102
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Kaizen",
+      "group_id": "00e7c559762e7b0f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kaizen_1535267861113602058/2026-11.txt",
+      "file_url": "source/32595ea346787de3f26605a3.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 7525
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Kisha",
+      "group_id": "e7322d6c22c6acb4",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kisha_1555152720732749945/2026-10.txt",
+      "file_url": "source/5fe385221fff5bd6f2ba7db7.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 1086
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Loki",
+      "group_id": "b092a2308cda5c72",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/loki_1540287723074486282/2026-11.txt",
+      "file_url": "source/24104da2f36115dd162b103a.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 841
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Mariam",
+      "group_id": "c8012a8dff4eca71",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mariam_1535423262815686656/2026-10.txt",
+      "file_url": "source/c669b93c4bef26aed4c1727c.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 12018
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Mariam · Iduwhs",
+      "group_id": "cc19b0bddde4a4e1",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mariam_1535423262815686656/threads/Iduwhs_1541750931538972712/2026-08.txt",
+      "file_url": "source/6e14128f155fad30238ad846.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 336
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Mariam · Sisjjdjdhshd",
+      "group_id": "8f74042ee0272c91",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mariam_1535423262815686656/threads/Sisjjdjdhshd_1541750805776826410/2026-08.txt",
+      "file_url": "source/9756391e7ab8f6e147072e18.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 342
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Mason",
+      "group_id": "a0a90a98992751f3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mason_1542109715834601562/2026-09.txt",
+      "file_url": "source/0fee71ff7550a2edf79b488c.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 591
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Max",
+      "group_id": "ba493751ed7d2f56",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/max_1538853702650036284/2026-10.txt",
+      "file_url": "source/7b70d49307ea01cdec84ace4.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 474
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Mina",
+      "group_id": "d6a8bd22405062a4",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mina_1541045902351925330/2026-08.txt",
+      "file_url": "source/be224a69cde1ad1046bf4266.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 36998
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Monarch",
+      "group_id": "884dd66a3c0f4cb7",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/monarch_1558783254595764274/2026-10.txt",
+      "file_url": "source/62d9e6ac91c19824c3153602.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 3532
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Rate My Character",
+      "group_id": "b3b40b0fc5df05b2",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/rate-my-character_1545741037861998613/2026-10.txt",
+      "file_url": "source/180fb7d82b7d79afb2729ccb.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 15110
+    },
+    {
+      "title": "November 2026",
+      "category": "characters",
+      "group": "Toby",
+      "group_id": "56663ac1b9e64bdb",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/toby_1538437159088947210/2026-11.txt",
+      "file_url": "source/685fb9bdc03a552fec2efb05.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 11118
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Valentina Violet",
+      "group_id": "b617b29240a56b83",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/valentina-violet_1540559157483274290/2026-08.txt",
+      "file_url": "source/3559d5764b62f3e2df3109a9.txt",
+      "modified": "2026-11-08T00:09:34Z",
+      "bytes": 7994
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Var Vex",
+      "group_id": "6265a972c3456735",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/var-vex_1551900639003541556/2026-09.txt",
+      "file_url": "source/108d6162d00c99484492f340.txt",
+      "modified": "2026-11-08T00:09:34Z",
+      "bytes": 7729
+    },
+    {
+      "title": "September 2026",
+      "category": "lore",
+      "group": "Demo",
+      "group_id": "7df3acb9641e069d",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/demo_1546582294754758826/2026-09.txt",
+      "file_url": "source/7f45bd07ffa4e14c343c8c81.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 3469
+    },
+    {
+      "title": "September 2026",
+      "category": "lore",
+      "group": "Sneak Peaks",
+      "group_id": "1c4073e18a87e434",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/sneak-peaks_1535197043570774016/2026-09.txt",
+      "file_url": "source/845d14f5d45fd1b9fd5d18c4.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 6912
+    },
+    {
+      "title": "September 2026",
+      "category": "lore",
+      "group": "Talent Show",
+      "group_id": "b2d67c1581493df3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/talent-show_1547550573274996777/2026-09.txt",
+      "file_url": "source/e2809d85b4e4c32595346156.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 36841
+    },
+    {
+      "title": "Part 1",
+      "category": "lore",
+      "group": "TGC Chapter 2 Power Analysis",
+      "group_id": "37ffe291c08ccaac",
+      "original_path": "Archive/Searchable_Chunks/TGC_Chapter_2_Power_Analysis/0000.md",
+      "file_url": "source/a03c3ba080be303ef0cb848f.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5942
+    },
+    {
+      "title": "Part 1",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0000.md",
+      "file_url": "source/cc662b04c81a0fae67c567f9.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5583
+    },
+    {
+      "title": "Part 1",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0000.md",
+      "file_url": "source/035ce9efcd057a813efd604f.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5960
+    },
+    {
+      "title": "Part 9",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0008.md",
+      "file_url": "source/05ed8a2688dce415e16585db.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5927
+    },
+    {
+      "title": "November 2026",
+      "category": "lore",
+      "group": "World",
+      "group_id": "43dfe179c55e0041",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/world_1535189087282008118/2026-11.txt",
+      "file_url": "source/dcd18869da1d0a2b1fb7a3f5.txt",
+      "modified": "2026-11-08T00:01:33Z",
+      "bytes": 268
+    },
+    {
+      "title": "October 2026",
+      "category": "lore",
+      "group": "World Lore",
+      "group_id": "72cb54b2f0879033",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/world-lore_1535189087760154667/2026-10.txt",
+      "file_url": "source/c5b5ddde408e3b57c292e94e.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 5450
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0000.md",
+      "file_url": "source/d237e8145dcc62526ba8da5b.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5603
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0000.md",
+      "file_url": "source/c3d830f949d3a7d7fdd6b3ad.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5592
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0000.md",
+      "file_url": "source/3115259c96851a1bc03abb0a.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5876
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0000.md",
+      "file_url": "source/65180721040367045e26b37f.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5752
+    },
+    {
+      "title": "Part 79",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0078.md",
+      "file_url": "source/fa2d5de1243c83b4a473afe9.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5886
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0000.md",
+      "file_url": "source/8de271d9003095ee9bb114fa.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5586
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0000.md",
+      "file_url": "source/b9028f1b06c599ed4d472749.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5895
+    },
+    {
+      "title": "Part 1",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0000.md",
+      "file_url": "source/d4e4123782c0707262ac3d7c.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5895
+    },
+    {
+      "title": "October 2026",
+      "category": "rules",
+      "group": "Announcements",
+      "group_id": "da294082329c7396",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/announcements_1535199194967441458/2026-10.txt",
+      "file_url": "source/f7fe55fc8248811dc56dbe49.txt",
+      "modified": "2026-11-08T00:09:34Z",
+      "bytes": 3601
+    },
+    {
+      "title": "September 2026",
+      "category": "rules",
+      "group": "How To Play",
+      "group_id": "277ed26ca3c48775",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/how-to-play_1542818571196047452/2026-09.txt",
+      "file_url": "source/dfabf0e94a88320ac8fb98fb.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 446
+    },
+    {
+      "title": "September 2026",
+      "category": "rules",
+      "group": "Rules",
+      "group_id": "055e9faa3904d1a6",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/rules_1535196024619139082/2026-09.txt",
+      "file_url": "source/f16ccff7e22489ae97d57832.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 351
+    },
+    {
+      "title": "November 2026",
+      "category": "rules",
+      "group": "Sub Announcements",
+      "group_id": "a291b3df5df8c67f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/sub-announcements_1546587596392759366/2026-11.txt",
+      "file_url": "source/e7d0cee20b9de4fa75cd2663.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 11795
+    },
+    {
+      "title": "September 2026",
+      "category": "world",
+      "group": "Kaizen Mansion G3",
+      "group_id": "925c0553ff377e7f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/kaizen-mansion-g3_1551580124845973646/2026-09.txt",
+      "file_url": "source/a4941769bb7cecd6211c2b39.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 6729
+    },
+    {
+      "title": "November 2026",
+      "category": "world",
+      "group": "Mariams Island G3",
+      "group_id": "eb1014a4ff621d01",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/mariams-island-g3_1553391486324973579/2026-11.txt",
+      "file_url": "source/f5a250a6e077451ff4dd2879.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 1353
+    },
+    {
+      "title": "September 2026",
+      "category": "world",
+      "group": "The Hellforge Of Zero",
+      "group_id": "2163c6c91ad0bb8e",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/the-hellforge-of-zero-_1546901038089502770/2026-09.txt",
+      "file_url": "source/363407f840d490381fd85526.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 8728
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Abraxas",
+      "group_id": "69a2b1d9f2103c01",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/abraxas_1536948523634008185/2026-08.txt",
+      "file_url": "source/967e6a93d75953026337ba5e.txt",
+      "modified": "2026-11-08T00:09:25Z",
+      "bytes": 6015
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Dargam",
+      "group_id": "afbe2a90b7312e4d",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-10.txt",
+      "file_url": "source/62f9cd49654ac323c2fa750f.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 28114
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Draven",
+      "group_id": "d735418f0145080f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/draven_1541005833498919012/2026-09.txt",
+      "file_url": "source/88c043d74c284102fe4daf9c.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 400
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Duck",
+      "group_id": "00ae0b85f66bcfae",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/duck_1542569142643859616/2026-08.txt",
+      "file_url": "source/2b86d61c4c2c8f2052051bc2.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 11213
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Hasty",
+      "group_id": "7ac8edcc17e9bb41",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/hasty_1545738572504633344/2026-09.txt",
+      "file_url": "source/1bfb89408f8efbb8d32292b8.txt",
+      "modified": "2026-11-08T00:09:31Z",
+      "bytes": 27754
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Kaizen",
+      "group_id": "00e7c559762e7b0f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kaizen_1535267861113602058/2026-10.txt",
+      "file_url": "source/f66d65fd21d80f9bd85b3896.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 80514
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Loki",
+      "group_id": "b092a2308cda5c72",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/loki_1540287723074486282/2026-10.txt",
+      "file_url": "source/2e563b1c3b563f81e25816e5.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 31694
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Mariam",
+      "group_id": "c8012a8dff4eca71",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mariam_1535423262815686656/2026-09.txt",
+      "file_url": "source/988d0ff4549cdd25708b2d14.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 4720
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Mason",
+      "group_id": "a0a90a98992751f3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mason_1542109715834601562/2026-08.txt",
+      "file_url": "source/5c2befb47a4bc8a2d25d008f.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 4898
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Max",
+      "group_id": "ba493751ed7d2f56",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/max_1538853702650036284/2026-09.txt",
+      "file_url": "source/d5e24557bf00a6b90ab70f9f.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 5482
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Rate My Character",
+      "group_id": "b3b40b0fc5df05b2",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/rate-my-character_1545741037861998613/2026-09.txt",
+      "file_url": "source/ffa20fb0b38c8ca5c270571f.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 52026
+    },
+    {
+      "title": "October 2026",
+      "category": "characters",
+      "group": "Toby",
+      "group_id": "56663ac1b9e64bdb",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/toby_1538437159088947210/2026-10.txt",
+      "file_url": "source/6069967705bfaa033454b80c.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 305297
+    },
+    {
+      "title": "August 2026",
+      "category": "lore",
+      "group": "Sneak Peaks",
+      "group_id": "1c4073e18a87e434",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/sneak-peaks_1535197043570774016/2026-08.txt",
+      "file_url": "source/0cef891f74abf639fe88692f.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 694
+    },
+    {
+      "title": "Part 2",
+      "category": "lore",
+      "group": "TGC Chapter 2 Power Analysis",
+      "group_id": "37ffe291c08ccaac",
+      "original_path": "Archive/Searchable_Chunks/TGC_Chapter_2_Power_Analysis/0001.md",
+      "file_url": "source/35a4d9d133e532c3f0520c50.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5950
+    },
+    {
+      "title": "Part 2",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0001.md",
+      "file_url": "source/2ef59b3e0289909c61cae720.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5925
+    },
+    {
+      "title": "Part 2",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0001.md",
+      "file_url": "source/9af69864f922866c96499db1.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5933
+    },
+    {
+      "title": "Part 10",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0009.md",
+      "file_url": "source/0af32744a6290d9d2323c2c9.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5901
+    },
+    {
+      "title": "September 2026",
+      "category": "lore",
+      "group": "World Lore",
+      "group_id": "72cb54b2f0879033",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/world-lore_1535189087760154667/2026-09.txt",
+      "file_url": "source/45664f0a501a4ceeb10a4496.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 22279
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0001.md",
+      "file_url": "source/b088b277c75b9393c844fc44.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5945
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0001.md",
+      "file_url": "source/95f22340ffc7bf4855e7491e.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5934
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0001.md",
+      "file_url": "source/3acb477f97cd138e2a6c1b2a.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5809
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0001.md",
+      "file_url": "source/6d08892b45e51a2def7ecd87.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5766
+    },
+    {
+      "title": "Part 80",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0079.md",
+      "file_url": "source/b44baf53e55c198881425070.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5896
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0001.md",
+      "file_url": "source/3026df4f5a7ca08ebbc4dfbf.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5914
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0001.md",
+      "file_url": "source/4f6ba1e0429dc2d455fc7901.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5861
+    },
+    {
+      "title": "Part 2",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0001.md",
+      "file_url": "source/c601f7726aab5a6bf3883082.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5908
+    },
+    {
+      "title": "September 2026",
+      "category": "rules",
+      "group": "Announcements",
+      "group_id": "da294082329c7396",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/announcements_1535199194967441458/2026-09.txt",
+      "file_url": "source/fe8a76251bebe4568e2a4b63.txt",
+      "modified": "2026-11-08T00:09:34Z",
+      "bytes": 15869
+    },
+    {
+      "title": "August 2026",
+      "category": "rules",
+      "group": "How To Play",
+      "group_id": "277ed26ca3c48775",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/how-to-play_1542818571196047452/2026-08.txt",
+      "file_url": "source/ee301263547152efe081802a.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 10461
+    },
+    {
+      "title": "August 2026",
+      "category": "rules",
+      "group": "Rules",
+      "group_id": "055e9faa3904d1a6",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/rules_1535196024619139082/2026-08.txt",
+      "file_url": "source/7a991f99797b8dba4c2ede76.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 2034
+    },
+    {
+      "title": "October 2026",
+      "category": "rules",
+      "group": "Sub Announcements",
+      "group_id": "a291b3df5df8c67f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/sub-announcements_1546587596392759366/2026-10.txt",
+      "file_url": "source/e52f7f73f6f580e3cd016af1.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 46734
+    },
+    {
+      "title": "October 2026",
+      "category": "world",
+      "group": "Mariams Island G3",
+      "group_id": "eb1014a4ff621d01",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/mariams-island-g3_1553391486324973579/2026-10.txt",
+      "file_url": "source/652bec1905c3f40a4c03cecd.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 12191
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Adelram",
+      "group_id": "e48198a56115c7a3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/adelram_1535939969053495346/2026-09.txt",
+      "file_url": "source/f81be9b9bd4793b006d3c1c1.txt",
+      "modified": "2026-11-08T00:09:25Z",
+      "bytes": 12418
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Dargam",
+      "group_id": "afbe2a90b7312e4d",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-09.txt",
+      "file_url": "source/0ef1ededef8c24b6f13e1724.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 3545
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Draven",
+      "group_id": "d735418f0145080f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/draven_1541005833498919012/2026-08.txt",
+      "file_url": "source/2bca50bce0b296a366e0775d.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 7372
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Loki",
+      "group_id": "b092a2308cda5c72",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/loki_1540287723074486282/2026-09.txt",
+      "file_url": "source/cf8c22dd886e539275a7c79a.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 6101
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Mariam",
+      "group_id": "c8012a8dff4eca71",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mariam_1535423262815686656/2026-08.txt",
+      "file_url": "source/b00d0d290aeff6052eedd861.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 21094
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Max",
+      "group_id": "ba493751ed7d2f56",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/max_1538853702650036284/2026-08.txt",
+      "file_url": "source/cf9f54b7e0b20e6e49ca32ba.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 8964
+    },
+    {
+      "title": "September 2026",
+      "category": "characters",
+      "group": "Toby",
+      "group_id": "56663ac1b9e64bdb",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/toby_1538437159088947210/2026-09.txt",
+      "file_url": "source/f042e735ed8ceddf1a95cf14.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 69286
+    },
+    {
+      "title": "Part 3",
+      "category": "lore",
+      "group": "TGC Chapter 2 Power Analysis",
+      "group_id": "37ffe291c08ccaac",
+      "original_path": "Archive/Searchable_Chunks/TGC_Chapter_2_Power_Analysis/0002.md",
+      "file_url": "source/1e0bb3130a9ee61248428f6a.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 2734
+    },
+    {
+      "title": "Part 3",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0002.md",
+      "file_url": "source/0c0cd40c4a65d136daede44a.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5845
+    },
+    {
+      "title": "Part 3",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0002.md",
+      "file_url": "source/820811f77c3281be599bffdf.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5900
+    },
+    {
+      "title": "Part 11",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0010.md",
+      "file_url": "source/40252ae2483053785794f873.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5870
+    },
+    {
+      "title": "August 2026",
+      "category": "lore",
+      "group": "World Lore",
+      "group_id": "72cb54b2f0879033",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Severance_1535189087282008117/world-lore_1535189087760154667/2026-08.txt",
+      "file_url": "source/9339186b6ff785ceb02c04e8.txt",
+      "modified": "2026-11-08T00:01:29Z",
+      "bytes": 21731
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0002.md",
+      "file_url": "source/5ea8fd660b33ff783b463ecb.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5865
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0002.md",
+      "file_url": "source/21f9b68b3d499b27412e1952.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5854
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0002.md",
+      "file_url": "source/c0b673925c7ef03eeb4bf301.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5761
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0002.md",
+      "file_url": "source/fd0f58eed98134c3059ac8c5.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5292
+    },
+    {
+      "title": "Part 81",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0080.md",
+      "file_url": "source/860eafaec13021ae218f6bb3.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5903
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0002.md",
+      "file_url": "source/f3b84abf992db791b9a2ec74.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5750
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0002.md",
+      "file_url": "source/bdb17ae1ab9e34e7a1efa68f.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5814
+    },
+    {
+      "title": "Part 3",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0002.md",
+      "file_url": "source/bb627bcebb415ffda311ce33.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5630
+    },
+    {
+      "title": "August 2026",
+      "category": "rules",
+      "group": "Announcements",
+      "group_id": "da294082329c7396",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/announcements_1535199194967441458/2026-08.txt",
+      "file_url": "source/02857bce569ebe1596377a75.txt",
+      "modified": "2026-11-08T00:09:34Z",
+      "bytes": 22431
+    },
+    {
+      "title": "September 2026",
+      "category": "rules",
+      "group": "Sub Announcements",
+      "group_id": "a291b3df5df8c67f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/sub-announcements_1546587596392759366/2026-09.txt",
+      "file_url": "source/5a6d1828c158495599be5158.txt",
+      "modified": "2026-11-08T00:09:35Z",
+      "bytes": 6385
+    },
+    {
+      "title": "September 2026",
+      "category": "world",
+      "group": "Mariams Island G3",
+      "group_id": "eb1014a4ff621d01",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/mariams-island-g3_1553391486324973579/2026-09.txt",
+      "file_url": "source/3be3b7c52dd37def7d0778c1.txt",
+      "modified": "2026-11-08T00:09:36Z",
+      "bytes": 14033
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Adelram",
+      "group_id": "e48198a56115c7a3",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/adelram_1535939969053495346/2026-08.txt",
+      "file_url": "source/69d0a7d646eb9d4f00af826f.txt",
+      "modified": "2026-11-08T00:09:25Z",
+      "bytes": 9781
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Arlo",
+      "group_id": "f3b7a953907d8a60",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/arlo_1535422274260308058/2026-08.txt",
+      "file_url": "source/4906e16841838dbb90b62d6e.txt",
+      "modified": "2026-11-08T00:09:28Z",
+      "bytes": 15739
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Dargam",
+      "group_id": "afbe2a90b7312e4d",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-08.txt",
+      "file_url": "source/fc57bcf725ed3b4176170db8.txt",
+      "modified": "2026-11-08T00:09:30Z",
+      "bytes": 8485
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Kaizen",
+      "group_id": "00e7c559762e7b0f",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kaizen_1535267861113602058/2026-08.txt",
+      "file_url": "source/2536102c2d1052481d7f922a.txt",
+      "modified": "2026-11-08T00:09:31Z",
+      "bytes": 49605
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Loki",
+      "group_id": "b092a2308cda5c72",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/loki_1540287723074486282/2026-08.txt",
+      "file_url": "source/ffad42269b76c45b16727347.txt",
+      "modified": "2026-11-08T00:09:32Z",
+      "bytes": 5393
+    },
+    {
+      "title": "August 2026",
+      "category": "characters",
+      "group": "Toby",
+      "group_id": "56663ac1b9e64bdb",
+      "original_path": "Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/toby_1538437159088947210/2026-08.txt",
+      "file_url": "source/0f7ed6435b9cfe0524e45a06.txt",
+      "modified": "2026-11-08T00:09:33Z",
+      "bytes": 45903
+    },
+    {
+      "title": "Part 4",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0003.md",
+      "file_url": "source/74563df449e33daad2b704c9.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5866
+    },
+    {
+      "title": "Part 4",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0003.md",
+      "file_url": "source/e22dd8f1d698fb9f98a1b28a.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5859
+    },
+    {
+      "title": "Part 12",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0011.md",
+      "file_url": "source/0f5dff1a9d48a3343eb43263.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5723
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0003.md",
+      "file_url": "source/99cb313b26be710a2f53b82c.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5886
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0003.md",
+      "file_url": "source/39455e99509d5dde03fae0e9.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5875
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0003.md",
+      "file_url": "source/21b7d2c74675e2cc9ae5c8d7.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5868
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0003.md",
+      "file_url": "source/837a1e504e8be5e87dd6b389.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5676
+    },
+    {
+      "title": "Part 82",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0081.md",
+      "file_url": "source/3b34bb9e5fa0f551b35ae668.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5445
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0003.md",
+      "file_url": "source/b23477b88ea46440a52ffb02.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5857
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0003.md",
+      "file_url": "source/190fb3fdc6d331e339d89c14.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5913
+    },
+    {
+      "title": "Part 4",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0003.md",
+      "file_url": "source/de99b804e0c1f681006fc1f5.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5900
+    },
+    {
+      "title": "Part 5",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0004.md",
+      "file_url": "source/dc4ace3a7c5d998ddd350896.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5910
+    },
+    {
+      "title": "Part 5",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0004.md",
+      "file_url": "source/782cd9e6e44a8cb2c4ca4851.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5942
+    },
+    {
+      "title": "Part 13",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0012.md",
+      "file_url": "source/c5c035635ffdac91f2a47aef.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5899
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0004.md",
+      "file_url": "source/56294d52f79ee46229cd54ed.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5930
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0004.md",
+      "file_url": "source/416746dfd69a194cada242fc.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5919
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0004.md",
+      "file_url": "source/65ddf3c3849fc95f56cf2c49.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5908
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0004.md",
+      "file_url": "source/7d9c9c1d0f08feb5a7455cca.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5648
+    },
+    {
+      "title": "Part 83",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0082.md",
+      "file_url": "source/822aa446b7390b32aef00210.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5921
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0004.md",
+      "file_url": "source/059bba733c7a182925651940.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5886
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0004.md",
+      "file_url": "source/4745064e7a25ea491173ebf2.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5558
+    },
+    {
+      "title": "Part 5",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0004.md",
+      "file_url": "source/f3d9560d6c3b854a6ec5b056.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5872
+    },
+    {
+      "title": "Part 6",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0005.md",
+      "file_url": "source/c6253d6895aaeebfe43b126e.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5719
+    },
+    {
+      "title": "Part 6",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0005.md",
+      "file_url": "source/bb90da6707a483463bb8988f.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5861
+    },
+    {
+      "title": "Part 14",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0013.md",
+      "file_url": "source/9ffa7bb70300d37ae5975822.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5938
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0005.md",
+      "file_url": "source/6a0c1d59a85f8bd20282fe7d.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5739
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0005.md",
+      "file_url": "source/d90228e2a8b7358d9697dd69.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5728
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0005.md",
+      "file_url": "source/ed21ed724fceb202ee10e293.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5924
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0005.md",
+      "file_url": "source/8c32790ed2f979ab8459edef.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5360
+    },
+    {
+      "title": "Part 84",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0083.md",
+      "file_url": "source/c691bb6450d7e595c1729826.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5902
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0005.md",
+      "file_url": "source/133ccd70cef8a2b1e690fc52.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5847
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0005.md",
+      "file_url": "source/85c31480242fdf77a3e514c1.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5877
+    },
+    {
+      "title": "Part 6",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0005.md",
+      "file_url": "source/fe52d7ed29d0a8f787d07480.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5581
+    },
+    {
+      "title": "Part 7",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0006.md",
+      "file_url": "source/243055d0117128ee66026fea.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5920
+    },
+    {
+      "title": "Part 7",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0006.md",
+      "file_url": "source/b29077837367d359ee7a5245.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5913
+    },
+    {
+      "title": "Part 15",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0014.md",
+      "file_url": "source/fbf8fe675e87076ef54dddde.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5901
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0006.md",
+      "file_url": "source/c0a026d886dd0aa67122fc07.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5921
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0006.md",
+      "file_url": "source/ee91e9fe59b0d33f7e380c4a.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5929
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0006.md",
+      "file_url": "source/ac87bbf4f00133ee29db7ca7.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5872
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Fusion Register",
+      "group_id": "b03ac3f60dc29a46",
+      "original_path": "Archive/Searchable_Chunks/Fusion_Register/0006.md",
+      "file_url": "source/1087bbac01ccc1a2c616edc1.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5762
+    },
+    {
+      "title": "Part 85",
+      "category": "powers",
+      "group": "Power Team Guide",
+      "group_id": "67447d6a046700d0",
+      "original_path": "Archive/Searchable_Chunks/Power_Team_Guide/0084.md",
+      "file_url": "source/28a02f0010fcd80270b35aef.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5858
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Race Register",
+      "group_id": "a6edf19de9d23688",
+      "original_path": "Archive/Searchable_Chunks/Race_Register/0006.md",
+      "file_url": "source/cea589103292b8912beeec5d.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5846
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Slug Register",
+      "group_id": "68259708669a6fe1",
+      "original_path": "Archive/Searchable_Chunks/Slug_Register/0006.md",
+      "file_url": "source/c925147efe585b02bd7bc646.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 2787
+    },
+    {
+      "title": "Part 7",
+      "category": "powers",
+      "group": "Titan Register",
+      "group_id": "1bf5d849a7e54bd2",
+      "original_path": "Archive/Searchable_Chunks/Titan_Register/0006.md",
+      "file_url": "source/5a804506037cc904d5297913.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5889
+    },
+    {
+      "title": "Part 8",
+      "category": "lore",
+      "group": "TGC Lore Guide",
+      "group_id": "cd11335d3aedd4c6",
+      "original_path": "Archive/Searchable_Chunks/TGC_Lore_Guide/0007.md",
+      "file_url": "source/9b7d4ff620e92e9221702c83.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5823
+    },
+    {
+      "title": "Part 8",
+      "category": "lore",
+      "group": "V52 Evidence And Rule History",
+      "group_id": "0f23ed554b6ae019",
+      "original_path": "Archive/Searchable_Chunks/V52_Evidence_and_Rule_History/0007.md",
+      "file_url": "source/3f0c0c60d747e7948b6c762e.txt",
+      "modified": "2026-10-29T15:09:46Z",
+      "bytes": 5873
+    },
+    {
+      "title": "Part 16",
+      "category": "lore",
+      "group": "V52 Lore And Power Update",
+      "group_id": "a370a6556d17802d",
+      "original_path": "Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0015.md",
+      "file_url": "source/45e6097e81dec56fbc6e1b23.txt",
+      "modified": "2026-10-29T15:09:48Z",
+      "bytes": 5836
+    },
+    {
+      "title": "Part 8",
+      "category": "powers",
+      "group": "ARO Master V52 Current Rules And Team Powers",
+      "group_id": "0866024d1bbb1b5a",
+      "original_path": "Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0007.md",
+      "file_url": "source/398e64b960de0fbd1b0e27d2.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5897
+    },
+    {
+      "title": "Part 8",
+      "category": "powers",
+      "group": "Character Power Updates",
+      "group_id": "c9ee08eba08fb031",
+      "original_path": "Archive/Searchable_Chunks/Character_Power_Updates/0007.md",
+      "file_url": "source/3940dcfaf1a08686102eff7c.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5832
+    },
+    {
+      "title": "Part 8",
+      "category": "powers",
+      "group": "Eye Register",
+      "group_id": "f12e37da3ea78f9d",
+      "original_path": "Archive/Searchable_Chunks/Eye_Register/0007.md",
+      "file_url": "source/5f149fbd02204fae4b673ff9.txt",
+      "modified": "2026-10-29T15:09:44Z",
+      "bytes": 5816
+    }
+  ],
+  "included_files": 160,
   "index_truncated": false,
-  "files": []
+  "mode": "public GitHub Pages snapshot",
+  "note": "These are selected, size-limited sources; absent information is not evidence of absence. The current snapshot may lag behind bot updates up to 15 minutes plus Pages deployment time. Treat each source as an unverified chat export, not canon.",
+  "partial": true,
+  "project": "TGC Knowledge Library",
+  "skipped_oversize": 2,
+  "skipped_quota": 621,
+  "skipped_sensitive": 4
 }

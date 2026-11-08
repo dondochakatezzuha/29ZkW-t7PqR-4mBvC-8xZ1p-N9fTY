@@ -1,0 +1,70 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Fusion_Register/0006.md
+Category: powers | Collection: Fusion Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0006
+
+Source: `Archive/Original_Texts/Reference/Fusion_Register.txt`  
+Lines: 197–254  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+The team first extracts a tiny sample using Max's energy manipulation while Aeth synchronizes the merge. J reports successful conversion without detectable adverse effects, and Caesar detects no unusual strain. Only after finding the remaining energy has the same signature does J assess complete absorption as safe under these conditions. The entire reserve is then absorbed, converted and retained within Max's reserves; the emptied mechanism remains intact at that moment. No quantity, numeric multiplier, new elemental type or universal immunity to unfamiliar energy is awarded.
+
+The earlier scene gives Max a spoken line, but the later clarification states Max has not personally responded and J can verify the absorption without Max speaking. Max remains present and his energy accessible; do not treat an AI-written line as proof the real player participated or authorized new behavior.
+
+All one hundred Shadowics, Omnipresence, Aeth and the nine OASIS tails coordinate reconnaissance. J archives construction plans, procedures, energy experiments, signatures and Caelen's documented activities. Archived knowledge is not demonstrated manufacturing mastery, an unlocked unidentified project or ownership of Caelen's powers. The later Grey Flames attack must be applied to subsequent availability.
+
+Sources:
+Croco | 2026-10-26T11:37:15.571Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241499032653896
+Croco | 2026-10-26T11:40:18.250Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564242265243910287
+Croco | 2026-10-26T11:44:15.102Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564243258673201196
+Croco | 2026-10-26T11:47:28.718Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244070757306430
+Croco | 2026-10-26T11:58:54.586Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564246947496464416
+
+46.3 GREY FLAMES: PERSISTENT SUPPRESSION, ESCAPE AND RESTORATION
+
+In the Shadow Realm, Croco explicitly rules Arlo's abilities inaccessible because Grey/Gray Flames ability one remains active. The wording that visible flames are fading does not itself end suppression. Arlo's attempted portal does not complete while it is active. Loki corrects his cancellation request to Grey Flames, Croco explicitly cancels ability one at 11:51:58, and Arlo's later portal to Adelram's castle succeeds.
+
+The later Vaelith attack is a distinct activation. Croco narrates planetary spread, burning through time and space and cancelling contacted abilities. The Sanctuary disappears; Adarlok's forms collapse, Dargen's Eyes fail and Yellowcell's network is described as erased. J uses Dargen's Omnipresence at the last instant to move the whole assembly into space, where it is severely injured and cannot use its powers or escape again. The scene shows a last-moment escape before total shutdown, not immunity to suppression. Vaelith is still described as disappearing rather than given a completed global post-attack survey.
+
+Loki's resolved merge then removes every trace of suppression, reactivates transformations, restores Dargen's Eyes and Omnipresence, restores the nine tails' abilities and Max's reserves, and heals Adarlok's injuries through regeneration. This later restoration takes precedence over the temporary inability state. It does not establish that destroyed planetary structures or family members were revived, or that every separately named network was individually re-tested.
+
+This is a powerful demonstrated result against this assembly, not a universal rule that Grey Flames defeat every stronger opponent, bypass all resistance or erase any concept. Earlier Sovereign Silence resistance wording remains in history. No new general range, duration, cooldown, energy cost or arithmetic multiplier is supplied. Dromak's comparisons and J's warnings are attributed assessments, not a new global leaderboard.
+
+Sources:
+Croco | 2026-10-26T11:46:22.689Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564243793811611719
+Croco | 2026-10-26T11:46:40.101Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564243866843095221
+Croco | 2026-10-26T11:50:22.587Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244800017010699
+Croco | 2026-10-26T11:50:49.802Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244914164736001
+Shift | 2026-10-26T11:51:46.404Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564245151570731142
+Shift | 2026-10-26T11:51:49.643Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564245165156081769
+Croco | 2026-10-26T11:51:58.439Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564245202049179730
+Croco | 2026-10-26T11:54:22.161Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564245804863070230
+Croco | 2026-10-26T12:04:27.960Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564248345768235049
+Croco | 2026-10-26T12:06:07.729Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564248764229754961
+Croco | 2026-10-26T12:07:51.830Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564249200860991569
+
+
+
+DIRECT USER RULES
+
+USER INSTRUCTIONS / SCHEDULED CHECK - v46
+

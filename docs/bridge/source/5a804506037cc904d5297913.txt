@@ -1,0 +1,84 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Titan_Register/0006.md
+Category: powers | Collection: Titan Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0006
+
+Source: `Archive/Original_Texts/Reference/Titan_Register.txt`  
+Lines: 415–486  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+MONARCH / HAMZA: latest race is GENESIS, explicitly rolled on October 16 and acknowledged as an improvement over the prior Human state. The new current class sheet is Astralux (Aure + Astria), explicitly posted for Monarch. His earlier Mystia/Space sheet, Leviathan and later intermediate Human/Dwarf/Null/Raijin/Asura/Void results remain history; do not silently combine every past race and move sheet into one current loadout. The exact disposition of old Mystia moves after the new character/class sequence is not expressly resolved.
+
+TOBY / LARPER BOY TOBY: Titan obtained on the fifth spin on October 15. Mother Prana is his companion, summoned by an ankle bracelet; a later scene confirms it. Earlier Dwarf, Vampire-option and self-reported Chrono-Reaper states are historical. His undead celestial identity is reiterated, but the separate celestial self is destroyed during the Spirit Realm crisis. Toby gains Allumen's paired wings for the escorted journey; no third rolled eye is confirmed.
+
+Sources:
+Croco | 2026-10-16T20:00:07.419Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560744170279403552
+Croco | 2026-10-16T20:00:43.776Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560744322771456244
+Croco | 2026-10-16T20:00:46.570Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560744334490603521
+Croco | 2026-10-15T09:30:17.396Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560223279568912436
+Croco | 2026-10-15T09:41:32.614Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560226111638474784
+Croco | 2026-10-17T00:33:18.237Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560812918352650323
+Croco | 2026-10-17T00:37:26.463Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560813959488213104
+Arlo | 2026-10-15T11:54:19.720Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560259528103170110
+Croco | 2026-10-15T11:54:43.978Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560259629848600597
+Arlo | 2026-10-15T11:54:50.922Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560259658973712446
+Croco | 2026-10-15T11:54:56.400Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560259681950113886
+Croco | 2026-10-15T11:59:41.867Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560260879285485690
+Croco | 2026-10-15T12:17:38.024Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560265393015103601
+Croco | 2026-10-15T07:41:16.853Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560195846543249422
+Dargan | 2026-10-15T07:41:42.397Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560195953682546784
+Croco | 2026-10-15T07:41:46.738Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560195971890286653
+Croco | 2026-10-15T09:09:57.337Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560218162270830752
+Croco | 2026-10-17T00:28:15.850Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560811650049904672
+Croco | 2026-10-15T09:02:30.033Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560216286141882470
+Croco | 2026-10-15T09:50:22.684Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560228334913331205
+Croco | 2026-10-16T20:28:12.179Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560751236674883737
+Croco | 2026-10-16T21:02:12.888Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560759796028801088
+Croco | 2026-10-15T07:23:13.104Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560191300970749972
+Croco | 2026-10-16T21:03:42.310Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560760171091992739
+Croco | 2026-10-16T10:49:38.423Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560605636629241868
+Croco | 2026-10-16T10:54:06.790Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560606762241892443
+Croco | 2026-10-16T10:15:31.255Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560597050184175698
+Croco | 2026-10-15T11:52:28.053Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560259059737956404
+Croco | 2026-10-17T00:21:37.560Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560809979500564531
+Draven | 2026-10-16T18:59:22.342Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560728881718104166
+Croco | 2026-10-17T02:42:44.633Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1560845492978450443
+
+35.3 RACE SPINS, TITAN MERGING AND VEYMI FORMS
+
+Croco describes race powers as passives, things the character can do without spending an ordinary ability slot. This does not cancel explicit costs, weaknesses or conditions. The October 14 race announcement's percentages are retained as published in the historical register. It gave Titan 0.01%; Croco later quotes 0.1%. No complete replacement probability table is supplied. Do not normalize the original table or treat lucky rolls as a statistical proof of different rates.
+

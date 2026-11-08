@@ -1,0 +1,62 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Titan_Register/0003.md
+Category: powers | Collection: Titan Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Titan_Register.txt`  
+Lines: 230–279  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+CURRENT USER-CONFIRMED ROSTER: Kaizen + Toby + Loki + Dargan + Adelram. All become one being. All their abilities, eyes, races and other powers combine, and all five can control the single body at once. This is the authoritative current correction for this archive; older three- and four-member descriptions remain dated history.
+
+Toby's merge is completed by Croco. Duplicate time/void functions are described as overlapping, while illusion and reality-to-illusion functionality is explicitly added. Shared access applies to the entire combined kit, including Yang's abilities and, after integration, Lyra's. It is not necessary for each user to personally own the source eye or Stone to direct the merged body's available power.
+
+SEPARATION DEMONSTRATED: Loki exits to reunite with Liana. Kaizen, Adelram, Toby and Dargan remain merged and retain their own powers, but lose Loki's Eye, Stones, gauntlet, sword and everything specifically his. The remaining fusion still uses omnipresence and Shadowics. Loki later re-enters, restoring his kit and the five-member Adarlok. This replaces the older unresolved question of whether separation is possible, but gives no universal duration, cooldown or quantified separation cost.
+
+Both the five-person shared access and the separation boundary matter. No permanent post-separation grant of all extracted powers to Kaizen or Toby is established here. Shift says System owners retain acquired powers after unmerge; mark that as player explanation unless separately ruled. The earlier explicit Yang distribution to three developed Systems remains a dated individual reward record. Lyra's new integration names Adarlok as recipient, without a new individual distribution list.
+
+All constituent racial abilities are part of the merged being, as the user confirms. This is distinct from automatically fusing an external Titan companion into the body or inventing a new race award for each constituent. Keep pre-existing companion contracts and Titan-merge limits unless explicitly changed.
+
+Eye access includes the current eyes of all five: Kaizen's '1'/Void; Toby's Void/Aevor; Loki's Sun/Secret Eye 1/OVRATH; Adelram's '1'/Moon/Secret Eye 2; Dargan's Director/Secret Eye 3/Void. These imply ten distinct current eye types when duplicates are counted once. That is an archive inventory calculation, not a fresh GM anatomical statement or a requirement for ten visible sockets. The scene continues to describe three main eyes. The earlier player sheet's nine-type count omits Toby's Aevor.
+
+Sources:
+Croco | 2026-10-21T22:27:10.609Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562593116748382329
+Draven | 2026-10-21T22:11:32.195Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562589180754665484
+kaizen | 2026-10-21T22:39:11.087Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562596138652274699
+Croco | 2026-10-22T01:29:51.656Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562639090711527524
+Croco | 2026-10-22T01:37:39.027Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562641051007848460
+Croco | 2026-10-22T02:00:52.458Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562646895480799264
+Shift | 2026-10-22T03:08:32.488Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562663924480868363
+kaizen | 2026-10-21T22:36:22.609Z | #adarlok
+https://discord.com/channels/1535189086258855946/1562590270128922796/1562595432004194307
+kaizen | 2026-10-21T22:36:23.935Z | #adarlok
+https://discord.com/channels/1535189086258855946/1562590270128922796/1562595437565710398
+
+
+
+RETAINED TITAN ROSTER AND CONTRACTS
+
+TITAN REGISTER - v39; no new contract; fusion distinctions
+
+39.2 PLAYER FUSION: COMMANDS, CONSENT AND CURRENT ADARLOK MEMBERS
+
+Croco says any participant can command the merged being; the example is Dargan typing a retreat and the fusion retreating. No exclusive leader or majority-vote mechanism is established. Team planning therefore needs agreed actions and a retreat rule to avoid contradictory commands. This recommendation is analysis, not an extra GM rule.
+
+COMPLETED ROSTER AND RATINGS
+
+First completion: Adelram + Dargan + Loki = Adarlok, Dragon++, very high power. Arlo also asks to merge nearby, but he is not included in Croco's completed three-person roster. After Yang's defeat Adarlok is Dragon+++. A new person needs the existing participants' acceptance to join; a player's statement that merging is impossible at 2% is not a GM-defined universal minimum-energy threshold.
+
+Later completion: Kaizen is added to Adarlok. Croco says the only new addition is YellowCell: his eyes are already present through Adelram and Dargan, and immortality is already present through Loki. Croco identifies the overlapping eyes as Void and '1'. The merged being remains Dragon+++ and its strength is unchanged, because it already has stronger abilities. This is a comparison of additional contributions to this particular fusion; it does not delete Kaizen's full canon Bluecell/Redcell/Purplecell/YellowCell, Mercury Null or other previously established personal powers.
+
+Current confirmed fusion membership is Loki, Adelram, Dargan and Kaizen. No unmerge is completed in this snapshot. This is not a new race award, a change to the October 19 individual ranking, or a permanent transfer of every participant's eyes/classes to every other member. Kaizen joined after the explicit three-person Yang reward distribution; membership alone does not establish that he personally received it.
+

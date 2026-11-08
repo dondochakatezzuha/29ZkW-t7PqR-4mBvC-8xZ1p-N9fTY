@@ -1,0 +1,88 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Slug_Register/0004.md
+Category: powers | Collection: Slug Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0004
+
+Source: `Archive/Original_Texts/Reference/Slug_Register.txt`  
+Lines: 241–316  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Croco resolves Loki's Slug demonstration: Adarlok loads a Slug Shell into the blaster, steps outside Amalia's cottage and fires into the sky. The Slug expands into a larger form and uses Air Breath, producing large spiralling tornadoes through the Sanctuary landscape. The winds shake trees and scatter leaves. After the attack fades, the creature shrinks and lands on Adarlok's shoulder. No victim injury or quantified range, launch velocity, cooldown or energy cost is stated. This demonstrates a launch-triggered transformation, an air attack, reversion and return; it does not establish every possible Slug's performance.
+
+FULL DEMONSTRATION
+
+Adarlok decided to show Amalia something, reaching for one of the Slug Shells he carried before revealing the small creature resting inside 
+
+ Amalia leaned closer, her eyes lighting up with curiosity as Adarlok inserted the shell into his Slug Blaster 
+
+ He stepped outside the cottage, raised the blaster towards the open sky and pulled the trigger 
+
+ The slug shot through the air at incredible speed, its tiny body suddenly expanding and transforming into a much larger, powerful version of itself 
+
+ "WAIT, IT CAN DO THAT?!" 
+
+ The transformed slug opened its mouth, unleashing Air Breath, sending enormous spiralling tornadoes sweeping across the surrounding landscape 
+
+ Powerful winds rushed through the Sanctuary of Vaelith, shaking the treetops and scattering leaves across the pathways, while a refreshing breeze swept over Adarlok and Amalia 
+
+ Amalia grabbed her hair as the wind blew it across her face, laughing in disbelief while watching the enormous creature soaring above them 
+
+ "OH MY GOD, THAT LITTLE THING MADE ALL OF THAT?!" 
+
+ Moments later, the slug's attack faded, the tornadoes dispersed and its body shrank back into its original tiny form 
+
+ It descended gently from the sky, landing comfortably upon Adarlok's shoulder as though nothing unusual had happened 
+
+ Amalia stared at the little creature, then at the blaster, before slowly looking back towards Adarlok 
+
+ "Okay... I take back what I said about them looking evil" 
+
+ She paused, watching the slug settle on his shoulder 
+
+ "Actually, no I don't, but that was AMAZING!"
+
+Croco then ends the game for the day, explicitly labeling it 'Game 3 part 1'. This is the session stopping point, not an announcement that the entire first part or the campaign has been completed. The four-person fusion has not been narrated separating. The last completed story scene remains the Slug demonstration with Amalia.
+
+Afterward, Adelram proposes looking for Orion and Azreal; Shift says they are already with them. Preserve this as player dialogue rather than a newly narrated rescue or destination. Discussion also identifies an image as LoD Yang, debates another image-linked opponent, mentions a fight with All God Enas and flames that both existed and did not, and admits Apateon's full power is unknown. The pronouns and image context do not establish that all these descriptions belong to the same entity. These claims do not replace the completed TOAA Yang encounter with a different defeated form. Finally Shift proposes hunting Iri and calls her Dragon+; there is no completed hunt or extraction. The prior boss-card roster remains the source for its own labels.
+
+Sources:
+Croco | 2026-10-21T13:06:54.406Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452120173682820
+Croco | 2026-10-21T13:10:20.355Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452983986257922
+Adelram | 2026-10-21T13:09:21.083Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452735381733418
+Shift | 2026-10-21T13:09:28.093Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452764783550475
+Shift | 2026-10-21T13:09:31.221Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452777903329331
+Shift | 2026-10-21T13:09:32.610Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452783729344526
+Shift | 2026-10-21T13:11:32.162Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453285166649485
+Shift | 2026-10-21T13:11:48.898Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453355362656290
+Adelram | 2026-10-21T13:12:12.200Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453453098319964
+Shift | 2026-10-21T13:12:14.742Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453463760375859
+Shift | 2026-10-21T13:12:29.564Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453525928218777
+Adelram | 2026-10-21T13:13:05.721Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453677581795410
+Shift | 2026-10-21T13:14:02.691Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453916531163167
+Shift | 2026-10-21T13:14:15.342Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562453969593171978
+
+
+
+RETAINED HOLLOW GRAVE, DEVICES AND EARLIER GRANTS
+
+SLUG REGISTER - v38; location lore, devices and actual holders
+
+L38.3 HOLLOW GRAVE DISCOVERY ON VAEL MOR
+

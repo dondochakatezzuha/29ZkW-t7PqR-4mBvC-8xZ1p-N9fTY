@@ -1,0 +1,61 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Eye_Register/0003.md
+Category: powers | Collection: Eye Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Eye_Register.txt`  
+Lines: 104–152  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Next source checkpoint: resume after Adelram's 'only time will tell', ID 1564616502802653325, 2026-10-27 12:27:23.437 UTC. Null's question and Kaizen's intended response remain unresolved. The game was explicitly paused by Croco at 12:20 UTC.
+Sources: 1564611196781334553, 1564612536131780682, 1564613221372010596, 1564614723595669535, 1564616502802653325
+
+48.8 Dargen shop, Eye of Inhabitant and ownership limits
+
+J confirms Dargen has 20 Outside System Points, enough to unlock the shop, and 15 OM from the completed quest to merge with a being above Dragon x75,000 through Loki. The shop is unlocked. This is Dargen's account; do not combine it with Adelram's zero points and debt. Image-only shop content is retained as attachment context without inventing unread item names or prices.
+
+Asked about Eye of Inhabitant, J describes System Evolution as its primary function: upgrading the Outside System beyond current limitations. At full potential, it could provide near-comprehensive real-time awareness of events, battles and movements throughout the world. Awareness is not automatic control over what is observed. This is an explanation at inquiry time, not a purchase, implant, new eye rank or full-potential activation. No later resolved purchase appears before the cutoff.
+
+Loki's player also pastes a primordial-protection description: body, soul and abilities protected from supernatural theft, sealing, forced transformation and existence erasure; supernatural changes can be restored, ordinary physical injury still applies, and comparable/greater primordial authority can overcome it. Preserve this as a player-supplied description without assigning an unidentified numbered eye or treating it as an absolute invulnerability demonstration.
+Sources: 1564580759849668629, 1564586577206968416, 1564608076823134278
+
+PRIOR SOURCE HISTORY
+
+v47 DATED CLARIFICATIONS
+
+47.1 Astria and the eye: teleportation is not full spatial manipulation
+
+Kaizen lists Shadow, Spatial and Matter manipulation and suggests the nine tails or Jinka may affect the count. These are player self-descriptions, not a new award or a confirmed total. Draven specifically rejects Spatial manipulation: Astria teleports the wielder or others. He initially describes the eye as having one spatial move, then immediately corrects himself: the move is teleportation and the eye is not spatial. Apply that final correction to the eye move being discussed; the exchange does not identify a numbered eye or remove its teleport move.
+
+Current use: keep the distinction between a specific teleport technique and unrestricted manipulation of space. Neither Astria nor this eye move establishes the latter. No new range, cost, cooldown or targeting rule is supplied. Preserve previously sourced limits. The unchallenged Shadow/Matter statements are not fresh GM confirmations, and no total number of manipulations is settled. Proposed Jinka evolution remains unperformed. This correction does not remove another character's independently sourced spatial powers.
+Sources: 1564454660490793061, 1564454684335284285, 1564458409347260499, 1564459843102969908, 1564459850736341053, 1564460198876422175, 1564475734779502723, 1564475767805706293, 1564476168860860488, 1564476337006055525, 1564476365879644274
+
+PRIOR SOURCE HISTORY
+
+EYE REGISTER - v46; disputed Mariam wording; Loki Ovrath; suppression and restoration
+
+46.1 MERGE OWNERSHIP AND REQUESTS VERSUS COMPLETED RETURNS
+
+Mariam's merge and Loki's later merge are explicit resolved additions. Arlo's departure is reported by Arlo himself and corroborated by his independent scenes; its exact activation moment is not captured. His accepted remerge requests remain pending. Do not grant Arlo's racial, eye or companion contributions to the current working assembly on acceptance alone. Adelram's Time Branch and Sovereign Fracture remain his individual powers outside Adarlok.
+
+Current working real membership: Kaizen, Toby, Abraxas, Max, Dargen, Mariam, Loki. Retain the prior Platonic Dargen record unless a later resolved event removes it. Mariam's new contribution is narrowly described as Stellar powers plus the disputed "16x(2) tgc eyes" phrase; this is not confirmation of numbered Secret Eyes or a new Genesis award. Loki's completed merge supplies his current contribution while he remains a member. No permanent distribution to every individual is demonstrated by the merge itself.
+
+Apply the user's retention exception only to abilities actually unlocked with J AND distributed using the Max Method. Mere presence, a player claim or a plan to acquire Caelen's powers does not satisfy it. No post-Loki-merge combined numeric multiplier or ranking is supplied. Historical status tables remain dated and Loki's prior conflicting maximum values remain unresolved.
+
+Sources:
+Croco | 2026-10-26T11:36:38.509Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241343583363093
+kaizen | 2026-10-26T11:37:03.446Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241448176459819
+kaizen | 2026-10-26T11:37:05.816Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564241458117218365
+Arlo | 2026-10-26T11:49:12.710Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244506931499143
+Arlo | 2026-10-26T11:49:21.986Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564244545837867029
+Arlo | 2026-10-26T12:02:24.475Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564247827834609855
+Arlo | 2026-10-26T12:07:05.446Z | #the-xiv

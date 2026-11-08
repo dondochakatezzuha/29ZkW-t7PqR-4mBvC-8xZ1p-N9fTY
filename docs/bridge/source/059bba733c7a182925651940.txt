@@ -1,0 +1,84 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Race_Register/0004.md
+Category: powers | Collection: Race Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0004
+
+Source: `Archive/Original_Texts/Reference/Race_Register.txt`  
+Lines: 173–244  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+omitted, preserve text context, and deliver only the latest standalone edition.
+
+
+USER EYE AND RANKING UPDATE — VERIFIED DURING v38 REFRESH
+
+Source: direct user statement in this task, followed by Discord evidence.
+Sign-in was resolved and the server continuation was collected.
+
+ORIGINAL USER STATEMENT
+continue, there is new lore, like me replacing my winter eye that was mythical++ for a dominion that was dragon++ then i replaced it for a void that was dragon+++, so i now have 2 dragon+++ eyes and im ranked 4th strongest in players when everyone said i was weaker then them, for example they said mariam and arlo and toby were stronger than me!! they DOUBTED ME!!!
+
+CURRENT RECORD
+
+Kaizen has '1' left and Void right, both Dragon+++. The user's compressed
+Winter → Dominion → Void sequence is preserved; the observed rolls also
+include temporary Zyra and Reverie Loom results. Winter and Dominion are
+historical, not extra equipped eyes. Croco's right-eye Void award is
+1562044704223141952 after the explicit right request 1562044105519796237.
+The October 21 character-channel labels identify 'Void eye' and '1 eye'.
+
+The user confirms Winter Mythical++ and Dominion Dragon++. Croco's new
+Winter comment says only 'mythical'; preserve that source precision
+difference. Void Dragon+++ is expressly stated by Croco. No new third
+Kaizen eye has been awarded. '1' is distinct from Loki's Secret Eye 1.
+
+Croco's October 19 sub-announcements list ranks Kaizen fourth, above Toby
+fifth, Arlo sixth and Mariam seventh. It predates the later eye changes.
+The full eight-place list and reasons are in 38.1; its source posts are
+1561620979443310623, 1561623354102784061 and 1561624939637776459. The user's
+reaction to being underestimated remains their own perspective; a ranking
+does not establish completed battles or make Kaizen the main character.
+
+RACE REGISTER - v41; Abraxas Genesis, Mecha terminology and posted Titan correction
+
+41.1 CURRENT OWNERSHIP AND FUSION ROSTER
+
+Latest explicit merger, October 25: Toby, Abraxas, Dargen, Max and Kaizen. Croco first corrects the body to Toby/Max/Abraxas only, then accepts Dargen, then Kaizen. Mariam is expressly outside that merge. Arlo, original Loki, alternate Loki and both Adelrams must not be silently added because earlier scenes included them. The user-confirmed shared-body rule remains: participants combine their available abilities, eyes and races and can jointly control the one body. Each dated assembly has its own inventory.
+
+Kaizen now contributes eye 1 plus Eye of the Dragon (Dragon x30), replacing his sold Void. His awakened Umbra, full RedCell/BlueCell/PurpleCell/YellowCell, Mercury Null and independent OASIS foundation remain, alongside the Nine Tails and newly conscious Null Heart Caesar. No general personal omnipresence or Time class is granted by the cave return. The tails' own spatial speciality is a separately supplied source, not ownership of Dargen's entire class.
+
+Toby contributes Spirit King, current Void/Aevor and Mother Prana history. Dargen contributes Lumen, omnipresence, Director/Secret Eye 3/Void, J and Kryvorn history. Abraxas contributes Terra's full awakened sheet, Genesis race award and the separately observed Silver/Aevor/Director rolls. Max contributes the Energy God sheet, Stellar Jera, Platonic/Plasma/Mecha energy and compatibility-based inheritance. Preserve all pre-existing individual limits unless a later ruling changes them.
+
+Loki/Pride currently retains the separately granted Shadowkeeper position, K, named subordinates and ordinary fire compensation. His eight Multiverse Stones are permanently inaccessible after becoming the Branch core. A historical All or Stone combination is not current usable equipment. Varkhazar and black-flame use were demonstrated before that final loss; the final ruling does not expressly enumerate every remaining non-Stone ability or removed eye.
+
+Arlo's Dromak training, Mariam's Golden/Darkened eyes, Monarch's Space/Mystia awakening and every other character's prior sheet remain in the foundation and registers. No new Monarch power grant is identified in this update.
+
+Sources:
+Croco | 2026-10-25T06:35:04.201Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563803062689210460
+Croco | 2026-10-25T06:35:14.465Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563803105739673621
+Croco | 2026-10-25T06:35:41.316Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563803218360795177
+Croco | 2026-10-25T09:03:27.992Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563840407895543859
+Croco | 2026-10-25T09:07:56.641Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563841534691123311
+Croco | 2026-10-23T12:05:54.942Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563161547000520776
+Croco | 2026-10-23T13:07:22.542Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563177013915820063
+Croco | 2026-10-24T09:49:50.135Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563489689183330375
+Croco | 2026-10-25T02:46:03.048Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563745428116213862
+Croco | 2026-10-25T09:40:42.925Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563849781883699241
+Croco | 2026-10-25T09:47:55.505Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563851596255989872
+
+41.2 FUSION HISTORY: MEMBERSHIP, TITANS AND SEPARATION
+

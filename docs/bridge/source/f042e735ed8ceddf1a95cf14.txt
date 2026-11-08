@@ -1,0 +1,1351 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/toby_1538437159088947210/2026-09.txt
+Category: characters | Collection: Toby
+Export content (not verified canon; see source context):
+
+#toby | 2026-09
+All times are UTC. Message IDs identify original sources.
+
+[2026-09-04T22:41:35.340000+00:00] ChIcKeNeNjOyEr97 | 1545564514009874596
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545564514009874596
+<@1311460994660306996> don’t worry I’ll play today
+
+[2026-09-04T22:57:23.660000+00:00] Draven | 1545568491552383076
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545568491552383076
+Reply to: 1545564514009874596
+https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686
+Embed: {"content_scan_version": 4, "provider": {"name": "Tenor", "url": "https://tenor.co"}, "reference_id": "1545568491552383076", "thumbnail": {"content_type": "image/gif", "flags": 32, "height": 454, "placeholder": "4PcJDwSLaYiteIZvhsh2iIdrF5EJUscA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/nKm0J0Yr-Cl0EQu2pCd26cJeKkA2PKfq6mv1AOPqcyI/https/media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "url": "https://media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "width": 428}, "title": "Ishowspeed Fortnite GIF - Ishowspeed Speed Fortnite - Discover & Share GIFs", "type": "gifv", "url": "https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686", "video": {"content_type": "video/mp4", "flags": 0, "height": 454, "placeholder": "3/cJFwSLaYiteHZvhsh2iIdrF4EKY7cA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/cjWDzBBlOotbuX_jKDp5z_67s_lqWsRK9fWmG0PUkdE/https/media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "url": "https://media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "width": 428}}
+
+[2026-09-05T14:49:52.504000+00:00] ChIcKeNeNjOyEr97 | 1545808191177228328
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545808191177228328
+Reply to: 1545800946175578113
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1545808190799880192", "original_content_type": "image/png", "placeholder": "CRgGBYCEl5ZveYeLiIWHeEC5BtiY", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1538437159088947210/1545808190799880192/content.png?ex=6aea9d50&is=6ae94bd0&hm=12c0b920c875b4bc8398b71fb2b2ca957b96d3cd107fb78a5aa16a66d4c01a55&", "size": 2603925, "url": "https://cdn.discordapp.com/attachments/1538437159088947210/1545808190799880192/content.png?ex=6aea9d50&is=6ae94bd0&hm=12c0b920c875b4bc8398b71fb2b2ca957b96d3cd107fb78a5aa16a66d4c01a55&", "width": 1536}], "components": [], "content": "**Arvaja is the red one, Arkaja is the black one and arpaja is the white one**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-05T14:21:05.161000+00:00", "type": 19}}
+
+[2026-09-06T01:45:46.357000+00:00] ChIcKeNeNjOyEr97 | 1545973253200154725
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973253200154725
+Ngl <@1311460994660306996> u cooked on the game today
+
+[2026-09-06T01:45:49.694000+00:00] ChIcKeNeNjOyEr97 | 1545973267196813475
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973267196813475
+Can’t wait to play again
+
+[2026-09-06T01:45:59.782000+00:00] Draven | 1545973309508689931
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973309508689931
+Reply to: 1545973253200154725
+Don’t I always cook
+
+[2026-09-06T01:46:29.984000+00:00] ChIcKeNeNjOyEr97 | 1545973436185051207
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973436185051207
+Yeah you do
+
+[2026-09-06T01:46:40.431000+00:00] ChIcKeNeNjOyEr97 | 1545973480003080295
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973480003080295
+Glad I could actually play a role in this game too
+
+[2026-09-06T01:48:15.682000+00:00] Draven | 1545973879514595329
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545973879514595329
+Reply to: 1545973480003080295
+Yessir
+
+[2026-09-06T03:21:33.912000+00:00] Riven | 1545997360193208350
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1538437159088947210/1545997360193208350
+his bih gave birth toby
+
+[2026-09-06T04:33:59.887000+00:00] ChIcKeNeNjOyEr97 | 1546015588533403728
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546015588533403728
+Artemis
+
+[2026-09-06T04:40:18.608000+00:00] ChIcKeNeNjOyEr97 | 1546017177004548191
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017177004548191
+<@1538115083513761813>
+
+[2026-09-06T04:40:42.095000+00:00] ChIcKeNeNjOyEr97 | 1546017275516026882
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017275516026882
+I’m sending this here because it’s a lot, but once you like simplify it can you send it in the big 3 so they can see please and thank you
+
+[2026-09-06T04:41:00.629000+00:00] Draven | 1546017353253392468
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017353253392468
+Reply to: 1546017275516026882
+Wdym
+
+[2026-09-06T04:41:04.033000+00:00] ChIcKeNeNjOyEr97 | 1546017367530676295
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017367530676295
+I want to expand the Frostbound Kingdom with more staff and facilities to make the kingdom more functional and comfortable, adding dedicated maids, butlers, cooks, cleaners, gardeners, stable workers, servants, messengers, guards, healers, tutors, teachers and personal attendants throughout the kingdom, adding children’s rooms, nurseries, staff quarters, kitchens, dining halls, laundry rooms, storage rooms, guest quarters, VIP rooms, reception halls and private gardens, I also want a large stable for horses and carriages along with expanded facilities for the wyverns, I want dedicated training grounds, classrooms, libraries and healing areas for everyone in the kingdom, I also want staff only corridors, servant staircases and underground passages connecting the kitchens, storage areas, staff quarters and other important parts of the kingdom so the staff can move around efficiently, these underground passages should also connect into the existing underground railroad and dungeon system that connects my kingdom with Adelram and Kaizen’s kingdoms, overall I want these expansions to make the Frostbound Kingdom feel like a fully functioning kingdom where everyone has somewhere to live, work, train, learn, heal and relax
+
+[2026-09-06T04:41:10.778000+00:00] ChIcKeNeNjOyEr97 | 1546017395821518868
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017395821518868
+Reply to: 1546017353253392468
+My improvements
+
+[2026-09-06T04:41:15.233000+00:00] Draven | 1546017414506876978
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017414506876978
+Reply to: 1546017367530676295
+O
+
+[2026-09-06T04:41:19.401000+00:00] Draven | 1546017431988998167
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017431988998167
+Uu shi
+
+[2026-09-06T04:42:55.019000+00:00] ChIcKeNeNjOyEr97 | 1546017833039691829
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017833039691829
+I also want to expand the Frostbound Kingdom with a huge defensive system built around the mountains, snow, ice and my lightning abilities, since we are extremely high in the mountains I want to build a massive tower at the highest point called the Stormwatch Spire, where we can see approaching armies, flying enemies and people traveling through the valleys from extremely far away, I want smaller watchtowers around the mountains connected to the main tower so we can keep watch over the entire area, I also want hidden warning systems around the mountains that can alert us whenever someone enters restricted areas, I want multiple defensive gates and shock traps from my lightning around the main entrances so people cannot just walk straight into the kingdom, I also want emergency shelters and evacuation routes throughout the kingdom so everyone has somewhere safe to go if the defenses are ever breached
+
+[2026-09-06T04:43:08.575000+00:00] Draven | 1546017889897812000
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017889897812000
+Allat for a daughter 😹
+
+[2026-09-06T04:43:25.850000+00:00] ChIcKeNeNjOyEr97 | 1546017962354413699
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546017962354413699
+Buckle up bud there’s more 😔
+
+[2026-09-06T04:43:55.071000+00:00] ChIcKeNeNjOyEr97 | 1546018084916166737
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546018084916166737
+Reply to: 1546017889897812000
+Also I kinda made mine a defense for kaizen and ADELRAM from my side
+
+[2026-09-06T04:43:58.771000+00:00] ChIcKeNeNjOyEr97 | 1546018100434964510
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546018100434964510
+For my lightning abilities, I want to create a system where I can store lightning inside special rods and conductors placed around the kingdom, since we are on a mountain I can use natural storms to constantly recharge the system, all of the stored lightning can be connected to a massive beacon at the top of the Stormwatch Spire called the Tempest Beacon, when I activate it, the stored lightning travels through the conductors around the mountain and creates a huge lightning barrier around the most important parts of the kingdom, the Beacon can also send a massive lightning signal into the sky as an emergency signal to let Adelram and Kaizen know that we are under attack, I want smaller lightning reserves around the kingdom too so the entire defense system does not depend on one location, I also want my stored lightning to power parts of the kingdom during emergencies so we always have a backup source of energy
+
+[2026-09-06T04:44:26.356000+00:00] ChIcKeNeNjOyEr97 | 1546018216135102534
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546018216135102534
+I also want hidden observation posts and secret routes throughout the mountains that only trusted defenders know about, so we can watch people approaching without revealing where the kingdom actually is, the natural snowstorms, cliffs and extreme altitude should also work with our defenses by making the mountains extremely difficult to navigate for people who do not know the safe routes, while still having safe paths for citizens and allies
+
+For Aure users, I want some of our detection systems to use things other than normal vision so manipulating light cannot completely blind us, for Tyreror users, I want our important liquid supplies separated and protected so one person cannot control everything at once, for Infernia users, I want important buildings to have strong heat resistance and emergency systems that can isolate areas if extreme flames appear, for Gravitos users, I want important structures to have magical stabilization so they cannot easily be affected by gravity manipulation, for Astria users, I want important areas to have layered magical boundaries and systems that can detect strange changes in space, for Mystia users, important commands should require verification from multiple trusted people so one person being mind controlled cannot take over the kingdom, and for other Tempest users I want the kingdom to have lightning resistant structures and separated power systems so they cannot interfere with the entire lightning network
+
+[2026-09-06T04:44:52.214000+00:00] ChIcKeNeNjOyEr97 | 1546018324591419422
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546018324591419422
+I also want the underground railroad and dungeon system connecting my kingdom with Adelram and Kaizen to have emergency shelters, supply rooms, medical areas and secure routes, so if one kingdom is attacked we can move people and reinforcements between the kingdoms, overall I want the Frostbound Kingdom to be built in layers so even if someone gets through one defense there are still multiple more defenses between them and the important areas of the kingdom, basically I want the mountains, our defenses, my lightning abilities and our connection to Adelram and Kaizen to all work together to make the kingdom extremely difficult to invade
+
+[2026-09-06T04:44:58.420000+00:00] ChIcKeNeNjOyEr97 | 1546018350621139015
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546018350621139015
+Last part kaizen already kinda did
+
+[2026-09-06T04:48:01.535000+00:00] ChIcKeNeNjOyEr97 | 1546019118661107734
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546019118661107734
+<@1311460994660306996> do you know how long it took to not only write this but come up with this
+
+[2026-09-06T04:48:03.998000+00:00] ChIcKeNeNjOyEr97 | 1546019128991678464
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546019128991678464
+Way to long
+
+[2026-09-06T04:48:07.201000+00:00] ChIcKeNeNjOyEr97 | 1546019142426034219
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546019142426034219
+I gotta take a nap now
+
+[2026-09-06T05:09:46.866000+00:00] Riven | 1546024593616277584
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1538437159088947210/1546024593616277584
+ou
+
+[2026-09-12T03:51:17.647000+00:00] ChIcKeNeNjOyEr97 | 1548179168913662004
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548179168913662004
+<@1463100226318368874>
+
+[2026-09-12T03:51:37.427000+00:00] Croco | 1548179251876855839
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548179251876855839
+yo
+
+[2026-09-12T03:52:11+00:00] ChIcKeNeNjOyEr97 | 1548179392692490282
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548179392692490282
+Is it possible for me to experiment on my own time, it seems like they are giving up on the idea but I feel we should at least have some type of idea of its properties and junk since max and em are figuring out how to unawaken people and stuff
+
+[2026-09-12T03:53:49.998000+00:00] Croco | 1548179807919931463
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548179807919931463
+Yes
+
+[2026-09-12T06:50:27.209000+00:00] ChIcKeNeNjOyEr97 | 1548224255844421665
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548224255844421665
+<@1463100226318368874> what if I left like a self destructing clone in my palace of my wife and daughter would that even work if dargan tried to kill em
+
+[2026-09-12T07:24:15.745000+00:00] Croco | 1548232764141084755
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548232764141084755
+yo
+
+[2026-09-12T07:27:06.852000+00:00] ChIcKeNeNjOyEr97 | 1548233481816121387
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1548233481816121387
+Yo
+
+[2026-09-15T00:46:10.336000+00:00] ChIcKeNeNjOyEr97 | 1549219745071636598
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549219745071636598
+<@1311460994660306996> wait are my wife and kids gone or will I seen em again?
+
+[2026-09-15T03:13:25.594000+00:00] Draven | 1549256802829471814
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549256802829471814
+Reply to: 1549219745071636598
+https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686
+Embed: {"content_scan_version": 4, "provider": {"name": "Tenor", "url": "https://tenor.co"}, "reference_id": "1549256802829471814", "thumbnail": {"content_type": "image/gif", "flags": 32, "height": 454, "placeholder": "4PcJDwSLaYiteIZvhsh2iIdrF5EJUscA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/nKm0J0Yr-Cl0EQu2pCd26cJeKkA2PKfq6mv1AOPqcyI/https/media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "url": "https://media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "width": 428}, "title": "Ishowspeed Fortnite GIF - Ishowspeed Speed Fortnite - Discover & Share GIFs", "type": "gifv", "url": "https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686", "video": {"content_type": "video/mp4", "flags": 0, "height": 454, "placeholder": "3/cJFwSLaYiteHZvhsh2iIdrF4EKY7cA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/cjWDzBBlOotbuX_jKDp5z_67s_lqWsRK9fWmG0PUkdE/https/media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "url": "https://media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "width": 428}}
+
+[2026-09-15T04:25:34.739000+00:00] ChIcKeNeNjOyEr97 | 1549274960579530823
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549274960579530823
+Nice JUST don’t answer the questuon
+
+[2026-09-15T04:25:40.824000+00:00] ChIcKeNeNjOyEr97 | 1549274986101870723
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549274986101870723
+Bro my kid was so sweet
+
+[2026-09-15T04:25:42.672000+00:00] ChIcKeNeNjOyEr97 | 1549274993853202533
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549274993853202533
+I want her back
+
+[2026-09-15T04:25:55.598000+00:00] ChIcKeNeNjOyEr97 | 1549275048068775958
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549275048068775958
+<@1311460994660306996>
+
+[2026-09-15T04:31:16.118000+00:00] Draven | 1549276392427098223
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276392427098223
+if you play today’s game
+
+[2026-09-15T04:31:35.368000+00:00] ChIcKeNeNjOyEr97 | 1549276473167446017
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276473167446017
+When?
+
+[2026-09-15T04:31:46.938000+00:00] ChIcKeNeNjOyEr97 | 1549276521695420457
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276521695420457
+I have school tomorrow or today basically since it’s 12
+
+[2026-09-15T04:32:01.643000+00:00] Draven | 1549276583372656673
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276583372656673
+Reply to: 1549276521695420457
+Why r u up
+
+[2026-09-15T04:32:03.753000+00:00] Draven | 1549276592222638103
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276592222638103
+If it’s 12
+
+[2026-09-15T04:32:26.665000+00:00] ChIcKeNeNjOyEr97 | 1549276688322404424
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276688322404424
+Reply to: 1549276583372656673
+I wanna get head on my work so I’m listening to music doing all this weeks assignments so I can chill in school this week
+
+[2026-09-15T04:32:58.793000+00:00] Draven | 1549276823077003285
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549276823077003285
+Reply to: 1549276688322404424
+why
+
+[2026-09-15T04:33:41.574000+00:00] ChIcKeNeNjOyEr97 | 1549277002513645589
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549277002513645589
+Because i procrastinate all my work last week
+
+[2026-09-15T04:33:46.061000+00:00] ChIcKeNeNjOyEr97 | 1549277021333487688
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549277021333487688
+So I’m doing it early so I cant
+
+[2026-09-15T04:35:31.764000+00:00] Draven | 1549277464683872357
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549277464683872357
+🫩
+
+[2026-09-15T04:35:35.615000+00:00] Draven | 1549277480836407387
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549277480836407387
+stop proscinating
+
+[2026-09-15T04:36:22.302000+00:00] ChIcKeNeNjOyEr97 | 1549277676655738991
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549277676655738991
+That’s why I’m doing it rn
+
+[2026-09-15T04:39:16.589000+00:00] ChIcKeNeNjOyEr97 | 1549278407668408403
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549278407668408403
+So that means I can’t play right?
+
+[2026-09-15T04:42:54.774000+00:00] Draven | 1549279322802495579
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549279322802495579
+Reply to: 1549278407668408403
+in a way
+
+[2026-09-15T04:42:56.678000+00:00] Draven | 1549279330788712490
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549279330788712490
+ig
+
+[2026-09-15T04:47:32.134000+00:00] ChIcKeNeNjOyEr97 | 1549280486134652999
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549280486134652999
+🫩
+
+[2026-09-15T04:47:33.309000+00:00] ChIcKeNeNjOyEr97 | 1549280491063091272
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1549280491063091272
+✌️
+
+[2026-09-17T04:34:02.284000+00:00] ChIcKeNeNjOyEr97 | 1550001865109016577
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550001865109016577
+<@1311460994660306996> when are u giving me plot?
+
+[2026-09-17T10:14:40.971000+00:00] Croco | 1550087591175397490
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550087591175397490
+Reply to: 1550001865109016577
+What
+
+[2026-09-17T10:14:42.997000+00:00] Croco | 1550087599673180292
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550087599673180292
+Nigga look at world lore
+
+[2026-09-19T03:01:48.954000+00:00] ChIcKeNeNjOyEr97 | 1550703432371937412
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550703432371937412
+<@1311460994660306996> when do I get my plot
+
+[2026-09-19T03:02:49.042000+00:00] Draven | 1550703684399276152
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550703684399276152
+Reply to: 1550703432371937412
+Did u read lore
+
+[2026-09-19T03:02:53.673000+00:00] Draven | 1550703703823089685
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550703703823089685
+Game 2 ended
+
+[2026-09-19T03:02:54.321000+00:00] Draven | 1550703706541137923
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550703706541137923
+And u weren’t there
+
+[2026-09-19T03:03:03.390000+00:00] Draven | 1550703744579018804
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550703744579018804
+Fuck u Toby😔
+
+[2026-09-19T03:04:20.855000+00:00] ChIcKeNeNjOyEr97 | 1550704069491040278
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704069491040278
+Not my fault
+
+[2026-09-19T03:04:25.974000+00:00] ChIcKeNeNjOyEr97 | 1550704090961682514
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704090961682514
+I was busy but I can play today!
+
+[2026-09-19T03:04:28.653000+00:00] ChIcKeNeNjOyEr97 | 1550704102198218763
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704102198218763
+❤️
+
+[2026-09-19T03:04:39.485000+00:00] Draven | 1550704147630919761
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704147630919761
+Reply to: 1550704090961682514
+Did u even know ur wife dird
+
+[2026-09-19T03:04:42.220000+00:00] ChIcKeNeNjOyEr97 | 1550704159102074941
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704159102074941
+Us getting tortured was end of game 2
+
+[2026-09-19T03:04:42.815000+00:00] Draven | 1550704161597689928
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704161597689928
+Ur child died
+
+[2026-09-19T03:04:45.003000+00:00] Draven | 1550704170775089196
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704170775089196
+Did u know that
+
+[2026-09-19T03:04:54.294000+00:00] ChIcKeNeNjOyEr97 | 1550704209744101508
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704209744101508
+Are we serious?!?
+
+[2026-09-19T03:04:57.713000+00:00] ChIcKeNeNjOyEr97 | 1550704224084562002
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704224084562002
+I thought only my wife
+
+[2026-09-19T03:04:59.006000+00:00] ChIcKeNeNjOyEr97 | 1550704229507932171
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704229507932171
+BRO
+
+[2026-09-19T03:05:00.386000+00:00] ChIcKeNeNjOyEr97 | 1550704235295801427
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704235295801427
+WHY
+
+[2026-09-19T03:05:00.641000+00:00] Draven | 1550704236365348967
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704236365348967
+Reply to: 1550704159102074941
+The planet was annihilated
+
+[2026-09-19T03:05:02.591000+00:00] ChIcKeNeNjOyEr97 | 1550704244544380993
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704244544380993
+WHAT THE HECK
+
+[2026-09-19T03:05:09.892000+00:00] ChIcKeNeNjOyEr97 | 1550704275166990427
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704275166990427
+so are we dead?
+
+[2026-09-19T03:05:11.073000+00:00] Draven | 1550704280120467598
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704280120467598
+Reply to: 1550704244544380993
+Arlo had the opportunity to save her and didn’t
+
+[2026-09-19T03:05:12.444000+00:00] Draven | 1550704285870854147
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704285870854147
+Blame him
+
+[2026-09-19T03:05:26.910000+00:00] Draven | 1550704346545659905
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704346545659905
+Reply to: 1550704275166990427
+No Arlo saved all the players and kaizens daughter
+
+[2026-09-19T03:07:49.728000+00:00] ChIcKeNeNjOyEr97 | 1550704945567764511
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704945567764511
+So he saved kaizens daughter and NOT MINE
+
+[2026-09-19T03:07:53.054000+00:00] ChIcKeNeNjOyEr97 | 1550704959518019685
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704959518019685
+BRO HIS DAUGHTER IS RACIST
+
+[2026-09-19T03:08:00.263000+00:00] ChIcKeNeNjOyEr97 | 1550704989754753135
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704989754753135
+MINE IS THE SWEETEST THING EVER
+
+[2026-09-19T03:08:01.147000+00:00] ChIcKeNeNjOyEr97 | 1550704993462517761
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550704993462517761
+BRO
+
+[2026-09-19T03:08:09.846000+00:00] ChIcKeNeNjOyEr97 | 1550705029948768337
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705029948768337
+<@1311460994660306996> please please please make me evil next game
+
+[2026-09-19T03:08:17.212000+00:00] ChIcKeNeNjOyEr97 | 1550705060843884716
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705060843884716
+Somehow please
+
+[2026-09-19T03:08:29.565000+00:00] ChIcKeNeNjOyEr97 | 1550705112656257046
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705112656257046
+Don’t tell anyone idk I think it’ll be fun to be a bad guy in the game
+
+[2026-09-19T03:08:55.746000+00:00] Draven | 1550705222467452940
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705222467452940
+Reply to: 1550705029948768337
+why
+
+[2026-09-19T03:09:03.780000+00:00] Draven | 1550705256164237373
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705256164237373
+Reply to: 1550704959518019685
+Ik
+
+[2026-09-19T03:09:40.914000+00:00] Draven | 1550705411915776131
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705411915776131
+Reply to: 1550705222467452940
+Big risk knowing Vespa is in game 3
+
+[2026-09-19T03:10:09.289000+00:00] ChIcKeNeNjOyEr97 | 1550705530929025056
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705530929025056
+Reply to: 1550705222467452940
+Don’t u think that would be fun?
+
+[2026-09-19T03:10:14.773000+00:00] ChIcKeNeNjOyEr97 | 1550705553930592327
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550705553930592327
+If I’m bad guy
+
+[2026-09-19T03:12:28.025000+00:00] ChIcKeNeNjOyEr97 | 1550706112829857873
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550706112829857873
+Idk I really liked being the big 3 before I thought it was a fun addition to be a bad guy or like not apart of everyone else u know
+
+[2026-09-19T03:15:19.580000+00:00] Draven | 1550706832383934515
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550706832383934515
+Reply to: 1550705530929025056
+Well
+
+[2026-09-19T03:15:30.028000+00:00] Draven | 1550706876206022677
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550706876206022677
+It’ll be unfair for u
+
+[2026-09-19T03:16:17.772000+00:00] ChIcKeNeNjOyEr97 | 1550707076458614935
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550707076458614935
+How
+
+[2026-09-19T03:16:20.502000+00:00] ChIcKeNeNjOyEr97 | 1550707087909195888
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550707087909195888
+Cause Vespa?
+
+[2026-09-19T03:16:26.067000+00:00] ChIcKeNeNjOyEr97 | 1550707111250632717
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550707111250632717
+Can’t u do something to make it fair doh?
+
+[2026-09-19T03:34:15.603000+00:00] Croco | 1550711597209751654
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550711597209751654
+Reply to: 1550707087909195888
+Yes
+
+[2026-09-19T03:34:54.688000+00:00] Croco | 1550711761144123445
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550711761144123445
+Reply to: 1550707111250632717
+It's possible to win and even beat vespa while being a villian but it'll take intense coordination, team work power timing and extreme luck, Not by yourself
+
+[2026-09-19T03:41:15.880000+00:00] ChIcKeNeNjOyEr97 | 1550713359978987531
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550713359978987531
+Sang
+
+[2026-09-19T03:41:32.228000+00:00] ChIcKeNeNjOyEr97 | 1550713428547469335
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550713428547469335
+I kinda wanna do it by myself, cause I don’t like when I’m like obligated to help everyone
+
+[2026-09-19T03:41:37.933000+00:00] ChIcKeNeNjOyEr97 | 1550713452476235817
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550713452476235817
+And then get blamed when I’m not here
+
+[2026-09-19T03:41:40.617000+00:00] ChIcKeNeNjOyEr97 | 1550713463733755950
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550713463733755950
+Or when I can’t help
+
+[2026-09-19T03:41:43.253000+00:00] ChIcKeNeNjOyEr97 | 1550713474789670964
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550713474789670964
+It makes me angry
+
+[2026-09-19T03:43:59.886000+00:00] ChIcKeNeNjOyEr97 | 1550714047870009407
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550714047870009407
+<@1463100226318368874>
+
+[2026-09-19T04:29:22.956000+00:00] Draven | 1550725469253402645
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550725469253402645
+Reply to: 1550713452476235817
+?
+
+[2026-09-19T04:29:33.659000+00:00] Draven | 1550725514145300553
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550725514145300553
+Team work doesn’t mean with other players
+
+[2026-09-19T04:30:31.542000+00:00] ChIcKeNeNjOyEr97 | 1550725756924203090
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550725756924203090
+Wdym by that then?
+
+[2026-09-19T04:30:42.053000+00:00] ChIcKeNeNjOyEr97 | 1550725801010401301
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550725801010401301
+Didn’t you say you can’t do it by yourself
+
+[2026-09-19T04:57:40.475000+00:00] Croco | 1550732589164273725
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732589164273725
+No player is a villian
+
+[2026-09-19T04:57:45.712000+00:00] Croco | 1550732611129708646
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732611129708646
+I meant when ur a villian
+
+[2026-09-19T04:57:50.333000+00:00] Croco | 1550732630511591475
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732630511591475
+you'd be on the villian side
+
+[2026-09-19T04:57:53.138000+00:00] Croco | 1550732642276610121
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732642276610121
+so ppl like apateon
+
+[2026-09-19T04:57:55.817000+00:00] Croco | 1550732653513416757
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732653513416757
+Zone
+
+[2026-09-19T04:57:59.936000+00:00] Croco | 1550732670789746769
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550732670789746769
+Zekrim
+
+[2026-09-19T13:10:24.522000+00:00] ChIcKeNeNjOyEr97 | 1550856589764730911
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550856589764730911
+Oh
+
+[2026-09-19T13:10:31.919000+00:00] ChIcKeNeNjOyEr97 | 1550856620789997600
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550856620789997600
+Idk I just think it would be fun to be a bad guy
+
+[2026-09-19T13:10:40.450000+00:00] ChIcKeNeNjOyEr97 | 1550856656571600907
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550856656571600907
+And I think it would add some plot to the story
+
+[2026-09-19T13:10:51.955000+00:00] ChIcKeNeNjOyEr97 | 1550856704827064411
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550856704827064411
+And lwk I have nothing to lose now this character has nothing
+
+[2026-09-19T17:30:50.407000+00:00] ChIcKeNeNjOyEr97 | 1550922129476681809
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550922129476681809
+And also I was thinking that playing by myself like being a villian would help me get better at dnd games
+
+[2026-09-19T17:30:56.591000+00:00] ChIcKeNeNjOyEr97 | 1550922155414397092
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550922155414397092
+And lwk my character is so bad rn
+
+[2026-09-19T17:31:00.038000+00:00] ChIcKeNeNjOyEr97 | 1550922169872293990
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550922169872293990
+Like all I have is speed
+
+[2026-09-19T17:31:05.471000+00:00] ChIcKeNeNjOyEr97 | 1550922192659685479
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1550922192659685479
+And I can’t even do nothing with it
+
+[2026-09-20T01:36:46.661000+00:00] ChIcKeNeNjOyEr97 | 1551044419669721149
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551044419669721149
+<@1463100226318368874>
+
+[2026-09-20T02:31:10.899000+00:00] Draven | 1551058110876225557
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551058110876225557
+Toby
+
+[2026-09-20T02:31:14.900000+00:00] Draven | 1551058127657508877
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551058127657508877
+ur gonna love game 3 man
+
+[2026-09-20T02:31:16.181000+00:00] Draven | 1551058133030273025
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551058133030273025
+SO much
+
+[2026-09-20T02:31:26.258000+00:00] Draven | 1551058175296536587
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551058175296536587
+Reply to: 1550922192659685479
+u weren't even there for yesterday 🥹
+
+[2026-09-20T02:31:27.533000+00:00] Draven | 1551058180644274207
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551058180644274207
+🫩
+
+[2026-09-20T03:03:38.272000+00:00] ChIcKeNeNjOyEr97 | 1551066278750326855
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066278750326855
+Sorry I feel asleep
+
+[2026-09-20T03:03:42.598000+00:00] ChIcKeNeNjOyEr97 | 1551066296894881865
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066296894881865
+What time will game be today?
+
+[2026-09-20T03:03:58.169000+00:00] ChIcKeNeNjOyEr97 | 1551066362204528693
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066362204528693
+What’s happening in game 3
+
+[2026-09-20T03:04:04.480000+00:00] ChIcKeNeNjOyEr97 | 1551066388674908192
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066388674908192
+<@1311460994660306996>
+
+[2026-09-20T03:04:11.598000+00:00] ChIcKeNeNjOyEr97 | 1551066418529828925
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066418529828925
+And what makes u think I’ll like it
+
+[2026-09-20T03:04:18.444000+00:00] ChIcKeNeNjOyEr97 | 1551066447243903077
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551066447243903077
+Bro I’m literally HORRID at this game
+
+[2026-09-20T03:12:28.367000+00:00] Draven | 1551068502130167901
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551068502130167901
+Reply to: 1551066296894881865
+in like
+
+[2026-09-20T03:12:34.708000+00:00] Draven | 1551068528726118494
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551068528726118494
+6 hours
+
+[2026-09-20T03:12:46.312000+00:00] Draven | 1551068577396957198
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551068577396957198
+Reply to: 1551066362204528693
+multiversal threat
+
+[2026-09-20T03:15:55.605000+00:00] ChIcKeNeNjOyEr97 | 1551069371349336225
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551069371349336225
+Oh dang
+
+[2026-09-20T03:16:18.090000+00:00] ChIcKeNeNjOyEr97 | 1551069465658003457
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551069465658003457
+Are we getting an upscale?
+
+[2026-09-20T03:29:02.514000+00:00] Draven | 1551072671884648449
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551072671884648449
+Reply to: 1551069465658003457
+Yes
+
+[2026-09-20T03:29:06.595000+00:00] Draven | 1551072689001865339
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551072689001865339
+It’s no longer ror
+
+[2026-09-20T03:29:10.918000+00:00] Draven | 1551072707133702175
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551072707133702175
+It’s tgc
+
+[2026-09-20T03:48:26.347000+00:00] ChIcKeNeNjOyEr97 | 1551077553354178631
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551077553354178631
+Oh dang tell me more
+
+[2026-09-20T03:56:58.148000+00:00] Draven | 1551079700003037235
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551079700003037235
+Wdym tell u kore
+
+[2026-09-20T03:57:00.463000+00:00] Draven | 1551079709712850965
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551079709712850965
+Look at trailer
+
+[2026-09-20T03:57:07.551000+00:00] Draven | 1551079739442069525
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551079739442069525
+And the cover for game 3
+
+[2026-09-20T04:46:19.146000+00:00] ChIcKeNeNjOyEr97 | 1551092119329054853
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551092119329054853
+I want u to tell me
+
+[2026-09-20T04:51:53.171000+00:00] Croco | 1551093520331182222
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551093520331182222
+okay
+
+[2026-09-20T04:52:58.418000+00:00] Croco | 1551093793996931186
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551093793996931186
+The Grand Continuum is hte name of the entire thing we're doing like the multiverse, RoR is the name of The universe ur currently in, TWN is the other universe, People from TWN and RoR and other universes are coming together Because A branch of the "All Time Tree" Was broken that means the multiverses could start to slowly disappear, hence why mostly people with time powers are there
+
+[2026-09-20T05:04:29.539000+00:00] ChIcKeNeNjOyEr97 | 1551096692768505857
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096692768505857
+YOOO
+
+[2026-09-20T05:04:36.367000+00:00] ChIcKeNeNjOyEr97 | 1551096721407348807
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096721407348807
+so we will see people from TWN?
+
+[2026-09-20T05:04:38.953000+00:00] ChIcKeNeNjOyEr97 | 1551096732253692005
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096732253692005
+That’s so cool
+
+[2026-09-20T05:04:42.039000+00:00] ChIcKeNeNjOyEr97 | 1551096745197572148
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096745197572148
+Nexus!
+
+[2026-09-20T05:04:52.066000+00:00] ChIcKeNeNjOyEr97 | 1551096787253731429
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096787253731429
+<@1463100226318368874> so will we see our own characters?
+
+[2026-09-20T05:04:59.923000+00:00] ChIcKeNeNjOyEr97 | 1551096820208242739
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551096820208242739
+And will they know we are the same perosn
+
+[2026-09-20T05:09:57.581000+00:00] Draven | 1551098068676513883
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551098068676513883
+Reply to: 1551096721407348807
+Ya
+
+[2026-09-20T05:10:04.279000+00:00] Draven | 1551098096769826927
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551098096769826927
+Reply to: 1551096820208242739
+No
+
+[2026-09-20T05:14:07.252000+00:00] ChIcKeNeNjOyEr97 | 1551099115872452710
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099115872452710
+Will there be like a civil war between ourselves
+
+[2026-09-20T05:14:12.197000+00:00] ChIcKeNeNjOyEr97 | 1551099136613290057
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099136613290057
+That will be awesome
+
+[2026-09-20T05:14:17.712000+00:00] ChIcKeNeNjOyEr97 | 1551099159745138821
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099159745138821
+Wait enas vs Vespa
+
+[2026-09-20T05:14:29.096000+00:00] ChIcKeNeNjOyEr97 | 1551099207493091370
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099207493091370
+So then it’s our characters from TWN vs ROR that would be awesome
+
+[2026-09-20T05:15:26.478000+00:00] ChIcKeNeNjOyEr97 | 1551099448170389556
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099448170389556
+Maybe if I got an upscale it would be 🫩
+
+[2026-09-20T05:15:29.736000+00:00] ChIcKeNeNjOyEr97 | 1551099461835554848
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551099461835554848
+I’m gonna die out there
+
+[2026-09-20T05:18:34.681000+00:00] Croco | 1551100237550977045
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551100237550977045
+Reply to: 1551099115872452710
+Multiversal war nga
+
+[2026-09-20T05:18:44.106000+00:00] Croco | 1551100277082296332
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551100277082296332
+Enas maleficia vespa adelram and loki r working tg
+
+[2026-09-20T05:22:14.460000+00:00] ChIcKeNeNjOyEr97 | 1551101159370915912
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551101159370915912
+Oh dang
+
+[2026-09-20T05:22:26.325000+00:00] ChIcKeNeNjOyEr97 | 1551101209136341033
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551101209136341033
+So maybe being evil wouldn’t be the move
+
+[2026-09-20T05:22:30.332000+00:00] ChIcKeNeNjOyEr97 | 1551101225943048213
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551101225943048213
+But that would be so fun tho
+
+[2026-09-20T05:30:32.202000+00:00] Draven | 1551103247052308511
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551103247052308511
+Reply to: 1551101209136341033
+That’s why I warned u bud
+
+[2026-09-20T05:30:40.237000+00:00] Draven | 1551103280753680405
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551103280753680405
+There’s so much lore in this
+
+[2026-09-20T06:08:52.769000+00:00] ChIcKeNeNjOyEr97 | 1551112896329687172
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551112896329687172
+Okay fine
+
+[2026-09-20T06:09:00.709000+00:00] ChIcKeNeNjOyEr97 | 1551112929632321627
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551112929632321627
+Wait till I get illusion back
+
+[2026-09-20T06:11:40.494000+00:00] Draven | 1551113599819186228
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551113599819186228
+Reply to: 1551112929632321627
+How will that work
+
+[2026-09-20T06:15:55.878000+00:00] ChIcKeNeNjOyEr97 | 1551114670977327206
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551114670977327206
+Idk
+
+[2026-09-20T06:16:01.367000+00:00] ChIcKeNeNjOyEr97 | 1551114693999992864
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551114693999992864
+I just want it back 🫩
+
+[2026-09-20T06:16:05.709000+00:00] ChIcKeNeNjOyEr97 | 1551114712211660862
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551114712211660862
+Be power on earnest
+
+[2026-09-20T06:16:08.576000+00:00] ChIcKeNeNjOyEr97 | 1551114724236857408
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551114724236857408
+If I had the staff
+
+[2026-09-20T06:16:11.614000+00:00] ChIcKeNeNjOyEr97 | 1551114736979021865
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551114736979021865
+I would be a demon
+
+[2026-09-20T07:35:33.277000+00:00] ChIcKeNeNjOyEr97 | 1551134708841320500
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551134708841320500
+If only I awakened with the yellow stone
+
+[2026-09-20T07:35:38.153000+00:00] ChIcKeNeNjOyEr97 | 1551134729292619777
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551134729292619777
+Bro I did nothing that game
+
+[2026-09-20T07:35:43.928000+00:00] ChIcKeNeNjOyEr97 | 1551134753514856489
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551134753514856489
+🫩
+
+[2026-09-20T07:35:46.953000+00:00] ChIcKeNeNjOyEr97 | 1551134766202622084
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551134766202622084
+What do I do Draven
+
+[2026-09-20T09:15:12.051000+00:00] Draven | 1551159785636892743
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551159785636892743
+Reply to: 1551134708841320500
+It’s oksy
+
+[2026-09-20T09:15:22.215000+00:00] Draven | 1551159828267802703
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551159828267802703
+This game gives people new ways to be powerful and without plot and hard work
+
+[2026-09-20T09:15:33.963000+00:00] Draven | 1551159877542346914
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551159877542346914
+Reply to: 1551134766202622084
+It’s okay Toby
+
+[2026-09-20T09:15:37.685000+00:00] Draven | 1551159893153816638
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551159893153816638
+Ur love is here 💋
+
+[2026-09-20T12:46:18.887000+00:00] ChIcKeNeNjOyEr97 | 1551212914197921855
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551212914197921855
+Okay
+
+[2026-09-20T12:46:21.878000+00:00] ChIcKeNeNjOyEr97 | 1551212926742954045
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551212926742954045
+Okay that’s good
+
+[2026-09-20T12:47:20.221000+00:00] Croco | 1551213171451240500
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551213171451240500
+toby join call
+
+[2026-09-20T17:03:58.584000+00:00] ChIcKeNeNjOyEr97 | 1551277756866887743
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551277756866887743
+Sorry I wasn’t hone
+
+[2026-09-20T23:42:30.561000+00:00] Draven | 1551378050967670806
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551378050967670806
+Reply to: 1551277756866887743
+https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686
+Embed: {"content_scan_version": 4, "provider": {"name": "Tenor", "url": "https://tenor.co"}, "reference_id": "1551378050967670806", "thumbnail": {"content_type": "image/gif", "flags": 32, "height": 454, "placeholder": "4PcJDwSLaYiteIZvhsh2iIdrF5EJUscA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/nKm0J0Yr-Cl0EQu2pCd26cJeKkA2PKfq6mv1AOPqcyI/https/media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "url": "https://media1.tenor.com/m/Af-HOPuU9H4AAAAC/ishowspeed-speed.gif", "width": 428}, "title": "Ishowspeed Fortnite GIF - Ishowspeed Speed Fortnite - Discover & Share GIFs", "type": "gifv", "url": "https://tenor.com/view/ishowspeed-speed-fortnite-early-stream-reunion-gif-143982391907906686", "video": {"content_type": "video/mp4", "flags": 0, "height": 454, "placeholder": "3/cJFwSLaYiteHZvhsh2iIdrF4EKY7cA", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/cjWDzBBlOotbuX_jKDp5z_67s_lqWsRK9fWmG0PUkdE/https/media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "url": "https://media.tenor.com/Af-HOPuU9H4AAAPo/ishowspeed-speed.mp4", "width": 428}}
+
+[2026-09-21T01:14:27.799000+00:00] ChIcKeNeNjOyEr97 | 1551401191940956173
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551401191940956173
+Mb bro
+
+[2026-09-21T05:40:19.027000+00:00] Croco | 1551468096240492625
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1551468096240492625
+Reply to: 1551401191940956173
+join up call
+
+[2026-09-24T08:20:47.696000+00:00] Croco | 1552595645402058812
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552595645402058812
+
+File (saved): attachments/1538437159088947210/1552595645402058812/1552595643623809094_content.png
+
+[2026-09-24T09:23:16.742000+00:00] Croco | 1552611370040557608
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552611370040557608
+Artemis
+Age :13
+File (saved): attachments/1538437159088947210/1552611370040557608/1552611368421564427_content.png
+
+[2026-09-24T10:07:22.028000+00:00] Croco | 1552622465174343731
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552622465174343731
+**Arkaja**
+File (saved): attachments/1538437159088947210/1552622465174343731/1552622463555215400_content.png
+
+[2026-09-25T00:43:31.032000+00:00] ChIcKeNeNjOyEr97 | 1552842955558223996
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552842955558223996
+Reply to: 1552622465174343731
+Why she bad asl 😭
+
+[2026-09-25T10:56:27.733000+00:00] Croco | 1552997208222339136
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997208222339136
+Reply to: 1552842955558223996
+bro
+
+[2026-09-25T10:56:29.242000+00:00] Croco | 1552997214551277641
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997214551277641
+play the game
+
+[2026-09-25T10:57:33.040000+00:00] ChIcKeNeNjOyEr97 | 1552997482139754517
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997482139754517
+I can play today
+
+[2026-09-25T10:57:35.079000+00:00] ChIcKeNeNjOyEr97 | 1552997490691936326
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997490691936326
+Cause it’s Friday
+
+[2026-09-25T10:58:05.742000+00:00] ChIcKeNeNjOyEr97 | 1552997619301744661
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997619301744661
+<@1463100226318368874> how do u feel about the realistic ones
+
+[2026-09-25T10:58:10.331000+00:00] ChIcKeNeNjOyEr97 | 1552997638549413932
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997638549413932
+Idk to me it looks kinda weird
+
+[2026-09-25T10:58:24.221000+00:00] ChIcKeNeNjOyEr97 | 1552997696808419392
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997696808419392
+I don’t like it besides like the solo ones it makes everything look weird
+
+[2026-09-25T10:59:32.828000+00:00] Croco | 1552997984567033859
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552997984567033859
+Reply to: 1552997619301744661
+its scary
+
+[2026-09-25T10:59:40.217000+00:00] Croco | 1552998015558619189
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552998015558619189
+soo realism
+
+[2026-09-25T10:59:54.638000+00:00] Croco | 1552998076044542024
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552998076044542024
+Reply to: 1552997696808419392
+go to <#1551573873265213702>
+
+[2026-09-25T11:03:38.739000+00:00] ChIcKeNeNjOyEr97 | 1552999015992524851
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1552999015992524851
+Okay I’m der
+
+[2026-09-25T12:01:29.085000+00:00] Croco | 1553013571678511186
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553013571678511186
+Reply to: 1552999015992524851
+anytihng but plyng
+
+[2026-09-25T23:37:38.686000+00:00] ChIcKeNeNjOyEr97 | 1553188766083190825
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553188766083190825
+I can play today bro
+
+[2026-09-25T23:38:05.574000+00:00] Draven | 1553188878859370617
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553188878859370617
+Reply to: 1553188766083190825
+Said that last night 🫩
+
+[2026-09-25T23:38:13.102000+00:00] ChIcKeNeNjOyEr97 | 1553188910434222191
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553188910434222191
+Also did me and my wife get back together or does she still hate my ah
+
+[2026-09-25T23:38:37.765000+00:00] ChIcKeNeNjOyEr97 | 1553189013878349845
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553189013878349845
+Reply to: 1553188878859370617
+No I meant like today sorry we have different time zones when I said that earlier it was like 6 or 7 am
+
+[2026-09-25T23:38:48.583000+00:00] ChIcKeNeNjOyEr97 | 1553189059252461620
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553189059252461620
+Now it’s 7 pm I mean today or tomorrow early
+
+[2026-09-25T23:40:09.697000+00:00] Draven | 1553189399469105395
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553189399469105395
+Reply to: 1553189013878349845
+Kaizen was on same time zone as u
+
+[2026-09-25T23:42:39.177000+00:00] ChIcKeNeNjOyEr97 | 1553190026433794181
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553190026433794181
+No kaizen live sin cal right?
+
+[2026-09-25T23:42:44.910000+00:00] ChIcKeNeNjOyEr97 | 1553190050479743057
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553190050479743057
+so his time zone is different
+
+[2026-09-25T23:44:05.046000+00:00] Draven | 1553190386594349077
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553190386594349077
+M
+
+[2026-09-25T23:44:07.800000+00:00] Draven | 1553190398145339573
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553190398145339573
+Mb
+
+[2026-09-25T23:44:14.034000+00:00] Draven | 1553190424292761702
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553190424292761702
+Reply to: 1553190026433794181
+Alabama
+
+[2026-09-25T23:46:32.247000+00:00] ChIcKeNeNjOyEr97 | 1553191004000092262
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553191004000092262
+Hey he’s in different time zones
+
+[2026-09-25T23:46:38.988000+00:00] ChIcKeNeNjOyEr97 | 1553191032273768469
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553191032273768469
+He’s an a hour behind
+
+[2026-09-25T23:47:23.989000+00:00] Draven | 1553191221021904937
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553191221021904937
+1 hour 🫩
+
+[2026-09-25T23:47:29.552000+00:00] Draven | 1553191244354686991
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553191244354686991
+And he seems to show up 🙄
+
+[2026-09-25T23:53:14.917000+00:00] ChIcKeNeNjOyEr97 | 1553192692920623105
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553192692920623105
+Well I’m busier than him so
+
+[2026-09-25T23:53:30.750000+00:00] ChIcKeNeNjOyEr97 | 1553192759328768092
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553192759328768092
+So does my wife hate me still?
+
+[2026-09-25T23:55:36.946000+00:00] Draven | 1553193288633155697
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193288633155697
+Reply to: 1553192759328768092
+Yes
+
+[2026-09-25T23:56:53.702000+00:00] ChIcKeNeNjOyEr97 | 1553193610571284552
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193610571284552
+Bruhhh
+
+[2026-09-25T23:57:09.852000+00:00] ChIcKeNeNjOyEr97 | 1553193678309298217
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193678309298217
+And she’s bad asl 🫩✌️
+
+[2026-09-25T23:57:17.779000+00:00] ChIcKeNeNjOyEr97 | 1553193711557550131
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193711557550131
+Start game so I can do something
+
+[2026-09-25T23:57:20.973000+00:00] Draven | 1553193724954026025
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193724954026025
+u haven’t talked to her since she hated u
+
+[2026-09-25T23:57:23.997000+00:00] Draven | 1553193737637597265
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553193737637597265
+Why wouldn’t she
+
+[2026-09-26T00:00:35.810000+00:00] ChIcKeNeNjOyEr97 | 1553194542159896761
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553194542159896761
+Idk
+
+[2026-09-26T00:00:56.875000+00:00] ChIcKeNeNjOyEr97 | 1553194630512906270
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553194630512906270
+Ig but like aren’t I so charming
+
+[2026-09-26T00:39:53.076000+00:00] Croco | 1553204429249843384
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553204429249843384
+Reply to: 1553194630512906270
+:/
+
+[2026-09-26T02:42:14.192000+00:00] ChIcKeNeNjOyEr97 | 1553235220122046506
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553235220122046506
+So how could I get my wife to like me again
+
+[2026-09-26T02:45:15.831000+00:00] Croco | 1553235981971488829
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553235981971488829
+js play the game big dawg
+
+[2026-09-26T08:57:26.069000+00:00] ChIcKeNeNjOyEr97 | 1553329641777795163
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553329641777795163
+Game started earlier than I thought 😔
+
+[2026-09-26T08:57:51.410000+00:00] Draven | 1553329748065910855
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553329748065910855
+Reply to: 1553329641777795163
+???
+
+[2026-09-26T08:57:56.794000+00:00] Draven | 1553329770647789691
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553329770647789691
+It literally fucking started when u said start now
+
+[2026-09-26T14:44:24.311000+00:00] ChIcKeNeNjOyEr97 | 1553416959813492737
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553416959813492737
+To
+
+[2026-09-26T14:44:26.174000+00:00] ChIcKeNeNjOyEr97 | 1553416967627473041
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553416967627473041
+Yo
+
+[2026-09-27T02:33:08.051000+00:00] Croco | 1553595317306269879
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553595317306269879
+hi
+
+[2026-09-27T04:01:51.426000+00:00] ChIcKeNeNjOyEr97 | 1553617645159448748
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553617645159448748
+Hi
+
+[2026-09-27T04:02:07.219000+00:00] ChIcKeNeNjOyEr97 | 1553617711400222781
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553617711400222781
+Start game
+
+[2026-09-27T04:02:14.870000+00:00] ChIcKeNeNjOyEr97 | 1553617743490715649
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553617743490715649
+<@1463100226318368874> is it possible to bring my wife back?
+
+[2026-09-27T04:36:13.547000+00:00] Croco | 1553626294321942599
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553626294321942599
+Reply to: 1553617743490715649
+your wife is not dead she is at the bottom of the sea, she is dying tho, her cretature form is giving her more time to survive but soon her lungs might collapse
+
+[2026-09-27T04:37:06.638000+00:00] ChIcKeNeNjOyEr97 | 1553626517001478308
+Author ID: 728258548374700134
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553626517001478308
+Reply to: 1553626294321942599
+So how do I get to her?
+
+[2026-09-27T04:37:17.245000+00:00] Croco | 1553626561490460773
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1538437159088947210/1553626561490460773
+ask tyreror users
+

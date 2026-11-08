@@ -1,0 +1,55 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0081.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0081
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4532–4574  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Croco | 2026-10-18T11:20:28.900Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561338173823389707
+Croco | 2026-10-19T06:13:41.177Z | #sub-announcements
+https://discord.com/channels/1535189086258855946/1546587596392759366/1561623354102784061
+Croco | 2026-10-19T06:19:59.198Z | #sub-announcements
+https://discord.com/channels/1535189086258855946/1546587596392759366/1561624939637776459
+Croco | 2026-10-20T08:30:28.296Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020165120434198
+
+38.12 OPEN QUESTIONS AND SOURCE STATUS
+
+Still unresolved: precise universal sale rates/cooldowns; the older Loki ledger and Kaizen's 15+13 versus 27 count; the exact scope of eight versus nine stones; the complete Animalia incarnation sequence; Arlo's remaining eye slots; anatomical placement of Adelram/Dargan/Loki's sets where earlier labels conflict; named powers and completed installation for the proposed hand eyes; Jerial techniques and unlock rules; Adelram's Slug species/element; all requested-but-unawarded Slugs; complete Alay class/race records; numeric ranges and budgets missing from the new eye sheets; and whether particular cross-system combinations receive GM approval.
+
+The October 21 tail contains Adelram's statement that his son from TWN is evil. Preserve it as a player lore claim; it neither identifies a new named child in this message nor proves that current Kaizen is that child. Anime debates, real-life conversation and account accusations remain in the attributed transcript without becoming TGC canonical events. Draven's dual player/GM role and use of AI remain relevant: an account posting a plan, joke or preview does not make the proposed event happen.
+
+No newly completed player race change is established by this update. The earlier race and Titan roster, all six complete lore texts and historical ARO/Null/OASIS/Cell/Shadowics/stone sources remain in the current editions. The three new eye sheets and full ranking are preserved verbatim with attribution, and readable boss/spin labels are preserved as explicitly labeled visual transcriptions. This is a dated archive snapshot, not live monitoring or a claim to hidden/deleted history.
+
+Sources:
+Adelram | 2026-10-21T05:48:45.284Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562341855603982398
+Adelram | 2026-10-21T05:49:28.386Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562342036387143702
+Croco | 2026-10-21T05:50:00.825Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562342172446171158
+Croco | 2026-10-19T11:28:07.310Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561702484399886347
+Croco | 2026-10-20T08:27:31.074Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562019421797490701
+
+
+
+DATED TEAM GUIDE FOUNDATION
+
+37.1 CURRENT EYE OWNERS - COMPLETED SALES AND NEW ROLLS
+
+Apply these October 18 results before older registers. A result for an eye replaces that eye's earlier result. A requested target, skipped result, old sheet or anatomical socket is not an extra owned power. No new race change is confirmed.
+
+LOKI / SHIFT (player account): Croco explicitly completes the sale of Dominion and both Moon eyes for 190 spins. Those three powers are no longer his. He then obtains Sun, Secret Eye 1 (TGC), and OVRATH (Mythical++). His latest stated layout is Sun left, Secret Eye 1 right and OVRATH third; Croco replies to that layout by awarding OVRATH for the requested third eye. Preserve the confidence distinction: the named awards are direct GM results; the final Sun-left layout is the player's later clarification within that exchange, whereas the earlier Sun request said right. Do not silently stack Sun and Secret Eye 1 in the same socket or retain the sold Moon pair. The earlier offer of Moon to Adelram and Dominion to Kaizen was not a completed eye trade.
+
+ADELRAM: new direct awards are Secret Eye 2 (TGC) and Moon (Dragon+++). He sells Zyra for two spins, rolls Zyra again and cannot immediately resell it. Loki then gives him 45 spins, explicitly acknowledged by Croco; 32 obtain Secret Eye 2 and all remaining 13 obtain Moon. Neither new result states its left/right/third slot. His earlier three-eye set was Reverie Loom, Zyra and '1'. The exact slot replaced by each new award and the identity of the remaining eye are unresolved. Do not list Reverie Loom, Zyra, '1', Secret Eye 2 and Moon as five simultaneous owned eyes. Reverie Loom's newly provided sheet remains useful source lore even if its present ownership needs clarification.
+
+DARGAN / DARGEN: confirmed current named set is Secret Eye 3 (TGC), Director (Dragon x2 / Dragon++), and Void. His direct request to spin off KHEZ produces Void in six spins, closing the previous uncertainty about a third named result. Exact anatomical assignment is still not resolved. 'Secret Eye 3' is the power's name, not proof of third-slot placement. KHEZ is replaced; old NYXAR and Ryth results must not be added back. Director's rarity is explicitly corrected to Dragon x2 rather than Adelram's Dragon+ recollection.
+

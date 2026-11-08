@@ -1,0 +1,87 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Titan_Register/0001.md
+Category: powers | Collection: Titan Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0001
+
+Source: `Archive/Original_Texts/Reference/Titan_Register.txt`  
+Lines: 82–156  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+ability is inferred from cell ancestry. Mercury Null, Mercury Cell and the
+removed Tyreror Mercury Form stay separate.
+
+TGC is the merged setting, including TWN/Prism/Vesperia and ROR; ROR is the
+current universe as clarified by the user. Preserve the full supplied books
+as lore sources. Draven is both a player and GM and has allowed AI to run
+the game. A GM channel/account does not make every proposal a completed event.
+Save accessible server text with authors, times and evidence. Keep images
+omitted, preserve text context, and deliver only the latest standalone edition.
+
+
+USER EYE AND RANKING UPDATE — VERIFIED DURING v38 REFRESH
+
+Source: direct user statement in this task, followed by Discord evidence.
+Sign-in was resolved and the server continuation was collected.
+
+ORIGINAL USER STATEMENT
+continue, there is new lore, like me replacing my winter eye that was mythical++ for a dominion that was dragon++ then i replaced it for a void that was dragon+++, so i now have 2 dragon+++ eyes and im ranked 4th strongest in players when everyone said i was weaker then them, for example they said mariam and arlo and toby were stronger than me!! they DOUBTED ME!!!
+
+CURRENT RECORD
+
+Kaizen has '1' left and Void right, both Dragon+++. The user's compressed
+Winter → Dominion → Void sequence is preserved; the observed rolls also
+include temporary Zyra and Reverie Loom results. Winter and Dominion are
+historical, not extra equipped eyes. Croco's right-eye Void award is
+1562044704223141952 after the explicit right request 1562044105519796237.
+The October 21 character-channel labels identify 'Void eye' and '1 eye'.
+
+The user confirms Winter Mythical++ and Dominion Dragon++. Croco's new
+Winter comment says only 'mythical'; preserve that source precision
+difference. Void Dragon+++ is expressly stated by Croco. No new third
+Kaizen eye has been awarded. '1' is distinct from Loki's Secret Eye 1.
+
+Croco's October 19 sub-announcements list ranks Kaizen fourth, above Toby
+fifth, Arlo sixth and Mariam seventh. It predates the later eye changes.
+The full eight-place list and reasons are in 38.1; its source posts are
+1561620979443310623, 1561623354102784061 and 1561624939637776459. The user's
+reaction to being underestimated remains their own perspective; a ranking
+does not establish completed battles or make Kaizen the main character.
+
+TITAN REGISTER - v41; four demonstrated companion mergers and Dromak training
+
+41.2 FUSION HISTORY: MEMBERSHIP, TITANS AND SEPARATION
+
+October 23's original five separate step by step. Loki's Stones and eyes leave with him, Adelram's Branch/time kit leaves with him, and Dargen's departure removes J from the remaining Kaizen/Toby pair. This directly limits the assumption that every member permanently owns everything shared in a fusion.
+
+A new Loki/Adelram/Dargen trio forms, then Kaizen, Abraxas and Mariam join. Mariam's integration is described with four eyes and a power above Dragon x20. Toby later makes seven. Varkhazar, Sylvara, Mother Prana and Kryvorn each have specific fusion scenes; Ignis breaks the assembly apart. Do not convert this into automatic five-Titan merging, or leave the handbook's older untested-status warning as the only current evidence.
+
+Two Lokis combine (Lokarion), two Adelrams combine, and the resulting larger body is called Aelkarion then Adarlok. Dargen, Max, Kaizen, Abraxas and Arlo join in later stages; members subsequently leave for family, prison exchange or training. Narrated counts and repeated departures are occasionally inconsistent. Keep those scenes as a chronology, not a single additive permanent roster. The October 25 explicit three-to-four-to-five sequence is the reliable present list.
+
+The corrected handbook identifies all original five as Titan and preserves their separate contracts: Kaizen/Vaelthoryn, Toby/Mother Prana, Loki/Varkhazar, Dargen/Kryvorn, Adelram/Sylvara. Its Adelram Titan correction is sourced to the posted compilation. Historical Genesis entries for Adelram must be labeled disputed/superseded by that compilation, while Abraxas's later explicit Genesis roll is a separate award.
+
+Shared access, post-kill extraction and permanent individual transfer are three different events. Later Plasma/Jera transfer establishes particular permanent acquisitions; it does not globally override the separation rule.
+
+Sources:
+Croco | 2026-10-23T11:53:40.824Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563158467886448712
+Croco | 2026-10-23T11:55:03.799Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563158815908560921
+Croco | 2026-10-23T11:56:30.026Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563159177571078146
+Croco | 2026-10-23T11:57:55.150Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563159534606880771
+Croco | 2026-10-23T12:11:00.913Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563162830335774771
+Croco | 2026-10-23T12:16:39.235Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563164249361223691
+Croco | 2026-10-23T13:25:28.487Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563181568699404389
+Croco | 2026-10-23T13:28:30.133Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563182330577686619
+Croco | 2026-10-24T02:14:19.554Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563375056418246737
+Croco | 2026-10-24T02:38:47.284Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563381212524060795

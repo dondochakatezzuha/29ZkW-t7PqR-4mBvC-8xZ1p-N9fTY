@@ -1,0 +1,68 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/TGC_Lore_Guide/0006.md
+Category: lore | Collection: TGC Lore Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0006
+
+Source: `Archive/Original_Texts/Reference/TGC_Lore_Guide.txt`  
+Lines: 337–392  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Draven identifies five children of the NPC Shift: Albion, Move, run, Mercer and Estelar. This refers to the story entity, not automatically the Discord user currently named Shift who plays Loki. Draven also explains that Move's father chose his large appearance and could change it but does not want to. These are attributed lore explanations, not a new player race or power acquisition.
+
+Draven says only three TGC Eyes exist in all TGC. A separate statement calls Vespa a TGC-ranked entity while saying its eyes are not ranked in that way. A forwarded historical Eye of Vespa listing from General gives RoR rarity, Dragon requirement, trade through Draven and a 1.2 trillion VIP-card price; Draven answers that it is RoR. Preserve the distinction between the entity's rank, the historical item's rarity and the three numbered TGC Eyes. The repost is not a current purchase, new owner or proof that RoR and TGC eyes are identical.
+
+The discussion adds no resolved acquisition of a new biological race or a new numbered player eye. Azreal's green-eye bloodline manifestation and Predator's Eye assistance are covered in their character entries, without inventing ranks. Reposted Cell names, Kaizen's YellowCell-as-race wording and assertions about relative player ranks do not independently award new species or settle a current strongest-player table.
+
+Sources:
+2026-10-29T07:54:49.819Z | Draven | 1565272686488195133
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565272686488195133
+2026-10-29T07:55:27.725Z | Draven | 1565272845477744694
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565272845477744694
+2026-10-29T07:51:00.818Z | Draven | 1565271725988646923
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565271725988646923
+2026-10-29T07:52:22.009Z | Draven | 1565272066528387213
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565272066528387213
+2026-10-29T07:52:37.916Z | Draven | 1565272133246914632
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565272133246914632
+2026-10-29T07:59:11.185Z | Draven | 1565273782736789566
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565273782736789566
+2026-10-29T08:00:02.320Z | Draven | 1565273997212520632
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565273997212520632
+2026-10-29T08:00:09.939Z | kaizen | 1565274029168795730
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565274029168795730
+2026-10-29T08:00:20.383Z | Draven | 1565274072974368789
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565274072974368789
+
+11. Merge status and unresolved requests at cutoff
+CONTINUITY CONTROLS; NO INFERRED GRANTS OR DEATHS
+
+No completed remerge is captured in this interval. Kaizen casually lists Toby, Mariam, Abraxas and Max as a merge, but Toby's prior resolved departure is not reversed by that assertion. The current active body remains unverified: Abraxas, Max and Mariam are only possible residual members after the prior broad separation narration, with Platonic Dargen's disposition unresolved. Kaizen, Loki, Adelram and real Dargen are not newly restored to it; Arlo's entry remains unresolved. Do not revive the old all-members roster simply because new personal powers were gained.
+
+The user's rule remains controlling: a completed unmerge removes that person's contribution unless the specific ability was unlocked with J (now L) AND distributed by the Max Method. Borrowed tail access, a personal Outside System transfer or a speculative past-self merge is not evidence of that retention process. No new qualifying distribution is shown.
+
+At cutoff, Arlo requests eight manipulations, Abraxas asks about merging with his past self, Toby asks for power and to speak with Artemis, and Loki asks K to erase Toby. None has a resolved outcome in the saved range. Earlier Mariam-erasure talk is not an executed death. AllFather combat remains pending. Do not award powers, revive past selves or mark characters dead from unfulfilled player commands.
+
+Current practical limits: Kaizen is beginning Energy training, not mastering all eight; the tails borrow rather than independently own his new manipulations; Adelram owns three new purchases but has not completed the reservoir; Poseidon's external attack defeated this copying enemy; Dargen is improving natural technique but has not finished God of Speed training; the children's demonstrated skills remain distinct individual records. Keep all older sourced history and apply later explicit corrections with their dates.
+
+Sources:
+2026-10-29T08:44:54.983Z | kaizen | 1565285291059585146
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565285291059585146
+2026-10-29T11:01:03.980Z | Shift | 1565319554316640477
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319554316640477
+2026-10-29T11:01:10.436Z | Arlo | 1565319581394931874
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319581394931874
+2026-10-29T11:01:12.753Z | Abraxas | 1565319591113007255
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319591113007255
+2026-10-29T11:01:31.361Z | kaizen | 1565319669160607745
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319669160607745
+2026-10-29T11:02:23.538Z | Larper Boy Toby | 1565319888006815885
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319888006815885
+2026-10-29T10:59:53.346Z | Larper Boy Toby | 1565319258056032367
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319258056032367
+
+
+PRIOR DATED GUIDE
+

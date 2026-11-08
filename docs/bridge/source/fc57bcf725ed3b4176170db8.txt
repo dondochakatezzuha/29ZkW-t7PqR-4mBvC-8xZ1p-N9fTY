@@ -1,0 +1,104 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-08.txt
+Category: characters | Collection: Dargam
+Export content (not verified canon; see source context):
+
+#dargam | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-09T09:21:23.337000+00:00] Tickets v2 | 1535941052567920680
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1535941051322466405/1535941052567920680
+-# ||<@&1535189086258855954>||
+
+[2026-08-09T09:21:23.645000+00:00] Tickets v2 | 1535941053859762219
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1535941051322466405/1535941053859762219
+
+Embed: {"color": 3066993, "content_scan_version": 4, "description": "Create. make only one to store your info, like appearance and abilities.", "fields": [{"inline": true, "name": "- Player Character Information", "value": "Character creation: Name, Age, gender, Height, Weight, Clothing, clothing color, hair, hair color. Don't put too much thought into character creation but weight and height does affect your character. Your character will change in appearance overtime depending on how your story unfolds."}, {"inline": false, "name": "- Choose 2 unique features that your character may possess:", "value": "These features are aesthetical and serve no real power or purpose besides more personality."}, {"inline": false, "name": "UNIQUE FEATURES, Physical features:", "value": "Scarred knuckles, uneven eyes, a chipped tooth, a streak of naturally lighter hair, unusual freckles, faint ritual markings, a missing earring, slightly pointed ears, cracked-looking nails, a birthmark shaped like a symbol, a small scar across the eyebrow, different-colored irises, an old burn mark, a faint limp from an old injury, unusually long fingers, a small notch in one ear, or a permanently tired-looking expression."}, {"inline": false, "name": "UNIQUE FEATURES, Clothing/gear details:", "value": "A weathered cloak with dozens of stitched repairs, mismatched gloves, an old belt covered in tiny charms, a dented shoulder guard, a sword with a repaired handle, a necklace made from an unknown coin, bandages wrapped around one arm, boots from different sets, a cloak clasp bearing an unfamiliar crest, a small journal hanging from the belt, a ring worn on a strange finger, a pouch filled with seemingly useless objects, or a weapon with an oddly personal modification."}, {"inline": false, "name": "UNIQUE FEATURES, Subtle supernatural features:", "value": "Their eyes reflect light strangely, their breath briefly fogs in warm weather, old wounds faintly glow when magic is nearby, their reflection looks slightly different for a moment, animals sometimes stare at them, their hair lifts slightly around magical objects, their voice has a faint echo in certain places, nearby candles occasionally flicker when they're emotional, their footsteps sometimes sound slightly delayed, or magical objects react subtly to their presence."}, {"inline": true, "name": "- Information", "value": "Make a thread and send content like weapons, abilities, friends, or any information you'd like to store that you would believe benefit you in the near future, this makes it so YOU can look back and think about what you have and what you could do for a more strategic play."}, {"inline": true, "name": "- anonymous messaging (VOLT)", "value": "for anonymous messaging, you can use VOLT, using /volt (message) (channel), you can send anonymous messages from your Ticket. only requirement i would like to say, Do NOT spam it and make sure the writers have a way of knowing it is you before hand."}, {"inline": true, "name": "- Questions", "value": "futher questions, you should ping or notify the Writers."}], "footer": {"icon_url": "https://tickets.bot/assets/img/logo.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/8MjyyuscKsVyuL1EfsDZtZd8r36jwYZjKpVb8s2tYws/https/tickets.bot/assets/img/logo.png", "text": "Powered by tickets.bot"}, "type": "rich"}
+
+[2026-08-09T09:33:02.077000+00:00] Dargan | 1535943983296155710
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1535943983296155710
+Name: Dargan
+Age: 19
+Gender: Male
+Height: 6'2" (188 cm)
+Weight: 94 kg (207 lbs)
+Build: Muscular, broad shoulders, thick arms, athletic physique
+Personality: Quiet, innocent, respectful, and naturally kind. Despite his intimidating appearance, Dargan is soft-hearted and often assumes the best in people. He doesn't look for fights, but he won't back down when someone threatens the people he cares about.
+
+Clothing: A fitted black sleeveless shirt under a dark oversized jacket, loose tactical-style pants, and heavy black boots. He wears simple wrist wraps and a plain silver chain around his neck.
+
+Clothing Colors: Black, charcoal gray, and dark brown with small silver details.
+
+Hair: Long, thick dreadlocks that fall around his shoulders and down his back. His dreads are slightly messy and give him a rugged appearance.
+
+Hair Color: Dark brown, almost black.
+
+Face: Strong jawline, thick eyebrows, sharp cheekbones, and a calm expression. His muscular build and serious-looking face make him appear intimidating even when he's completely relaxed.
+
+Unique Features
+
+1. Scarred knuckles: His knuckles have several small, faded scars, giving his hands a rough, experienced appearance.
+
+2. Small scar across the eyebrow: A thin scar cuts through his left eyebrow, adding to his tough appearance without making him look overly battle-worn.
+
+Overall Appearance
+
+Dargan looks like someone who could easily intimidate an entire room without saying a word. He's tall, heavily built, and muscular, with dark brown dreads and a sharp jawline. However, his personality contrasts strongly with his appearance. Dargan is genuinely innocent and kind-hearted, which often surprises people when they actually get to know him.
+
+[2026-08-09T09:36:47.480000+00:00] Draven | 1535944928704729088
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535941051322466405/1535944928704729088
+Reply to: 1535943983296155710
+
+File (saved): attachments\1535941051322466405\1535944928704729088\1535944928423706634_Z.cdn-variant.png
+
+[2026-08-15T11:09:42.633000+00:00] Dargan | 1538142639784853514
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538142639784853514
+I choose aure
+
+[2026-08-15T11:12:15.246000+00:00] Riven | 1538143279890305106
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538143279890305106
+Reply to: 1538142639784853514
+**Your new name is Dargen Aure, you have chosen the ability to cast control and create light , with many complex abilities, you have yet to be awaken and will have to play at least one story**
+
+[2026-08-15T11:12:23.005000+00:00] Riven | 1538143312433643582
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538143312433643582
+Reply to: 1538143279890305106
+one story to awaken
+
+[2026-08-15T11:15:11.367000+00:00] Dargan | 1538144018595057685
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538144018595057685
+Reply to: 1538143279890305106
+Light*🤣
+
+[2026-08-15T11:24:57.003000+00:00] civic | 1538146474930610257
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538146474930610257
+Reply to: 1538143279890305106
+LACKK
+
+[2026-08-16T10:48:52.422000+00:00] Dargan | 1538499783885328454
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1538499783885328454
+Reply to: 1538499736720646204
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "Loki", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-08-16T10:48:41.177000+00:00", "type": 0}}
+
+[2026-08-25T09:47:22.505000+00:00] Draven | 1541745798042222602
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535941051322466405/1541745798042222602
+Reply to: 1535943983296155710
+
+File (saved): attachments/1535941051322466405/1541745798042222602/1541745797576527912_A6711AFB-052E-4691-A79F-E3CEB0B4BC11.png
+
+[2026-08-25T09:47:43.421000+00:00] Draven | 1541745885770285096
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535941051322466405/1541745885770285096
+Remade
+

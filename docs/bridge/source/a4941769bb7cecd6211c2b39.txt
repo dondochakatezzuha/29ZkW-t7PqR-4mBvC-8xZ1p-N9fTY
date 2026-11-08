@@ -1,0 +1,101 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/kaizen-mansion-g3_1551580124845973646/2026-09.txt
+Category: world | Collection: Kaizen Mansion G3
+Export content (not verified canon; see source context):
+
+#kaizen-mansion-g3 | 2026-09
+All times are UTC. Message IDs identify original sources.
+
+[2026-09-21T13:05:38.024000+00:00] kaizen | 1551580163836215358
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1551580124845973646/1551580163836215358
+Reply to: 1551569679674384525
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1199, "id": "1551580162938773584", "original_content_type": "image/png", "placeholder": "zPcFBoBYCZWKZ2SGaOeHVmZpWoSgpAc=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1551580124845973646/1551580162938773584/content.png?ex=6af073a1&is=6aef2221&hm=fbb9c2e7e3d0317588c694b192faf55a5b92921862605df41730e796548cb22e&", "size": 3295452, "url": "https://cdn.discordapp.com/attachments/1551580124845973646/1551580162938773584/content.png?ex=6af073a1&is=6aef2221&hm=fbb9c2e7e3d0317588c694b192faf55a5b92921862605df41730e796548cb22e&", "width": 1312}, {"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1551580163400269987", "original_content_type": "image/png", "placeholder": "ywcCDYB7loSplLicDH0ppMgBVQsR", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1551580124845973646/1551580163400269987/content.png?ex=6af073a1&is=6aef2221&hm=e9dacd465159f969c8299d852724d0f324e0a7fe16ba38a5b13d6203f11106dd&", "size": 3346598, "url": "https://cdn.discordapp.com/attachments/1551580124845973646/1551580163400269987/content.png?ex=6af073a1&is=6aef2221&hm=e9dacd465159f969c8299d852724d0f324e0a7fe16ba38a5b13d6203f11106dd&", "width": 1536}, {"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1551580163886817361", "original_content_type": "image/png", "placeholder": "y/cBDYBiNIs/nFWkLCpoop9k+FuF", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1551580124845973646/1551580163886817361/content.png?ex=6af073a2&is=6aef2222&hm=851b38eaee3ae170288e44ae7e5a54b893799caabe65e378f9e18a618e58c1f7&", "size": 3304433, "url": "https://cdn.discordapp.com/attachments/1551580124845973646/1551580163886817361/content.png?ex=6af073a2&is=6aef2222&hm=851b38eaee3ae170288e44ae7e5a54b893799caabe65e378f9e18a618e58c1f7&", "width": 1536}], "components": [], "content": "**AI THINGS IT CAN DO NOT INSIDE IMAGE : Access to your brain**", "edited_timestamp": "2026-09-21T12:24:03.859000+00:00", "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-09-21T12:23:58.405000+00:00", "type": 19}}
+
+[2026-09-21T13:09:06.708000+00:00] kaizen | 1551581039120359466
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1551580124845973646/1551581039120359466
+Main Living Areas
+Living Room — Where Nature Meets Intelligence
+Bedroom 1 — Sky View Suite
+Bedroom 2 — Forest Harmony
+Bedroom 3 — Void Aesthetic
+Bedroom 4 — Minimal Serenity
+Bedroom 5 — Abyss Chamber
+Bathroom 1 — Rain Therapy
+Bathroom 2 — Crystal Soak
+Bathroom 3 — Steam & Recovery
+Bathroom 4 — Zen Cleanse
+Kitchen — Auto Synthesis
+Dining Area — Elegant Simplicity
+Entertainment Room — Full Immersion
+Workspace — Create Without Limits
+Gym — Peak Performance
+Garage — Advanced Storage
+Walk-In Closet — Adaptive Storage
+Lounge / Bar — Relax & Unwind
+Outdoor Terrace — Breathe Different
+Garden Pod 1 — Living Ecosystem
+Garden Pod 2 — Living Ecosystem
+Stairs — Central Spine
+AI Control Room — Your Home, Your Rules
+Security Hub — Always Protected
+AI Home System
+Sentient AI Assistant
+Mood Adaptation
+Environmental Control
+Self-Cleaning Surfaces
+Auto Food Synthesis
+Security & Defence
+Health Monitoring
+Holographic Interface
+Full Property Management
+AI Brain / Neural System
+AI has its own brain
+AI can reply and talk directly to people
+AI does not simply use random or preset replies
+AI has its own memories
+AI shares information and memories similarly to how humans share information
+AI remembers information it learns
+AI tracks and knows a person's location at all times
+Access to your brain
+Brain access is done through a wired connection
+AI can access a person's memories
+AI can search through a person's brain
+AI can search through their memories
+AI can learn information by accessing those memories
+AI can use information stored in a person's memories to understand something
+Other Property Features
+Climate-Adaptive Architecture
+Holographic Displays
+Automated Maintenance Drones
+Security Drones & Shielding
+Smart Glass — Privacy / Tint
+Underwater Filtration System
+Emergency Safe Room
+Private Landing Pad — Optional
+Self-Sustaining Energy Core
+Property Style
+Private Property
+Bio-Mechanical
+Self-Evolving
+Luxury
+More Than a House. A Living Experience.
+
+[2026-09-21T13:09:13.458000+00:00] kaizen | 1551581067432173729
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1551580124845973646/1551581067432173729
+does this look about right <@1463100226318368874>
+
+[2026-09-21T13:13:28.675000+00:00] Croco | 1551582137889722399
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1551580124845973646/1551582137889722399
+yh
+
+[2026-09-26T05:17:23.233000+00:00] kaizen | 1553274265069953066
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1551580124845973646/1553274265069953066
+Reply to: 1553273946609164350
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "V i would like to give you a password of \"ASAL4L\" to do any sort of system changes or actions that may cause risks", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "d33982dbfd6f7b19a41cec5c49b3b465", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "Croco", "id": "1463100226318368874", "primary_guild": null, "public_flags": 0, "username": "unk1own01"}], "timestamp": "2026-09-26T05:16:07.306000+00:00", "type": 19}}
+

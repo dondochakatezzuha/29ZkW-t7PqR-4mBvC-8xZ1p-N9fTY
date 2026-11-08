@@ -1,0 +1,74 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Slug_Register/0003.md
+Category: powers | Collection: Slug Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Slug_Register.txt`  
+Lines: 179–240  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+DARGAN / DARGEN: an initial fusion participant, able to command the merged body, and an explicit recipient of the five extracted powers. Retain Director, Secret Eye 3 and Void. No completed extra hand-eye grant appears here.
+
+KAIZEN / 01yt / UMBRA: joins Adarlok after extraction; YellowCell is the identified new fusion contribution. The fusion remains Dragon+++. Personal left '1' and right Void remain Dragon+++ each. J's preceding scan labels Kaizen a Mythical+ user; that assessment is separate from eye rarity and his dated fourth place among players. No completed third-eye award or new race appears. The full canon cell system and retained Mercury Null are not erased by Croco's brief overlap explanation. His requested Slug is not awarded in the reviewed interval.
+
+TOBY: Croco grants a Common Fire Slug. This adds a confirmed creature without automatically supplying an unmentioned blaster or a full new move sheet. His left Void and right Aevor remain the current eyes. Shift's report of Toby turning evil is second-hand player talk, not an executed transformation or completed hostile scene.
+
+ARLO: his request for an eye above Mythical is not a completed roll. He says he has two Common eyes, whereas the preceding confirmed replacement run establishes Zyra after selling three eyes. Preserve the two-eye self-report as unresolved: the second eye's identity, grant and anatomical placement are not established here. His request to enter the original fusion is not included in the completed roster. No Genesis race award appears.
+
+MARIAM and MONARCH / HAMZA: no new completed race, eye or power grant in this interval. Preserve their existing class/race/eye/companion records and Monarch's dated user-provided five-move awakening sheet with the later Astralux coexistence question. They remain part of the cast and team reference even when this scene follows other characters.
+
+ALAY: retain the right-eye Zhaevir award; no full new class/race kit appears. ABRAXAS: his question about being dead receives no conclusive death/revival answer in the reviewed reply. MAX, MASON and KISHA: no new completed award established in this batch. The newly arriving Heimdall account/player invitation does not supply a fictional race, class or named character power sheet.
+
+NPC / OTHER ENTITY INDEX: Apateon attacks Vaja and Lucia; their deaths remain unconfirmed. Yang is defeated and his five powers extracted. Amalia is a healer with energy sensing, herbal knowledge and a current teaching request. J performs the documented System functions. The unnamed spear-carrying goblin retreats alive. Adze is referenced as the fly by players and as a battle form in GM narration; no new Titan contract is awarded. All older cast entries remain in the retained registers.
+
+No completed player race change is established by this update. Slugs, fusion forms, the System's golden slime and an NPC goblin are not automatic new player race grants.
+
+Sources:
+Croco | 2026-10-21T06:24:07.634Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562350757385211946
+Adelram | 2026-10-21T10:36:11.999Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562414193569702004
+Adelram | 2026-10-21T10:36:38.976Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562414306719440938
+Croco | 2026-10-21T11:05:25.236Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562421547178659881
+kaizen | 2026-10-21T11:41:11.935Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562430551086989453
+Arlo | 2026-10-21T10:23:33.751Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562411013247205490
+Arlo | 2026-10-21T10:15:06.212Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562408884474478614
+Abraxas | 2026-10-21T12:43:40.547Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446273905299487
+Croco | 2026-10-21T12:44:41.256Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446528537436201
+Croco | 2026-10-21T05:59:01.695Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562344441019105332
+Croco | 2026-10-21T05:59:30.807Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562344563123822624
+Croco | 2026-10-21T12:02:27.237Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562435900091400275
+Croco | 2026-10-21T12:16:07.059Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562439338674098310
+Croco | 2026-10-21T12:44:23.634Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446454625403042
+Croco | 2026-10-21T12:45:50.266Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446817986355221
+Croco | 2026-10-21T12:46:47.050Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562447056155451483
+Croco | 2026-10-21T13:02:28.055Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562451003016614079
+Shift | 2026-10-21T13:04:22.809Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562451484329648300
+Croco | 2026-10-21T13:06:54.406Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562452120173682820
+Shift | 2026-10-21T13:02:19.995Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562450969210527787
+
+FULL AIR BREATH SCENE
+
+L39.4 AIR BREATH DEMONSTRATION AND SESSION CLOSE
+

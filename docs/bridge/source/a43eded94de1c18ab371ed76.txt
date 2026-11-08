@@ -1,0 +1,14 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/dargam_1535941051322466405/2026-11.txt
+Category: characters | Collection: Dargam
+Export content (not verified canon; see source context):
+
+#dargam | 2026-11
+All times are UTC. Message IDs identify original sources.
+
+[2026-11-01T21:23:56.354000+00:00] Dargan | 1566563469010935821
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1566563469010935821
+Reply to: 1566429581425246350
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**Level 44  I'm the Fastest EVER:** The user's speed is so overwhelmingly powerful that they exist beyond the limitations of movement, time, distance, and even Omnipresence. By breaking the absolute speed barrier, they gain 18 Manipulations through sheer velocity alone: **Velocity, Acceleration, Omnipresence, Interval, Inertia, Arrival, Sequence, Pursuit, Stillness, Trajectory, Reaction, Momentum, Transition, Synchronization, Precedence, Impossibility, Supremacy, and Absolute Movement Manipulation**. These allow the user to control how anything moves, arrive before departing, act before events begin, prevent opponents from reacting or escaping, override instantaneous abilities, move through impossible locations, and surpass any form of Omnipresence. None of these powers require magic or separate fundamental abilities. **The user is simply moving so fast that the laws governing existence can no longer restrict them.**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-11-01T12:31:55.066000+00:00", "type": 0}}
+

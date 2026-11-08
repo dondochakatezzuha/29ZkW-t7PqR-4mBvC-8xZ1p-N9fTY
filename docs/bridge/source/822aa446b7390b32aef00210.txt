@@ -1,0 +1,85 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0082.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0082
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4575–4647  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+ARLO: Ryth is sold for three spins. All three produce Zyra, which Croco calls Common. Croco then corrects his initial no-spins response: Arlo has five spins for each of the two other eyes that had not been spun. Both runs end on Ire; the final GM confirmation says all ten spins were used and he has two Ire eyes. Latest named set: Zyra plus Ire plus Ire, with anatomical sides unspecified. Ire is Uncommon. The second run requests Void and skips Sundered Crown, Mythical+; neither skipped Crown nor requested Void is an award to Arlo. The earlier Ryth result is superseded.
+
+TOBY: no new sale or roll; retain Sundered Crown left (Mythical+) and Zhaevir right (Mythical+++), with two canonical eyes.
+KAIZEN / 01yt / UMBRA: no new sale or roll; retain the eye literally named '1' left (Dragon+++) and Winter right (rarity still unstated). This '1' is not Loki's Secret Eye 1.
+MARIAM: no new roll; retain the last Vexis/Thaeron grants, the unresolved older laterality labels and four canonical eyes with the other slots not filled by a new result.
+MONARCH / HAMZA: no new eye roll; retain Thaeron left and Zyra right. His later Astralux/Genesis record and the user's earlier Yellow Stone, Space/Astria and Mystia sheet remain dated sources with coexistence questions preserved.
+
+Croco states that acquired eyes are permanent unless lost in-game or stolen. This concerns persistence; it does not override the explicitly completed sales or replacements above, and threats to pluck an eye are not completed thefts.
+
+Sources:
+Croco | 2026-10-18T09:54:16.318Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316478442151987
+Croco | 2026-10-18T09:54:20.736Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316496972456019
+Croco | 2026-10-18T09:59:36.721Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561317822309601311
+Croco | 2026-10-18T09:59:45.652Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561317859769196575
+Croco | 2026-10-18T10:02:50.718Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318635992125460
+Shift | 2026-10-18T10:09:44.740Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320372526260338
+Croco | 2026-10-18T10:11:05.575Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320711572693082
+Croco | 2026-10-18T09:53:51.721Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316375274725459
+Croco | 2026-10-18T09:55:00.457Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316663574396940
+Croco | 2026-10-18T09:56:06.807Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316941866733569
+Croco | 2026-10-18T09:57:10.585Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561317209370787881
+Shift | 2026-10-18T10:03:10.901Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318720645763143
+Croco | 2026-10-18T10:03:19.631Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318757262164000
+Croco | 2026-10-18T10:05:07.796Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561319210938929238
+Croco | 2026-10-18T10:08:41.049Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320105386704968
+Dargan | 2026-10-18T10:21:22.960Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561323301073330320
+Croco | 2026-10-18T10:24:56.736Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561324197714731129
+Croco | 2026-10-18T11:00:57.957Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561333262532608152
+Croco | 2026-10-18T10:45:58.929Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329491736006667
+Croco | 2026-10-18T10:47:24.117Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329849040244800
+Croco | 2026-10-18T10:47:39.941Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329915410780222
+Croco | 2026-10-18T10:52:49.158Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561331212361138267
+Croco | 2026-10-18T10:57:20.683Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561332351219273729
+Croco | 2026-10-18T10:59:41.765Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561332942960332823
+Croco | 2026-10-18T11:04:10.560Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561334070368010371
+Croco | 2026-10-18T11:06:24.098Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561334630466977885
+Croco | 2026-10-18T10:51:19.263Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561330835314053181
+Croco | 2026-10-18T10:51:24.951Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561330859171254345
+Croco | 2026-10-18T10:51:27.161Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561330868440535121
+Croco | 2026-10-18T02:29:43.753Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561204605596074034
+Croco | 2026-10-18T02:36:38.895Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561206346827702416
+Croco | 2026-10-18T00:50:16.262Z | #the-xiv

@@ -1,0 +1,149 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/the-hellforge-of-zero-_1546901038089502770/2026-09.txt
+Category: world | Collection: The Hellforge Of Zero
+Export content (not verified canon; see source context):
+
+#the-hellforge-of-zero-g2 | 2026-09
+All times are UTC. Message IDs identify original sources.
+
+[2026-09-08T15:12:51.919000+00:00] kaizen | 1546901140460019733
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1546901140460019733
+you can create channels to put prompts or changes
+
+[2026-09-08T15:13:05.563000+00:00] kaizen | 1546901197686964315
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1546901197686964315
+so its easier and doesnt interfere with character info
+
+[2026-09-08T15:32:34.519000+00:00] kaizen | 1546906100643926099
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1546906100643926099
+Reply to: 1545980471844933744
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "https://docs.google.com/document/d/1rQUUvQ__fBnU-3Q17J07EGZ6LJCUCVGbOX-7ozWB65U/edit?tab=t.0#heading=h.nw5ghdxxwf73", "edited_timestamp": null, "embeds": [{"content_scan_version": 4, "description": "THE HELLFORGE OF ZERO Also known as Hell's Infinite Dungeon. Ruled by King Kaizen Tyreror, the Hellforge is an underground kingdom built around deception. Every layer is designed to appear like the true kingdom while hiding deeper levels beneath it. THE BIG THREE Kaizen Tyreror, Adelram Infernia,...", "provider": {"name": "Google Docs"}, "thumbnail": {"content_type": "image/png", "flags": 0, "height": 630, "placeholder": "PAgGBID025mXZ3eKZogAAAAAAA==", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/iSzxKBaRgLbZYGrOY5o3F9vAsWWyk2zLdZ-TqtnuaQk/https/lh7-us.googleusercontent.com/docs/AHkbwyLzUvZ81qcIsckA6nQb__TT-4QySuAjFv3QcmfEyfX5tKw5V3i6mio-XSJtXEkThIKrJnhER_CWEjcQkW_JGUFAABqouIY6m83yzybWXQ2RQR6zzPAa%3Dw1200-h630-p", "url": "https://lh7-us.googleusercontent.com/docs/AHkbwyLzUvZ81qcIsckA6nQb__TT-4QySuAjFv3QcmfEyfX5tKw5V3i6mio-XSJtXEkThIKrJnhER_CWEjcQkW_JGUFAABqouIY6m83yzybWXQ2RQR6zzPAa=w1200-h630-p", "width": 1200}, "title": "THE HELLFORGE OF ZERO", "type": "link", "url": "https://docs.google.com/document/d/1rQUUvQ__fBnU-3Q17J07EGZ6LJCUCVGbOX-7ozWB65U/edit?tab=t.0"}], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-06T02:14:27.416000+00:00", "type": 0}}
+
+[2026-09-09T01:24:12.689000+00:00] kaizen | 1547054990760214628
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1547054990760214628
+show me my base finished
+
+[2026-09-09T01:24:14.278000+00:00] kaizen | 1547054997424836698
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1547054997424836698
+never saw it
+
+[2026-09-09T09:14:34.696000+00:00] kaizen | 1547173362437070868
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1547173362437070868
+Reply to: 1547169579120332870
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "content.png", "height": 1024, "id": "1547173362084610088", "original_content_type": "image/png", "placeholder": "zTgGDYI7SjW/S2eap+d6pwbrQ8Ce", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1546901038089502770/1547173362084610088/content.png?ex=6af0e63a&is=6aef94ba&hm=ba5ca89923be4be1c5d7456a965783d745c6afb527c4f9716bd22c88eba016dd&", "size": 3511772, "url": "https://cdn.discordapp.com/attachments/1546901038089502770/1547173362084610088/content.png?ex=6af0e63a&is=6aef94ba&hm=ba5ca89923be4be1c5d7456a965783d745c6afb527c4f9716bd22c88eba016dd&", "width": 1536}], "components": [], "content": "", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-09T08:59:32.683000+00:00", "type": 0}}
+
+[2026-09-12T06:51:16.151000+00:00] kaizen | 1548224461122052137
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548224461122052137
+Level 12 — True Capital
+The True Capital is the actual center of the kingdom.
+Kaizen's real castle, throne, royal court, residences, treasury, archives, council chambers, and government offices.
+Concealed entrances and final security gates.
+Elite guards and defenses against teleportation, scrying, illusions, and intrusion.
+Decoy chambers, archives, and treasuries.
+Emergency railway stations, evacuation routes, royal shelters, and independent supplies.
+A lockdown system that can seal the capital from every upper level.
+Emergency systems that can permanently seal or destroy the routes leading to the capital.
+
+[2026-09-12T06:51:29.593000+00:00] kaizen | 1548224517502017587
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548224517502017587
+ooms/major spaces explicitly mentioned for Kaizen's real palace include:
+True Capital / real royal castle
+- Real throne
+- Private royal court
+- Royal residences
+- True treasury
+- Protected archives
+- Elite bodyguard quarters
+- Private council chambers
+Kaizen's personal wing
+- Private chambers
+- Personal throne room
+- Dining hall
+- Bathhouse
+- Wardrobe
+- Armor collection
+- Vesperia vault
+- Restricted library
+- Map room
+- War room
+- Resting chamber
+- Emergency chamber for Kaizen and the Queen
+Queen's areas
+- Massive bedroom
+- Lounging hall
+- Wardrobe
+- Bathhouse
+- Entertainment room
+- Jewelry collection area
+- Balcony
+- Indoor garden
+- Animal sanctuary
+- Private safe room
+Shared royal suite
+- Bedroom
+- Lounge
+- Lava-heated/fireplace area
+- Balcony
+- Dressing rooms
+- Bathhouse
+- Breakfast room
+- Servant area
+- Concealed safe room
+Royal children's wing
+Each child has access to bedrooms, playrooms, classrooms, libraries, training rooms, gardens, dining rooms, balconies, treasure rooms, safe rooms, and connected guard areas.
+
+[2026-09-12T06:51:43.865000+00:00] kaizen | 1548224577363255327
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548224577363255327
+multiple royal residences
+multiple children
+staff quarters
+guard quarters
+hidden observation rooms
+false bedrooms
+decoy archives
+multiple safe rooms
+secret tunnels and escape chambers
+servants' facilities
+private offices and administrative rooms
+
+[2026-09-12T07:23:17.731000+00:00] kaizen | 1548232520812732437
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548232520812732437
+King's Personal Wing
+Private chambers, throne room, dining hall, bathhouse, wardrobe, armor collection, Vesperia vault, library, map room, war room, and secret tunnels.
+Hidden guards, false chambers, anti-scrying protection, anti-teleportation protection, hidden weapons, escape routes, decoy maps, and private alarms.
+The Queen
+Luxury bedroom, lounge, wardrobe, bathhouse, entertainment room, jewelry collection, balcony, gardens, animal sanctuary, and private staff.
+Guards, physicians, advisors, secretaries, food tasters, magical contamination checks, safe rooms, emergency transport, and false vaults.
+Royal Children
+Protected bedrooms, playrooms, classrooms, libraries, gardens, training rooms, treasure rooms, and safety tunnels.
+Nannies, tutors, guards, instructors, physicians, chefs, and caretakers.
+Volcanic playgrounds, crystal caves, heated pools, pet sanctuaries, miniature castles, and guarded exploration tunnels.
+Decoy bedrooms, safe rooms, identity checks, alarms, controlled visitors, and protected routes.
+Shared Royal Bedchamber
+Bedroom, lounge, bathhouse, dressing rooms, balcony, servant area, guards, and escape routes.
+Concealed safe room, routes to the children's wing and True Capital, reinforced doors, anti-scrying protection, anti-teleportation protection, anti-poison systems, hidden weapons, and private alarms.
+<@1311460994660306996> this is the bedroom for family
+
+[2026-09-13T07:06:36.053000+00:00] kaizen | 1548590707336417362
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548590707336417362
+
+File (saved): attachments/1546901038089502770/1548590707336417362/1548590707067846716_18eabf65-b8c2-487b-93f8-7dfdc8ea8238.png
+
+[2026-09-13T07:10:42.524000+00:00] kaizen | 1548591741110718464
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1546901038089502770/1548591741110718464
+
+File (saved): attachments/1546901038089502770/1548591741110718464/1548591740838092850_9f6e1684-cd0f-4de3-a9ae-3329fcf577ba.png
+

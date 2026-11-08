@@ -1,0 +1,74 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Slug_Register/0002.md
+Category: powers | Collection: Slug Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0002
+
+Source: `Archive/Original_Texts/Reference/Slug_Register.txt`  
+Lines: 117–178  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+MARIAM / ARLO ACCOUNT CONTEXT: players address posts under the display name Arlo as Mariam and discuss Genesis and four eyes. Retain the literal posting name and conversational context rather than globally remapping the account. Joining Adarlok and selecting four eyes are proposed, not completed grants or additions to the current five-member roster. The source-based race/eye registers remain authoritative for prior confirmed awards.
+
+ARLO THE CHARACTER, MONARCH/HAMZA, ALAY, ABRAXAS, MAX, MASON and KISHA: no new completed personal race, eye or power award is established in this batch; their prior entries remain. Aezoth is mentioned in player speculation about becoming a miniboss, without a new completed event. Ignis is a proposed target, not defeated here. Yang's brother/white-flame speculation is not an acquired ability. No new player race award is shown; merged racial access is confirmed separately.
+
+OTHER ENTITIES: Lyra's five abilities/two passives and defeat are now indexed; Apateon's observed mechanics and survival are indexed; Aoi, Liana, Maeve, Aviala, Paja, Kaja, Artemis, Soren, Maria and Amalia remain individually referenced with their actual status and uncertainties. Do not assign powers to captives merely because the team heals them.
+
+SCALING: Croco confirms Dragon x5 and Dragon x1000 exist, says the Dragon+ sequence continues beyond sextillion, and calls TGC 'Infinite'. These are setting labels, not a mathematical conversion rule or a new ranking for every player. J's Dragon x200 scan is the new relevant opponent assessment. No fresh numbered individual leaderboard is posted; the October 19 ranking with Kaizen fourth remains the dated reference. Player banter calling someone number seven does not silently rewrite it.
+
+Sources:
+Croco | 2026-10-21T13:16:47.463Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562454607635157085
+Croco | 2026-10-21T13:21:43.216Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562455848113021060
+Shift | 2026-10-21T13:21:56.861Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562455905344290867
+kaizen | 2026-10-21T22:11:15.275Z | #kaizen
+https://discord.com/channels/1535189086258855946/1535267861113602058/1562589109787037806
+Adelram | 2026-10-21T13:18:58.329Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562455156526682235
+Adelram | 2026-10-21T13:19:12.428Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562455215662178326
+Adelram | 2026-10-21T13:19:26.322Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562455273937965097
+Draven | 2026-10-21T22:05:18.032Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562587611401551964
+Croco | 2026-10-21T22:27:10.609Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562593116748382329
+Croco | 2026-10-22T01:37:39.027Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562641051007848460
+Croco | 2026-10-22T02:00:52.458Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562646895480799264
+Shift | 2026-10-22T01:28:34.829Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562638768475742332
+Shift | 2026-10-22T01:28:44.939Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562638810880286742
+Shift | 2026-10-22T01:28:53.752Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562638847844556801
+Arlo | 2026-10-22T01:29:32.388Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562639009895817299
+Croco | 2026-10-21T13:16:10.058Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562454450746953800
+Croco | 2026-10-21T13:16:15.829Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562454474952548393
+Croco | 2026-10-21T13:16:32.911Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562454546599378945
+Croco | 2026-10-21T13:16:39.792Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562454575460520008
+Croco | 2026-10-22T02:10:02.060Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562649200678797424
+
+
+
+RETAINED CREATURE AND DEVICE GUIDE
+
+SLUG REGISTER - v39; Toby award, Adelram identification and completed Air Breath demonstration
+
+39.8 CAST-WIDE UPDATE: SLUGS, EYES, RACES AND PENDING REQUESTS
+
+LOKI / SHIFT: a confirmed initial Adarlok participant and one of three recipients of Yang's five extracted powers. Croco confirms he awakened with the stone enhanced by the branch. His Common dark Air Slug and one-shell blaster remain. The final completed demonstration launches the Slug, transforms it, unleashes Air Breath tornadoes, then returns it to its small form and Adarlok's shoulder. No exact range, cooldown or resource cost is given. The Sun/Secret Eye 1/OVRATH individual eye record remains.
+
+ADELRAM: an initial fusion participant and explicit recipient of the five powers. He calls his creature a Water Slug. Record this as player identification of the previously visually recorded blue creature; the reviewed posts do not independently supply a new GM rarity/element award for it. His joking 'evil' description is not a mechanical trait. Retain '1', Moon and Secret Eye 2; proposed extra hand eyes and Aevor requests remain unawarded.
+

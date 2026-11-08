@@ -1,0 +1,111 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/TGC_Chapter_2_Power_Analysis/0000.md
+Category: lore | Collection: TGC Chapter 2 Power Analysis
+Export content (not verified canon; see source context):
+
+# Source chunk 0000
+
+Source: `Archive/Original_Texts/Reference/TGC_Chapter_2_Power_Analysis.txt`  
+Lines: 1–99  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+TGC CHAPTER TWO — POWER ANALYSIS AND CONTINUITY NOTES
+The Darkness After the Great Sin
+Source: user-supplied TGC_The_Grand_Continuum (2).pdf, 20 physical pages.
+Credited creator: Draven / Croco / Rico / Diego. Read alongside Chapter One,
+not as a replacement for it. Page references below are physical PDF pages.
+No Discord message URL for this new PDF was supplied or independently checked.
+
+EVIDENCE KEY
+RULE: explicit explanation of a power. FEAT: a narrated outcome in this scene.
+INFERENCE: an interpretation supported by the scene, not a new GM-issued rule.
+UNKNOWN: information the source does not establish. A character's words can
+be informative without proving every boast or joke literally true.
+
+1. A NEW POWER BRANCH: OASIS -> AURA
+
+CH2-01 | Pages 2–3 | RULE / ORIGIN
+Arthur prays to Enas for Caesar. White light appears beneath Caesar's skin.
+The narrator describes something born through the Oasis Caesar already carries,
+yet different from it. Luna explains that through Mana, her lord has awakened
+a new energy called Aura, and names Caesar Lord of Aura by Enas's mercy.
+
+Meaning: Aura is a distinct, named energy emerging through an existing Oasis/
+Mana foundation in this event. It is not a spelling variant of ROR's Aro, and
+the chapter does not describe Vexium, Hexium, a Yellow Stone, or a ROR Class
+awakening. The grant is a particular divine intervention, not a recipe any
+Oasis holder can repeat merely by praying or touching someone.
+
+The wording also sharpens the older Discord account calling Caesar a maker of
+an Oasis replica: the book explicitly credits Enas's intervention and Caesar's
+existing Oasis as the initial awakening context. Caesar later distributes the
+gift. Do not flatten awakening, origin and later distribution into one action.
+Older account: https://discord.com/channels/1535189086258855946/1551573873265213702/1554375916107464777
+
+CH2-02 | Pages 2–3 | FEAT / LIMIT
+Arthur dies despite daylight touching him and Caesar's new Aura awakening.
+Caesar asks whether it will save Arthur, and it does not do so in the scene.
+Chapter One's Oasis of Day strengthens Arthur by day; this is not proof of
+immortality, reversal of aging, automatic rescue from death, or universal healing.
+Conversely, this one scene does not prove Aura can never heal anyone.
+
+CH2-03 | Page 2 | HISTORICAL FEAT, MECHANISM UNKNOWN
+Arthur previously banished Jolt into another realm after Jolt killed innocents.
+The chapter supplies the result, not the technique, device, range, cost or
+general transport permissions. Do not add realm-banishment to every Aura user.
+
+2. CAESAR — AURA, WIND, DISTRIBUTION AND COMBAT LIMITS
+
+CH2-04 | Page 4 | FEAT
+White light gathers on Caesar's arm before an impact breaks the Animalian
+King's axe. He eventually defeats the king. Earlier blows hurt and stagger him.
+Supported: Aura-assisted physical confrontation and an observed breaking feat.
+Not established: invulnerability, all attacks being unblockable, or a numerical
+strength/durability tier derived from an unspecified axe.
+
+CH2-05 | Page 4 | FEAT / DISTRIBUTION
+Through Caesar's gift, Oasis Aura reaches 300,000 children, with sparks and
+glimmers. Pages 6–7 explicitly distinguish Terror's result from the others:
+Caesar says none of them did this. The population figure is a distribution
+feat, not 300,000 Terror-equivalent beings, a simultaneous casting count,
+or proof of identical awakenings in different recipients.
+
+CH2-06 | Page 5 | NAMED FEAT: CAESAR WIND
+Caesar Wind throws three bullies backward into a hedge. Page 19 shows it
+scattering weapons and disrupting the front rank in the meeting hall.
+Supported applications: observed displacement, interruption and space-making.
+Unknown: maximum range, cooldown, armor interaction, atmospheric requirements,
+whether it always disarms, and whether every later user can inherit it.
+Earlier notes call an excluded external gift "Caesar air"; the book's exact
+name is Caesar Wind. Record the naming connection as possible, not a silent
+equivalence or a new grant to Adelram.
+
+CH2-07 | Pages 6, 10, 12 | FEAT / TRANSFER METHOD
+Caesar offers his hand, and the recipient accepts. Terror's transfer is
+explicitly Oasis Aura passing between their palms; Venga and Shinichi receive
+the same offered-hand sequence. These are voluntary, person-specific grants.
+Forced implantation, remote mass transfer, stealing or copying the granting
+ability, inheritance by children, and reversibility are not demonstrated.
+
+CH2-08 | Pages 14, 19–20 | FEAT / LIMITS
+Shinichi repeatedly defeats Caesar in practice without Aura, identifying a
+telegraphed shoulder movement. Caesar later changes his stance and causes an
+attacker to miss. During the 400-person ambush he uses waves of white Aura to
+clear space, but the gaps refill, he takes injuries, loses breath, nearly
+buckles and his Aura flickers. Power and training both matter; enemies exploit
+his visible weakening. This scene supports fatigue and pressure on Caesar's
+Aura use, not a universal ROR Aro-stamina formula or a 400-person hard cap.
+
+3. TERROR / TOBIAS ALLY — THREE COLORS
+
+CH2-09 | Page 6 | FEAT / TRANSFORMATION
+Tobias grows physically to sixteen after receiving Oasis Aura. His left eye
+is yellow, right eye blue, and a red third eye opens in his forehead.
+This is a particular transformation, not proof that every recipient ages to
+sixteen, gains a third eye, or receives the same color expression.
+
+CH2-10 | Page 6 | RULE / COLOR FUNCTIONS
+The narrative associates yellow with creation, red with destruction, and blue
+with existence held between them. A broken barrel stave vanishes; a new stave
+forms; water hangs and then settles into the repaired barrel. The scene gives

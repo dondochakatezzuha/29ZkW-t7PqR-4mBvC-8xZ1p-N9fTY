@@ -1,0 +1,63 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/ARO_Master_v52_Current_Rules_and_Team_Powers/0002.md
+Category: powers | Collection: ARO Master V52 Current Rules And Team Powers
+Export content (not verified canon; see source context):
+
+# Source chunk 0002
+
+Source: `Archive/Original_Texts/ARO_Master_v52_Current_Rules_and_Team_Powers.txt`  
+Lines: 115–165  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+2026-10-29T10:52:44.977Z | Croco | 1565317461346357309
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565317461346357309
+2026-10-29T10:57:41.013Z | Croco | 1565318703011201167
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565318703011201167
+2026-10-29T11:01:39.581Z | Croco | 1565319703638052899
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565319703638052899
+2026-10-29T05:37:31.771Z | Draven | 1565238133610651699
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565238133610651699
+2026-10-29T11:04:12.170Z | kaizen | 1565320343642579036
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565320343642579036
+2026-10-29T11:04:16.435Z | kaizen | 1565320361531277385
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565320361531277385
+
+4. Adelram: the 21-day reservoir, teachers and Negative
+STARTED PROCESS, AVAILABLE QUEST AND SYSTEM CLAIMS
+
+X starts Eternal Energy Reservoir at 08:45 UTC. It seals, accumulates and converts excess energy in the background toward a self-sustaining reserve, with a stated three-week/21-day completion period and 0% initial progress. Unlimited Imperial Horizon duration is the promised completion reward, not currently earned. The form remains usable with its existing 25-minute maximum. Systems, inventory, trades and quests remain available during the process. Do not count real-world days as proven in-game completion or silently complete The Eternal Sovereign's remaining mastery/application steps; its last verified checklist remains 1/3.
+
+The system identifies Enas in Nexus 82 BO as the greatest Energy Manipulator in TGC. This is a system claim, not a demonstrated comparative feat. It says Shift restored the multiversal structure and restricts leaving one's universe without permission; the proposed universal/temporal route to Enas is blocked. Vespa is identified as alive in the current universe, with energy control beyond the system's classification despite no detected Fundamental Energy Manipulation. Neither teacher is visited and no training or power grant from them occurs.
+
+Return of Negative becomes an available quest: defeat Albion, location unknown, difficulty impossible, reward restoration of Negative. It is not completed. Later Shift separately removes Adelram's negative financial balance before a challenge. Cleared account debt is not restoration of the Negative power.
+
+Shift is encountered on a monster planet, creates a dragon in the interaction, then moves Adelram into a golden dimension against an unknown golden entity matched to his power. The offer is 25 million OM for victory. No fight against Shift himself is completed.
+
+Sources:
+2026-10-29T08:34:09.456Z | Croco | 1565282583523102822
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565282583523102822
+2026-10-29T08:39:02.017Z | Croco | 1565283810613006397
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565283810613006397
+2026-10-29T08:45:09.425Z | Croco | 1565285351633977415
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565285351633977415
+2026-10-29T08:52:34.840Z | Croco | 1565287219839766603
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565287219839766603
+2026-10-29T08:59:30.274Z | Croco | 1565288962296258705
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565288962296258705
+2026-10-29T09:08:47.893Z | Croco | 1565291301119729685
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565291301119729685
+2026-10-29T09:16:43.142Z | Croco | 1565293294458507374
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565293294458507374
+
+5. The golden entity and Sovereign Fracture conflict
+COMPLETED BATTLE WITH ONE EXPLICIT RULES CONTRADICTION
+
+Adelram uses Forgotten Sovereign, temporal techniques and Black Flame Time Adze against the golden entity. It regenerates armour and copies or counters several personally linked abilities: Moon Reflection, Blizzard Watch, Sylvara branches, Realm Severance/Black Divide, Mirror, Lunar Sovereignty, Impossible Exchange and Reflective Convergence. Large lunar attacks and mutually fragile glass-like defences do not immediately decide the battle. Player requests for larger quantities are not automatically the resolved quantity.
+
+The 09:23 narration describes Sovereign Fracture making enormous temporal fractures. That conflicts with the user's controlling replacement for TGC Eye 2 ability 2: a tiny invisible fracture in Fire, Shadow or physical abilities, undetectable to the opponent even when stronger, creating an exploitable defensive opening. It cannot affect nonphysical Time, Reality, Soul or Existence Manipulation. Preserve the battle narration as source history and flag the misuse; do not broaden Sovereign Fracture into Time manipulation or restore its superseded 'gains powers' description.
+
+The decisive attack comes from the slug, whose power is external to Adelram's copied personal abilities. Water Prism surrounds the enemy in reforming water bubbles, applies pressure and restricts breathing. The entity cannot copy this particular external slug attack. Adelram recalls, reloads and repeats it; the glass armour and halo break, and the mini-boss is defeated at 10:16 UTC. X confirms a 25 million OM reward and subsequently a 25,000,000 OM balance. This demonstrates an encounter-specific counter, not a universal rule that all external sources defeat every copying power.
+
+Sources:
+2026-10-29T09:23:45.137Z | Croco | 1565295064434090055

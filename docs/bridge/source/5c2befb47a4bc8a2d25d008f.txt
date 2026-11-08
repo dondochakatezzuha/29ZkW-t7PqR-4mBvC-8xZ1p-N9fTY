@@ -1,0 +1,41 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/mason_1542109715834601562/2026-08.txt
+Category: characters | Collection: Mason
+Export content (not verified canon; see source context):
+
+#mason | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-26T09:53:27.551000+00:00] Tickets v2 | 1542109717021589596
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542109717021589596
+-# ||<@&1535189086258855954>||
+
+[2026-08-26T09:53:27.859000+00:00] Tickets v2 | 1542109718313439243
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542109718313439243
+
+Embed: {"color": 3066993, "content_scan_version": 4, "description": "Create. make only one to store your info, like appearance and abilities.", "fields": [{"inline": true, "name": "- Player Character Information", "value": "Character creation: Name, Age, gender, Height, Weight, Clothing, clothing color, hair, hair color. Don't put too much thought into character creation but weight and height does affect your character. Your character will change in appearance overtime depending on how your story unfolds."}, {"inline": false, "name": "- Choose 2 unique features that your character may possess:", "value": "These features are aesthetical and serve no real power or purpose besides more personality."}, {"inline": false, "name": "UNIQUE FEATURES, Physical features:", "value": "Scarred knuckles, uneven eyes, a chipped tooth, a streak of naturally lighter hair, unusual freckles, faint ritual markings, a missing earring, slightly pointed ears, cracked-looking nails, a birthmark shaped like a symbol, a small scar across the eyebrow, different-colored irises, an old burn mark, a faint limp from an old injury, unusually long fingers, a small notch in one ear, or a permanently tired-looking expression."}, {"inline": false, "name": "UNIQUE FEATURES, Clothing/gear details:", "value": "A weathered cloak with dozens of stitched repairs, mismatched gloves, an old belt covered in tiny charms, a dented shoulder guard, a sword with a repaired handle, a necklace made from an unknown coin, bandages wrapped around one arm, boots from different sets, a cloak clasp bearing an unfamiliar crest, a small journal hanging from the belt, a ring worn on a strange finger, a pouch filled with seemingly useless objects, or a weapon with an oddly personal modification."}, {"inline": false, "name": "UNIQUE FEATURES, Subtle supernatural features:", "value": "Their eyes reflect light strangely, their breath briefly fogs in warm weather, old wounds faintly glow when magic is nearby, their reflection looks slightly different for a moment, animals sometimes stare at them, their hair lifts slightly around magical objects, their voice has a faint echo in certain places, nearby candles occasionally flicker when they're emotional, their footsteps sometimes sound slightly delayed, or magical objects react subtly to their presence."}, {"inline": true, "name": "- Information", "value": "Make a thread and send content like weapons, abilities, friends, or any information you'd like to store that you would believe benefit you in the near future, this makes it so YOU can look back and think about what you have and what you could do for a more strategic play."}, {"inline": true, "name": "- anonymous messaging (VOLT)", "value": "for anonymous messaging, you can use VOLT, using /volt (message) (channel), you can send anonymous messages from your Ticket. only requirement i would like to say, Do NOT spam it and make sure the writers have a way of knowing it is you before hand."}, {"inline": true, "name": "- Questions", "value": "futher questions, you should ping or notify the Writers."}], "footer": {"icon_url": "https://tickets.bot/assets/img/logo.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/8MjyyuscKsVyuL1EfsDZtZd8r36jwYZjKpVb8s2tYws/https/tickets.bot/assets/img/logo.png", "text": "Powered by tickets.bot"}, "type": "rich"}
+
+[2026-08-26T09:54:23.307000+00:00] Mxson | 1542109950879203379
+Author ID: 895303975165907035
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542109950879203379
+6'2 brown ish hair cargo pants half open hoodie, faded perm cut, Samuari tattoo on chest
+
+[2026-08-26T09:54:41.819000+00:00] civic | 1542110028524290209
+Author ID: 1187513925739237408
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542110028524290209
+Reply to: 1542109950879203379
+<@1538115083513761813> do ur magic
+
+[2026-08-26T10:01:14.139000+00:00] Mxson | 1542111674033512581
+Author ID: 895303975165907035
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542111674033512581
+Aure
+
+[2026-08-26T10:03:33.931000+00:00] Riven | 1542112260363657338
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1542109715834601562/1542112260363657338
+Reply to: 1542109950879203379
+
+File (saved): attachments/1542109715834601562/1542112260363657338/1542112259650883634_content.png
+

@@ -1,0 +1,54 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/TGC_Chapter_2_Power_Analysis/0002.md
+Category: lore | Collection: TGC Chapter 2 Power Analysis
+Export content (not verified canon; see source context):
+
+# Source chunk 0002
+
+Source: `Archive/Original_Texts/Reference/TGC_Chapter_2_Power_Analysis.txt`  
+Lines: 200–241  
+**Status:** Source excerpt, with historical claims preserved.
+
+## Text
+
+Caesar leaves the meeting location and a return deadline; the team insists on
+an earlier rescue threshold. They arrive while he is injured. A credible team
+plan has an extraction condition, not an assumption that its strongest member
+cannot be overwhelmed. This is strategic interpretation from the story, not
+a supernatural ability or an assertion that rescue can never arrive too late.
+
+7. WHAT THIS CHANGES IN THE MASTER
+
+- Add Aura as a distinct documented TWN-side power with its origin and transfer
+  evidence. Keep Aro, Aura, OASIS and Null separately searchable.
+- Add Caesar, Terror, Venga and Shinichi historical power dossiers; do not give
+  their complete kits to current players just because souls/traits are related.
+- Add actual support feats—repairs, stabilization, transport preparation and
+  coordinated rescue—alongside battle feats.
+- Keep gift provenance: Caesar's divine awakening and distribution do not make
+  externally obtained Caesar Wind, Venga Hue or Ignis's Shadow Level automatic
+  Yellow Stone inheritance.
+- Treat colors as system-specific. Terror's yellow creation is not established
+  YellowCell; Venga's purple force is not established PurpleCell; his or
+  Shinichi's effects do not create a new ROR Class without a GM statement.
+- Preserve the prior Chapter One distinction: the book gives Kael Arthur/Moon,
+  blue from birth; older conflicting player lore remains historical evidence.
+
+8. NEW BOOK CONTINUITY IN ONE PARAGRAPH
+
+After the Great Sin, Arthur dies with Caesar beside him. Enas awakens Aura
+through Caesar's Oasis; Caesar defeats Animalia's tyrant and spreads the gift.
+He recruits Terror, Venga and Shinichi, and Caesar's Legion grows through aid,
+training and protection. Nemesis—Caesar's created brother from Chapter One—
+commands another legion and traps him in a meeting hall. The chapter ends with
+his companions arriving to rescue him. It does not yet resolve the fight or
+state the later fates of everyone present.
+
+9. QUESTIONS THE CHAPTER LEAVES OPEN
+
+Can current characters obtain Aura, and through whom? Does a transferred gift
+carry Aura only or alter the recipient's existing Oasis? What determines each
+recipient's expression? Can Terror repair living tissue? What exactly is
+Venga's force and does it correspond to the earlier Hue? What is Shinichi's
+wolf-like manifestation? Does Caesar Wind require a spoken name? What are the
+ranges, energy costs, resistance checks and persistence rules? These remain
+research questions; none should be filled with guessed mechanics.

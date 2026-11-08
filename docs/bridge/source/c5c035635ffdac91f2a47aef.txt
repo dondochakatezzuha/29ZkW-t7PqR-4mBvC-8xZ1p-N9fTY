@@ -1,0 +1,61 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0012.md
+Category: lore | Collection: V52 Lore And Power Update
+Export content (not verified canon; see source context):
+
+# Source chunk 0012
+
+Source: `Archive/Original_Texts/Reference/V52_Lore_and_Power_Update.txt`  
+Lines: 669–717  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+K also explicitly forbids transferring Loki's YellowCell, merging it with another person's YellowCell, or granting it to someone without YellowCell. The stated reasons are Null's possession rules, the system's prohibition on personally bound powers and Loki's unique acquisition. A recipient already having YellowCell or an Outside System does not remove the restriction. This is a ruling on Loki's transfer route; do not infer that all independently acquired YellowCells are impossible.
+
+K sends all-eight-manipulation trade requests to Adelram and Dargen. Dargen accepts and L completes the transfer at 11:04 UTC: all eight are registered and available to learn/control. Track this as Dargen's personal acquisition, separate from earlier access through a merge. The set remains Shadow, Spatial, Energy, Existence, Matter, Reality, Soul and Time; possessing them does not automatically create White/Grey/Judgement Day flames.
+
+Adelram says accept, but X mistakenly presses decline. The source then confirms that the request expired and must be resent. Loki's final recorded action asks K to resend; no new request or successful acceptance has yet been resolved. Do not award Adelram all eight or complete his Energy quest. Loki also asks K to transfer to Kaizen through the no-system route, but no implant or acquisition is resolved. No transfer of White Flames, Black Flames, Lyra or Jinka to a new recipient is shown here.
+
+Sources:
+2026-10-28T10:53:58.530Z | Croco | 1564955381984403489
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564955381984403489
+2026-10-28T10:57:11.727Z | Croco | 1564956192311353467
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564956192311353467
+2026-10-28T10:59:41.660Z | Croco | 1564956821175668900
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564956821175668900
+2026-10-28T11:02:44.823Z | Croco | 1564957589416972471
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564957589416972471
+2026-10-28T11:03:36.806Z | Croco | 1564957807449612310
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564957807449612310
+2026-10-28T11:04:20.015Z | Shift | 1564957988681416826
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564957988681416826
+2026-10-28T11:04:39.248Z | Croco | 1564958069350469713
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564958069350469713
+2026-10-28T11:06:48.836Z | Croco | 1564958612881670216
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564958612881670216
+2026-10-28T11:07:29.996Z | Shift | 1564958785519222846
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564958785519222846
+
+Dargen: Varkos, Forever and the points ledger
+COMPLETED COMBAT, QUEST REWARDS AND REGISTERED TECHNIQUE
+
+L offers The Hunter (ten powerful creatures unaided, 5 points), Unbroken (survive five minutes against a stronger opponent without merging, 10 points), and Beyond Your Limits (a genuinely new technique using existing abilities, 15 points). Dargen accepts The Hunter and travels by Omni to Planet Varkos. Unbroken is offered but not completed in this interval.
+
+Omni evades a Varkos Ravager, then Realm Severance: The Black Divide cuts through it spatially despite its physical armour (1/10). Chronoflame: The Burning of Time consumes the timelines of two armoured creatures, aging them to ash (3/10). Almighty Flames: The Eternal Hunger consumes the Varkos Worldbreaker's energy and attack until it dies (4/10). L describes the Worldbreaker as able to destroy mountain ranges; that is a description, not a newly acquired player power.
+
+Dargen combines Black Flames and Lightning with Omni energy against three Ironback Behemoths. The attack kills them, splits Planet Varkos and causes its destruction; Dargen is unharmed in the narrated explosion. The panel jumps to 10/10 and awards 5 points. Earlier L had located two more Ravagers and an Abyssal Wyrm; they are not individually fought in the visible record. Preserve the completed quest result and planetary destruction without inventing their separate fights or universal explosion immunity.
+
+For Beyond Your Limits, Dargen combines Black Flames, Aure and Lightning, stabilizing a sphere of dark flame and golden lightning. The system recognizes a new ability rather than a stronger existing attack. It is named Forever and permanently registered: Aure sustains the flames and Lightning amplifies destructive power. No rank, duration, cooldown or additional named effect is supplied. The creation and later registration both repeat the 15-point reward; they are one quest, not two rewards.
+
+The final panel says total Outside System Points 35. The prior saved 20 plus this interval's displayed 5 and 15 would imply 40 if nothing else changed. No five-point expenditure is shown. Retain 35 as the latest displayed total and flag the ledger mismatch rather than silently correcting the system or double-counting the repeated 15.
+
+Sources:
+2026-10-28T07:56:48.406Z | Croco | 1564910796012658849
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564910796012658849
+2026-10-28T08:03:29.169Z | Croco | 1564912476934512722
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564912476934512722
+2026-10-28T08:10:33.480Z | Croco | 1564914256623828994
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564914256623828994
+2026-10-28T09:35:11.825Z | Croco | 1564935556746706955
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564935556746706955
+2026-10-28T09:42:52.108Z | Croco | 1564937487313543300

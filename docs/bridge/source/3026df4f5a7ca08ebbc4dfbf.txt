@@ -1,0 +1,43 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Race_Register/0001.md
+Category: powers | Collection: Race Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0001
+
+Source: `Archive/Original_Texts/Reference/Race_Register.txt`  
+Lines: 31–61  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+The discussion adds no resolved acquisition of a new biological race or a new numbered player eye. Azreal's green-eye bloodline manifestation and Predator's Eye assistance are covered in their character entries, without inventing ranks. Reposted Cell names, Kaizen's YellowCell-as-race wording and assertions about relative player ranks do not independently award new species or settle a current strongest-player table.
+Sources: 1565272686488195133, 1565272845477744694, 1565271725988646923, 1565272066528387213, 1565272133246914632, 1565273782736789566, 1565273997212520632, 1565274029168795730, 1565274072974368789
+
+PRIOR SOURCE HISTORY
+
+v51 check through 2026-10-28T11:17:12.399Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v50 DATED CLARIFICATIONS
+
+Adelram: Imperial Horizon and the Forgotten Sovereign
+
+Shift leaves for his own realm and sends his son Albion to continue Adelram's Time training. Albion communicates through signs translated by X; the source does not establish deafness or blindness. Ignis remains initially and later departs. Ordinary Imperial Vision is a temporal mirage left as the original body advances in time, not a physical clone. Albion can pass through it and disrupt its temporal stability.
+
+Holding the Time Branch stabilizes the mirage against two disturbances. Without holding it, Adelram initially fails after several seconds. By directing time through concentration instead of forcing more energy, he succeeds, then maintains the technique through three disturbances for another ten seconds before losing concentration. These are observed training results, not an unlimited baseline duration.
+
+At 10:20 UTC an unidentified voice announces Aro Zone Imperial Horizon Form. Adelram becomes an enormous primordial-looking creature with four arms, seven horns, obsidian armour and a temporal heart. The explicit awakening panel gives Dragon x450 million and 2.5 trillion temporal mirages. These special mirages physically affect their surroundings while ordinary external forces cannot affect them; sufficiently authoritative beings such as Albion and Ignis can. Albion later dissolves one with a finger, demonstrating that exception. This appearance is a transformation, not a newly awarded biological race or numbered eye.
+
+Adelram attributes the voice to Oak. Albion/X identify Oak as the Time Branch's consciousness. The later control scene narrates 2.3 trillion independently acting mirages and names the ancient temporal awakening The Forgotten Sovereign. That same scene has Ignis say Dragon x750 million, conflicting with the x450 million awakening panel. Both figures, and the 2.5 versus 2.3 trillion counts, remain flagged; no explicit correction explains them. Do not silently replace one with the other or combine them.
+
+The form ends and all mirages disappear. X states a maximum duration of 25 minutes; no cooldown is given. Albion then finishes the lesson and leaves. The Eternal Sovereign quest offers unlimited duration only after learning Energy Manipulation, mastering it, and applying it to the transformation (0/3). X admits not knowing how to teach it and corrects her mistaken claim that Adelram already has energy-based abilities. At this cutoff, the promised unlimited duration is unearned and the trade for all eight manipulations has been declined by X; a resend is requested but not completed.
+Sources: 1564907515819462789, 1564916607745261578, 1564934913021448233, 1564937204860457020, 1564938196184211539, 1564939603280928850, 1564941318050942987, 1564942585397514303, 1564946887293935687, 1564949450953195523, 1564951291279573032, 1564953328541114419, 1564954288147537951, 1564956399375622145, 1564958612881670216
+
+Kaizen family, Aeth links and Mercury Null space travel
+
+Paja apologizes for striking Kaizen and says All Father protects the family. That is her belief, not independent proof that All Father is harmless or that Toby's boss condition is cancelled. Kaizen then spends time with Paja, Soren and Laja at the market. Later OOC angry remarks do not establish a completed family death or attack.
+
+Paja already hears the tails through Aeth. Croco briefly says Soren is absent and Laja cannot hear them, then later narrates Soren present without explaining the movement. Preserve that continuity gap. Aeth explicitly creates a new gentle connection for Laja so she can hear all nine tails. This is a mental communication grant, not YellowCell/Null or all tail powers transferred to her. Player statements about Laja being chronologically about 38 with an eight-year-old appearance, and not having Null because Kaizen obtained it after her birth, remain attributed; no new quantified universal Kharic aging law is awarded.
+
+YellowCell supports safe tail rides and anchors Kaizen, then constructs an amusement park with regulated rides and barriers. It transforms a ride into an automated jet and then a rocket with oxygen, life support, navigation and protection from acceleration/debris. The tails provide extra barriers and sensing. These are demonstrated creation/control applications, not universal invulnerability or an unlimited energy supply.
+
+On the moon, Mercury Null creates spacesuits for Kaizen, Paja, Soren and Laja. YellowCell supplies oxygen, temperature/pressure regulation and tethers; the tails add emergency protection. This directly confirms continued Mercury Null use. Laja's collected moon rock is described as a grey stone with tiny crystals, not a magical eye, Multiverse Stone or power reward. The family boards the ship and it begins an automated return home while Kaizen continues the isolated sphere experiment. Arrival home is not yet narrated.

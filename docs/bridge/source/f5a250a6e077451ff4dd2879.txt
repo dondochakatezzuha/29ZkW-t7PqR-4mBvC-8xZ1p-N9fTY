@@ -1,0 +1,13 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/mariams-island-g3_1553391486324973579/2026-11.txt
+Category: world | Collection: Mariams Island G3
+Export content (not verified canon; see source context):
+
+#mariams-island-g3 | 2026-11
+All times are UTC. Message IDs identify original sources.
+
+[2026-11-04T13:21:47.930000+00:00] Adelram | 1567529298003501138
+Author ID: 830581022482759701
+https://discord.com/channels/1535189086258855946/1553391486324973579/1567529298003501138
+https://klipy.com/gifs/tom-y-jerry-durmiendo
+Embed: {"content_scan_version": 4, "provider": {"name": "Klipy", "url": "https://klipy.com"}, "thumbnail": {"flags": 0, "height": 400, "placeholder": "nRgOHoR1hpePh5dseJh4V5iHrj/9taM=", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/JNZCci6HOoufDzE9sDMjaHYhKFmKQ_yhk65eaxOfVOc/https/static.klipy.com/ii/35ccce3d852f7995dd2da910f2abd795/a8/67/REqYVZF4.webp", "url": "https://static.klipy.com/ii/35ccce3d852f7995dd2da910f2abd795/a8/67/REqYVZF4.webp", "width": 498}, "title": "Tom Y Jerry Durmiendo en Almohada Roja", "type": "gifv", "url": "https://klipy.com/gifs/tom-y-jerry-durmiendo", "video": {"flags": 0, "height": 400, "placeholder": "nRgOHoR1hpePh5dseJh4V5iHrj/9taM=", "placeholder_version": 1, "proxy_url": "https://images-ext-1.discordapp.net/external/aOcj6zb-AAstKIyBrozEm4PZ6spMW5Ea8QarciHgqnw/https/static.klipy.com/ii/35ccce3d852f7995dd2da910f2abd795/a8/67/tyR73f4e.mp4", "url": "https://static.klipy.com/ii/35ccce3d852f7995dd2da910f2abd795/a8/67/tyR73f4e.mp4", "width": 498}}
+

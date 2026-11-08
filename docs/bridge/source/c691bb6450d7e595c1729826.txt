@@ -1,0 +1,70 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0083.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0083
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4648–4705  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561179576124702902
+Croco | 2026-10-18T00:37:22.722Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561176331662786662
+Croco | 2026-10-18T02:15:32.163Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561201033768730755
+Croco | 2026-10-18T02:12:00.095Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561200144290947083
+
+37.2 EYE MARKET, ALTERS, SPIN LEDGER AND TITAN REQUEST
+
+Croco introduces trading, sales for spins and Alters. Eye trades require matching value: his example for Dragon+ is three Mythicals, two Mythical++ and one Mythical+++. Preserve this as the stated example; it is not a complete conversion table for every rarity. Items received from another player through trading become 'Alters' and cannot then be sold. This prevents assuming an unrestricted trade-and-resell loop. No actual eye transplant or physical transfer procedure is supplied here.
+
+The initial sell announcement quotes two spins below Legendary, 35 above Mythical+++ and 155 for Dragon+++, with batches allowed but a 24-hour-or-longer wait afterward depending on amount sold. Later, Croco quotes three spins below Legendary, 35 above Mythical+++ and 155 above Dragon+++. Actual rulings give Adelram two spins for Zyra and a two-hour resell cooldown, and Arlo three for Ryth with a two-hour cooldown. Preserve both dated statements and executed outcomes. The threshold wording and 2-versus-3 payouts / 2-hour-versus-24-hour cooldowns are inconsistent; no single universal price or cooldown table is settled by this transcript.
+
+Loki's actual Moon x2 + Dominion bundle pays 190 total. Do not independently price each Moon at 155 and override the GM's total. The recorded ledger is: 190 received; 70 spent for Sun; 45 for Secret Eye 1; 45 transferred to Adelram with GM acknowledgment; 12 for OVRATH. Arithmetic leaves 18 from those recorded transactions. Loki instead calls his pre-OVRATH balance 25 and later says 13 remain. That leaves a five-spin discrepancy unless another deduction is established. Keep the actual awards and the player-stated 13 balance; do not award extra spins based solely on arithmetic.
+
+Adelram's transferred 45 are fully accounted for: 32 for Secret Eye 2 plus 13 for Moon. His earlier Zyra sale and subsequent rolls are a separate sequence. Dargan requests use of 12 remaining spins; Croco grants Void in six, without separately restating the final balance. Arlo's Ryth sale supplies three spent on Zyra, followed by two five-spin runs supplying Ire twice. Lock-in can skip a stronger result and finish below the requested tier.
+
+Asked whether players can replace their Titans' eyes, Croco replies with a sticker whose visible text is 'noooo'. Record that negative response and the absence of any approved replacement; it is not a detailed transplant rule or a granted Titan upgrade. The earlier 'Demon Stare' sticker in response to a Secret Eye 3 request is not the full power sheet. The later five-part Secret Eye 3 description is the substantive source. Loki's plan for a Sun-related Cell Fuse form is likewise not an approved new form.
+
+Sources:
+Croco | 2026-10-18T09:46:52.148Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561314615458009111
+Croco | 2026-10-18T09:53:28.277Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316276943462440
+Croco | 2026-10-18T09:53:51.721Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316375274725459
+Croco | 2026-10-18T09:56:06.807Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316941866733569
+Croco | 2026-10-18T10:44:53.953Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329219206647809
+Croco | 2026-10-18T10:45:58.929Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329491736006667
+Croco | 2026-10-18T09:54:16.318Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316478442151987
+Croco | 2026-10-18T09:54:20.736Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561316496972456019
+Croco | 2026-10-18T09:59:45.652Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561317859769196575
+Croco | 2026-10-18T10:02:50.718Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318635992125460
+Shift | 2026-10-18T10:03:10.901Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318720645763143
+Croco | 2026-10-18T10:03:19.631Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318757262164000
+Shift | 2026-10-18T10:09:44.740Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320372526260338
+Croco | 2026-10-18T10:11:05.575Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320711572693082
+Shift | 2026-10-18T10:48:50.498Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561330211348283393
+Croco | 2026-10-18T10:05:07.796Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561319210938929238
+Croco | 2026-10-18T10:08:41.049Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561320105386704968
+Croco | 2026-10-18T10:24:56.736Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561324197714731129
+Croco | 2026-10-18T11:04:10.560Z | #the-xiv

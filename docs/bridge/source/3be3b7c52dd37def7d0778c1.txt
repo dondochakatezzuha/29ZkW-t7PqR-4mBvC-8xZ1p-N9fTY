@@ -1,0 +1,83 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Locations_1546900851543638206/mariams-island-g3_1553391486324973579/2026-09.txt
+Category: world | Collection: Mariams Island G3
+Export content (not verified canon; see source context):
+
+#mariams-island-g3 | 2026-09
+All times are UTC. Message IDs identify original sources.
+
+[2026-09-26T13:03:23.028000+00:00] kaizen | 1553391536950091898
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553391536950091898
+Reply to: 1553391030248673290
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "4114a35e-e40a-4eb6-bcef-c6dd39438783.png", "height": 1254, "id": "1553391536857677964", "original_content_type": "image/png", "placeholder": "zwcGFwJgkWk/mFqGiqiXaJa8h3AFCDkA", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1553391486324973579/1553391536857677964/4114a35e-e40a-4eb6-bcef-c6dd39438783.png?ex=6af0731b&is=6aef219b&hm=ee754d41a090c76f845b15f2174a04ead996727bc1f13c04fa2a535452228906&", "size": 3552600, "url": "https://cdn.discordapp.com/attachments/1553391486324973579/1553391536857677964/4114a35e-e40a-4eb6-bcef-c6dd39438783.png?ex=6af0731b&is=6aef219b&hm=ee754d41a090c76f845b15f2174a04ead996727bc1f13c04fa2a535452228906&", "width": 1254}], "components": [], "content": "**you took the keys off of mariam's pocket before unlocking the mansion**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-09-26T13:01:22.221000+00:00", "type": 19}}
+
+[2026-09-26T13:04:49.277000+00:00] kaizen | 1553391898704617485
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553391898704617485
+(refrain from typing here)
+
+[2026-09-26T13:16:57.713000+00:00] kaizen | 1553394953986773123
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553394953986773123
+Reply to: 1553394828161581177
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "61ff099e-e4e8-4f92-916f-cb86302d10fa.png", "height": 1024, "id": "1553394953831321781", "original_content_type": "image/png", "placeholder": "CggCFYJLvmaUZ3ZZZoicgGqQzxb5", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1553391486324973579/1553394953831321781/61ff099e-e4e8-4f92-916f-cb86302d10fa.png?ex=6af07649&is=6aef24c9&hm=1d0002c9a23b7331742435ccd736e13301f46d225b28aa4662a7b0e6e97c2a9b&", "size": 2880836, "url": "https://cdn.discordapp.com/attachments/1553391486324973579/1553394953831321781/61ff099e-e4e8-4f92-916f-cb86302d10fa.png?ex=6af07649&is=6aef24c9&hm=1d0002c9a23b7331742435ccd736e13301f46d225b28aa4662a7b0e6e97c2a9b&", "width": 1536}], "components": [], "content": "**FEATURES**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-26T13:16:27.714000+00:00", "type": 0}}
+
+[2026-09-26T13:20:03.415000+00:00] kaizen | 1553395732877418627
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553395732877418627
+Reply to: 1553395706327339039
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "RoomShift — Rooms physically transform between bedroom, office, lounge, cinema, etc.\nSafety Shell — Any occupied room can seal into an emergency refuge.\nCliff Lock — Braces/retracts exposed architecture during structural danger.\nStorm Cocoon — Automatically secures the entire estate before severe weather.\nWildfire Defense — Hydrates/protects estate boundaries against fire and embers.\nAtmospheric Isolation — Seals outside air and independently purifies each wing.\nZero-Light — Makes the island nearly invisible at night by eliminating light leakage.\nAcoustic Veil — Makes selected rooms virtually sound-isolated.\nPrivate World — Maximum privacy; reroutes staff/robots and disables unnecessary sensing.\nFollow-Me — Lighting, climate, music and interfaces follow residents automatically.\nSunTrack — Architecture/shading physically follows sunlight and heat.\nOcean Mode — Gulf-facing walls retract, creating enormous indoor/outdoor spaces.\nSelf-Recovery — Estate inspects and restores itself after storms/damage.\nWater Façade — Controlled water walls provide cooling, privacy and atmosphere.\nSky Ceiling — Interior ceilings reproduce realistic daylight, sky and stars.\nHidden Storage — Furniture/appliances disappear into floors and walls.\nMedical Response — Automatically routes emergency equipment/responders to residents.\nEvacuation Orchestrator — Calculates and physically guides safest escape routes.\nScene Memory — Restores an entire saved house configuration instantly.\nGuest Morph — Converts unused spaces into temporary guest suites.\nEco Rest — Reduces human activity so wildlife can reclaim more island space.", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-26T13:19:57.085000+00:00", "type": 19}}
+
+[2026-09-26T13:20:11.402000+00:00] kaizen | 1553395766377193533
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553395766377193533
+Reply to: 1553395749817942158
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "Glass Horizon — Entire panoramic glass façades retract from view.\nEstate Sleep — Mansion autonomously maintains itself during long absences.\nTerrain Morph — Reconfigures engineered terraces/access structures around natural terrain.\nLandscape Shift — Rearranges designed gardens, planting screens and outdoor spaces.\nWaterway Control — Controls artificial streams, waterfalls and drainage networks.\nAdaptive Pools — Pools alter temperature, covers, filtration and supported configurations.\nGarden Climate — Creates independent microclimates for different gardens.\nShoreline Response — Protects developed coastline infrastructure from waves/erosion.\nMarine Dock Morph — Dock physically adapts to boats, weather and privacy needs.\nPathway Shift — Opens, closes and reroutes estate paths dynamically.\nPrivacy Landscape — Vegetation + architecture reposition to block sightlines.\nSolar Skin — Roofs/glass/surfaces intelligently harvest solar energy.\nThermal Balance — Moves/reuses heat throughout the estate instead of wasting it.\nAutonomous Clean — Robots clean windows, pools, floors, roofs and exteriors.\nAutonomous Repair — Robots handle minor maintenance automatically.\nMaterial Health — Tracks corrosion, moisture, seals, glass and structural materials.\nStructural Adapt — Active structures compensate for wind, heat and movement.", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-26T13:20:07.454000+00:00", "type": 19}}
+
+[2026-09-26T13:20:20.472000+00:00] kaizen | 1553395804419522701
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553395804419522701
+Reply to: 1553395783586283611
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "Energy Orchestration — Automatically balances solar, batteries, grid and backup power.\nWater Autonomy — Coordinates desalination, rain capture, recycling and reserves.\nHabitat Protection — Estate changes behavior to protect wildlife/nesting zones.\nIsland Weather Response — Entire island infrastructure reacts collectively to weather.\nPersonalized Estate — Every resident gets personalized rooms, climate, privacy and automation.\nSovereign Custom — Full island sandbox: customize compatible mansion architecture, rooms, terraces, pools, gardens, pathways, lighting, privacy, water and automation; CLS simulates safety/environmental effects before APPLY.", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-09-26T13:20:15.505000+00:00", "type": 19}}
+
+[2026-09-26T14:35:19.633000+00:00] kaizen | 1553414675268632576
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553414675268632576
+Reply to: 1553414583388086423
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "0d9ae4cd-3530-4e1a-ab05-3de89ab8e1f3.png", "height": 1024, "id": "1553414674228314243", "original_content_type": "image/png", "placeholder": "zjgGBYAGelZjiWtiWNWVaA1phGBn", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1553391486324973579/1553414674228314243/0d9ae4cd-3530-4e1a-ab05-3de89ab8e1f3.png?ex=6af088a7&is=6aef3727&hm=8aa94f28237bca8cdbbe5acfc89eeaad9a6cf87485d85481944092c4911fd10e&", "size": 2865121, "url": "https://cdn.discordapp.com/attachments/1553391486324973579/1553414674228314243/0d9ae4cd-3530-4e1a-ab05-3de89ab8e1f3.png?ex=6af088a7&is=6aef3727&hm=8aa94f28237bca8cdbbe5acfc89eeaad9a6cf87485d85481944092c4911fd10e&", "width": 1536}], "components": [], "content": "**ROOM CREATED**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "73c89165e91c8b3069bf2dc24fee0503", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 128, "global_name": "Adelram", "id": "830581022482759701", "primary_guild": null, "public_flags": 128, "username": "adelram_2002"}], "timestamp": "2026-09-26T14:34:57.727000+00:00", "type": 19}}
+
+[2026-09-26T14:35:20.223000+00:00] kaizen | 1553414677743140885
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553414677743140885
+adelrams room:
+
+[2026-09-26T14:40:13.804000+00:00] kaizen | 1553415909111107614
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553415909111107614
+Reply to: 1553415820879601754
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "dc5e86d1-81af-466a-9d36-472560518907.png", "height": 1024, "id": "1553415908771233873", "original_content_type": "image/png", "placeholder": "jBgCDYKqjKhZcZmSt1j9Z/mWl194", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1553391486324973579/1553415908771233873/dc5e86d1-81af-466a-9d36-472560518907.png?ex=6af089cd&is=6aef384d&hm=038e9735b7db0ffd61fd59351b61cdec3fbd55249fb770be73210a01ffe7366c&", "size": 2876756, "url": "https://cdn.discordapp.com/attachments/1553391486324973579/1553415908771233873/dc5e86d1-81af-466a-9d36-472560518907.png?ex=6af089cd&is=6aef384d&hm=038e9735b7db0ffd61fd59351b61cdec3fbd55249fb770be73210a01ffe7366c&", "width": 1536}], "components": [], "content": "", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-09-26T14:39:52.768000+00:00", "type": 19}}
+
+[2026-09-26T14:40:14.090000+00:00] kaizen | 1553415910310809796
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553415910310809796
+kaizens room:
+
+[2026-09-27T04:43:52.099000+00:00] kaizen | 1553628217628164180
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553628217628164180
+Reply to: 1553417899127865374
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [{"content_scan_version": 4, "content_type": "image/png", "filename": "1228bc9e-47fb-462c-9f7a-1790282916e6.png", "height": 1024, "id": "1553628217372446810", "original_content_type": "image/png", "placeholder": "SRgCDYCfShaZeYqDfMdlQzATBiNg", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1553391486324973579/1553628217372446810/1228bc9e-47fb-462c-9f7a-1790282916e6.png?ex=6af0a6c8&is=6aef5548&hm=2f8eb3a74eca1707fd7b592c9a352c038ed0d224e32c149761bfff74ef9a65c4&", "size": 2742411, "url": "https://cdn.discordapp.com/attachments/1553391486324973579/1553628217372446810/1228bc9e-47fb-462c-9f7a-1790282916e6.png?ex=6af0a6c8&is=6aef5548&hm=2f8eb3a74eca1707fd7b592c9a352c038ed0d224e32c149761bfff74ef9a65c4&", "width": 1536}], "components": [], "content": "**ROOM created**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "25f1a88dfe69e2ff86685bf9d085f515", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "Shift", "id": "1282572553977860157", "primary_guild": null, "public_flags": 0, "username": "numbura1"}], "timestamp": "2026-09-26T14:48:08.261000+00:00", "type": 19}}
+
+[2026-09-27T04:43:52.762000+00:00] kaizen | 1553628220408995923
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1553391486324973579/1553628220408995923
+loki room:
+

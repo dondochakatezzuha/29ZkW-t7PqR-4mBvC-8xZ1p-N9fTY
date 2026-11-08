@@ -1,0 +1,93 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Titan_Register/0004.md
+Category: powers | Collection: Titan Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0004
+
+Source: `Archive/Original_Texts/Reference/Titan_Register.txt`  
+Lines: 280–360  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+The earlier rule that player merge inherits buffs and nerfs, and cannot freely stack with Titan merge, remains. An Adze-shaped battle form is not by itself a new completed Titan contract or an explicit repeal of that restriction.
+
+Sources:
+Croco | 2026-10-21T07:05:59.733Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562361293892227113
+Croco | 2026-10-21T07:06:02.660Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562361306168959078
+Croco | 2026-10-21T07:06:06.102Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562361320605483009
+Adelram | 2026-10-21T10:21:00.129Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562410368909713450
+Shift | 2026-10-21T10:21:07.727Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562410400778031205
+Dargan | 2026-10-21T10:21:30.062Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562410494458077286
+Arlo | 2026-10-21T10:21:24.237Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562410470026256465
+Croco | 2026-10-21T10:57:09.356Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562419467307188224
+Croco | 2026-10-21T11:55:58.599Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562434270025359382
+Croco | 2026-10-21T11:59:06.678Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562435058885988363
+Shift | 2026-10-21T12:05:21.789Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562436632215294054
+Croco | 2026-10-21T12:44:23.634Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446454625403042
+Croco | 2026-10-21T12:45:15.669Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446672875880479
+Croco | 2026-10-21T12:45:20.643Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446693738221699
+Croco | 2026-10-21T12:45:26.572Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446718606516306
+Croco | 2026-10-21T12:45:50.266Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562446817986355221
+Croco | 2026-10-21T12:46:47.050Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562447056155451483
+Croco | 2026-10-21T12:47:18.620Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562447188569890877
+Croco | 2026-10-21T12:47:53.993Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562447336934735943
+
+
+
+RETAINED TITAN ROSTER, JERIAL WEAPONS AND FULL PROFILES
+
+TITAN REGISTER - v38; six new Jerial weapon assignments and merge limits
+
+38.7 PLAYER MERGE, TITAN MERGE AND INHERITED COSTS
+
+Croco explicitly permits players to merge. Adding players combines their buffs and nerfs, and he says all eight or nine current players could become one. This is a system permission, not an already completed fusion or a promise that every combination is optimal. A high ARO drain or other limit is carried into the merged result along with the strengths. No fixed multiplier, duration, cost-splitting formula, control hierarchy or immunity to incompatible effects is specified.
+
+Titan merge is different. Croco rejects the proposed sequence of merging with a Titan and then using player merge. The two systems cannot be treated as a freely stacking route to obtain all Titan and player benefits at once. Existing Titan contracts remain individual unless an actual scene establishes another result.
+
+For team planning, list every contributor's useful functions and costs before proposing a merge: information and connection control, energy supply, spatial routing, defenses, summons, sustained damage and ARO consumption all matter. Player mockery or the ranking alone is not evidence that a lower-ranked teammate adds nothing. No named team fusion is completed in the new messages.
+
+Sources:
+Croco | 2026-10-20T08:29:47.764Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562019995117166734
+Croco | 2026-10-20T08:30:28.296Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020165120434198
+Croco | 2026-10-20T08:30:51.766Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020263560871967
+Croco | 2026-10-20T08:32:09.511Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562020589647040523
+Croco | 2026-10-20T08:36:03.676Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562021571806232619
+Croco | 2026-10-20T08:37:21.482Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562021898148257853
+
+38.9 JERIAL WEAPONS FOR SIX TITAN CONTRACT HOLDERS
+
+Croco assigns Jerial weapons to the six existing Titan contract holders. The attached designs were visually inspected; they do not contain a move list. These are not all swords, and design colors alone do not establish elements, ranges or damage.
+
+Toby — Mother Prana: blue/purple double-ended bladed polearm.
+Arlo — Dromak: paired curved swords, one red/black and one white/gold.
+Adelram — Sylvara: paired pale/gold plantlike or vine/wood scythes.
+Dargan — Kryvorn: blue crystalline curved scythe/hook-shaped weapon.
+Loki — Varkhazar: large jagged gold/red/black blade.
+Kaizen — Vaelthoryn: gold/white bow, with quiver and arrows.
+

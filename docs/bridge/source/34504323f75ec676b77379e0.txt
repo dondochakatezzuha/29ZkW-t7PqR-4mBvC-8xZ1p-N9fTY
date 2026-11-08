@@ -1,0 +1,66 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/balthazar_1540704112239190087/2026-08.txt
+Category: characters | Collection: Balthazar
+Export content (not verified canon; see source context):
+
+#balthazar | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-22T12:48:05.786000+00:00] Tickets v2 | 1540704114462429284
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540704114462429284
+-# ||<@&1535189086258855954>||
+
+[2026-08-22T12:48:06.258000+00:00] Tickets v2 | 1540704116442136637
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540704116442136637
+
+Embed: {"color": 3066993, "content_scan_version": 4, "description": "Create. make only one to store your info, like appearance and abilities.", "fields": [{"inline": true, "name": "- Player Character Information", "value": "Character creation: Name, Age, gender, Height, Weight, Clothing, clothing color, hair, hair color. Don't put too much thought into character creation but weight and height does affect your character. Your character will change in appearance overtime depending on how your story unfolds."}, {"inline": false, "name": "- Choose 2 unique features that your character may possess:", "value": "These features are aesthetical and serve no real power or purpose besides more personality."}, {"inline": false, "name": "UNIQUE FEATURES, Physical features:", "value": "Scarred knuckles, uneven eyes, a chipped tooth, a streak of naturally lighter hair, unusual freckles, faint ritual markings, a missing earring, slightly pointed ears, cracked-looking nails, a birthmark shaped like a symbol, a small scar across the eyebrow, different-colored irises, an old burn mark, a faint limp from an old injury, unusually long fingers, a small notch in one ear, or a permanently tired-looking expression."}, {"inline": false, "name": "UNIQUE FEATURES, Clothing/gear details:", "value": "A weathered cloak with dozens of stitched repairs, mismatched gloves, an old belt covered in tiny charms, a dented shoulder guard, a sword with a repaired handle, a necklace made from an unknown coin, bandages wrapped around one arm, boots from different sets, a cloak clasp bearing an unfamiliar crest, a small journal hanging from the belt, a ring worn on a strange finger, a pouch filled with seemingly useless objects, or a weapon with an oddly personal modification."}, {"inline": false, "name": "UNIQUE FEATURES, Subtle supernatural features:", "value": "Their eyes reflect light strangely, their breath briefly fogs in warm weather, old wounds faintly glow when magic is nearby, their reflection looks slightly different for a moment, animals sometimes stare at them, their hair lifts slightly around magical objects, their voice has a faint echo in certain places, nearby candles occasionally flicker when they're emotional, their footsteps sometimes sound slightly delayed, or magical objects react subtly to their presence."}, {"inline": true, "name": "- Information", "value": "Make a thread and send content like weapons, abilities, friends, or any information you'd like to store that you would believe benefit you in the near future, this makes it so YOU can look back and think about what you have and what you could do for a more strategic play."}, {"inline": true, "name": "- anonymous messaging (VOLT)", "value": "for anonymous messaging, you can use VOLT, using /volt (message) (channel), you can send anonymous messages from your Ticket. only requirement i would like to say, Do NOT spam it and make sure the writers have a way of knowing it is you before hand."}, {"inline": true, "name": "- Questions", "value": "futher questions, you should ping or notify the Writers."}], "footer": {"icon_url": "https://tickets.bot/assets/img/logo.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/8MjyyuscKsVyuL1EfsDZtZd8r36jwYZjKpVb8s2tYws/https/tickets.bot/assets/img/logo.png", "text": "Powered by tickets.bot"}, "type": "rich"}
+
+[2026-08-22T12:55:42+00:00] m8g3 | 1540706027962499163
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540706027962499163
+Name: Balthazar
+Age: 28
+Sex: Male
+Height: 6'4" (193 cm)
+Weight: 225 lbs (102 kg)
+Description: A tall, imposing man with a heavily muscular, athletic build and broad shoulders. He has pale skin, sharp masculine features, a strong jawline, and intense crimson-red eyes that give him an intimidating, almost supernatural presence. His thick, unruly black hair falls around his face in wild curls, adding to his predatory appearance. Despite his enormous physique, he carries himself with calm confidence and an almost regal stillness.
+Wears: A long, flowing black-and-midnight-blue cloak draped over his shoulders, leaving his muscular chest and abdomen exposed. He wears fitted black armored gloves and sleek black trousers with reinforced, polished black boots. The outfit is minimalistic but imposing, giving him the appearance of a dark warrior or fallen noble.
+
+[2026-08-22T12:55:46.750000+00:00] m8g3 | 1540706047885578341
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540706047885578341
+:)
+
+[2026-08-22T12:57:27.104000+00:00] m8g3 | 1540706468800761988
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540706468800761988
+npc character, i am already a player.
+
+[2026-08-22T20:47:39.813000+00:00] kaizen | 1540824801478840390
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540824801478840390
+WTF
+
+[2026-08-23T08:01:55.613000+00:00] m8g3 | 1540994485402738688
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540994485402738688
+draven it could be a enemy
+
+[2026-08-23T08:02:01.800000+00:00] m8g3 | 1540994511352889354
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540994511352889354
+hes big cause hes TOO muscular
+
+[2026-08-23T08:03:50.497000+00:00] Draven | 1540994967261028352
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1540704112239190087/1540994967261028352
+
+File (saved): attachments/1540704112239190087/1540994967261028352/1540994966892060742_689E4A1D-95C2-446A-8607-F17933D883CC.png
+
+[2026-08-24T09:23:16.085000+00:00] m8g3 | 1541377343451435089
+Author ID: 1192722608622411816
+https://discord.com/channels/1535189086258855946/1540704112239190087/1541377343451435089
+Reply to: 1540994967261028352
+thansk i look hansom
+

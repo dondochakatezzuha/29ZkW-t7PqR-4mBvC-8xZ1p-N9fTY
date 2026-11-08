@@ -1,0 +1,67 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/V52_Lore_and_Power_Update/0009.md
+Category: lore | Collection: V52 Lore And Power Update
+Export content (not verified canon; see source context):
+
+# Source chunk 0009
+
+Source: `Archive/Original_Texts/Reference/V52_Lore_and_Power_Update.txt`  
+Lines: 512–566  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+New Cell names, transfer restrictions, Kaizen's interrupted Null access,
+Mercury Null spacesuits, individual tail roles and family events are sourced.
+The all-eight transfer to Adelram remains incomplete at the cutoff.
+Read this dated analysis first; older entries remain as source history.
+Completed narration, rulings, player proposals and conflicting claims are
+distinguished. Only completed outcomes change the current ownership state.
+Manual collection covers XIV only. Other channel checkpoints retain their
+actual check dates; scheduled checks still cover all accessible TGC channels.
+Collection starts at the last saved message and proceeds forward.
+
+Aro Zone: Pure Main Trait and individual access
+DIRECT CROCO RULE CLARIFICATION; ELIGIBILITY IS NOT MASTERY
+
+Croco states that Aro Zone requires a Pure Main Trait with its own consciousness. The examples given are Time Manipulation, Null, Illusion, Stones and Strength. Related abilities alone do not qualify: the actual Pure Main Trait is required. This supersedes any earlier broad reading that every user of a related power can enter Aro Zone.
+
+Croco lists Adelram, Loki, Kaizen, Abraxas and Toby as the eligible players in this discussion. Dargen's Lightning, Aure and Rinkinji do not qualify. Galaxia, Tyreror, Stellar, Energy and plasma are explicitly described as lacking the necessary consciousness. Energy's ability to give something consciousness does not mean Energy itself possesses one. The short response to the separate Mind/Mystia question is not a clear written positive ruling; do not add an unsupported extra eligible trait.
+
+Croco explicitly says Aro Zone does not work in a merge: it is individual. A merged teammate's conscious trait therefore does not grant collective Aro Zone use. Later Dargen enters a separately named Oasis Zone; that event does not erase this Aro Zone restriction or establish universal Oasis Zone eligibility.
+
+No universal activation recipe, cost, duration or cooldown is supplied. Adelram's 25-minute transformation is specific to his Imperial Horizon Form. Kaizen's interrupted access has a separate recovery state. NPC and player insults are not measurements of ability or character value.
+
+Sources:
+2026-10-28T06:35:11.642Z | Croco | 1564890257495687251
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564890257495687251
+2026-10-28T06:37:15.812Z | Croco | 1564890778302546025
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564890778302546025
+2026-10-28T06:38:03.344Z | Croco | 1564890977666076703
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564890977666076703
+2026-10-28T06:42:41.655Z | Croco | 1564892144987152536
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564892144987152536
+2026-10-28T06:43:29.645Z | Croco | 1564892346271666218
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564892346271666218
+2026-10-28T06:43:33.441Z | Croco | 1564892362193371207
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564892362193371207
+2026-10-28T10:52:22.015Z | Croco | 1564954977171021857
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564954977171021857
+
+Null lineage and the expanding Cell catalogue
+LORE STATEMENTS, NAMED VARIANTS AND UNRESOLVED PLAYER CLAIMS
+
+Croco adds Crimson Cell, Obsidian Cell, Scarlet Cell, Teal Cell, Last Eternity Cell, Forgotten Origin Cell and Shattered Eternity Cell to the catalogue. The original list includes an isolated "1." before Last Eternity Cell; preserve the original message rather than inventing a numbered hierarchy. Prior names remain White, Pink, Violet, Black, Orange, Interment eternal cell and Jag vision cell. No effects, recipes, costs or order of progression for these additional names are explained here.
+
+Adelram says he has Green Cell and Dargan says he has Cyan Cell during casual discussion. Save both as player claims, with no demonstrated acquisition or mechanics. Kaizen's repeated intention to obtain every Cell is a goal, not ownership. Null's later narrated speech recognizes the named cells as manifestations beyond Kaizen's present understanding and says knowing their names does not grant mastery.
+
+Croco says Kael had sons and daughters who continued his Null legacy. At the historical point Kaizen visited, Kael had stopped at YellowCell and did not know the later cells. Player discussion about Kael Nullborn versus Kael Moon, his later prime, and seeking another past visit is preserved as discussion; no second visit happens. Croco rejects Kaizen's proposed Avatar-like connection to every previous Null user. Null's consciousness must not automatically be identified as Kael speaking or as a complete ancestral memory network.
+
+Croco calls "Mercury Cell" artificial rather than a natural Cell variant; Kaizen corrects his wording to Mercury Null. This does not revoke Mercury Null: its use to make spacesuits is directly narrated later in the same interval. Keep the artificial modification distinct from natural Cell names and preserve the user's prior retained-Mercury ruling. Existing Red/Blue/Purple/Yellow composition rules remain; Violet is not silently equated with Purple.
+
+Sources:
+2026-10-28T06:14:42.370Z | Adelram | 1564885101555490827
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564885101555490827
+2026-10-28T06:14:57.793Z | Dargan | 1564885166244237366
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564885166244237366
+2026-10-28T06:20:19.353Z | Croco | 1564886514964365394
+https://discord.com/channels/1535189086258855946/1551573873265213702/1564886514964365394

@@ -1,0 +1,73 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Slug_Register/0005.md
+Category: powers | Collection: Slug Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0005
+
+Source: `Archive/Original_Texts/Reference/Slug_Register.txt`  
+Lines: 317–377  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Croco introduces Hollow Grave as a newly exposed underground world on Vael Mor. All Father's planetary destruction split the surface and revealed a society and ecology that had been hidden for thousands of years. The discovery adds a location, inhabitants and a creature-based power system; it is not a new player race award or proof that the players have already visited the location.
+
+FULL LOCATION LORE
+
+Location : Hollow Grave
+
+ THE HOLLOW GRAVE | THE DISCOVERY OF SLUGS 
+
+ When All Father began destroying planets across the universe, Vael Mor suffered enormous damage, causing its surface to split open and reveal The Hollow Grave, an underground world that had remained hidden for thousands of years 
+
+ Long before its discovery, the inhabitants of The Hollow Grave had learned to survive alongside strange creatures known as Slugs, small living organisms found deep within the planet's caves, forests and underground rivers 
+
+ The first Slugs were discovered by miners who noticed unusual creatures glowing between cracks in the stone, some produced heat, others generated electricity, while certain species could freeze time or manipulate gravity, teleport, create lightning, be undead and so much more  
+
+ Over time, people discovered that Slugs possessed remarkable abilities that became far more powerful when launched at high speeds, transforming into larger creatures capable of fighting and protecting their owners 
+
+ This discovery eventually led to the creation of Slug Blasters, weapons designed to launch Slugs without seriously harming them 
+
+ However, not every Slug was friendly, some were extremely territorial, others were almost impossible to tame, and certain rare species had remained hidden for centuries 
+
+ As kingdoms began fighting over territory and resources, Slugs became an important part of everyday life, used for protection, exploration, mining and eventually warfare 
+
+ Now that The Hollow Grave has been exposed to the outside universe, its inhabitants face a new problem, powerful outsiders have begun discovering the existence of Slugs, creatures that were never meant to leave Vael Mor
+
+FULL SPECIES AND GROWTH ADDENDUM
+
+Slugs reproduce naturally, although rarer species may take centuries to produce offspring, their abilities grow stronger with age, experience and their bond with their owners 
+
+ The strongest Slugs possess extraordinary powers, including Time Slugs that temporarily freeze time, Spiritual Slugs that interact with souls, Illusion Slugs that deceive the senses, and Mimic Slugs capable of copying their owner's powers 
+
+ These legendary species are incredibly rare, with some remaining undiscovered for thousands of years, and even their greatest abilities have limits
+
+These creatures reproduce naturally and grow through age, experience and owner bonds. Legendary Time, Spiritual, Illusion and Mimic species are examples of rare possibilities, not a catalogue of creatures already owned by any player. Even the greatest species have limits. Slugs' presence in caves, underground forests and rivers also matters for exploration and collection; no fixed capture probability, travel cost, exact launch speed or universal tameability is supplied. Similarities to another fictional franchise do not import that franchise's unstated rules into TGC.
+
+Sources:
+Croco | 2026-10-20T10:24:06.021Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562048760731795576
+Croco | 2026-10-20T10:26:32.240Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1562049374018609173
+
+CURRENT MECHANICS AND GRANTS
+
+38.10 SLUGS, WISPS, KORRINS AND VEYLITHS — DEVICES AND HOLDERS
+
+Hollow Grave introduces a living-creature power system with ordinary Slugs and three named variants: Wisps, Korrins and Veyliths. These are distinct creature/device combinations, not new races awarded to the players. High-speed launch triggers ordinary Slug battle transformations; safe purpose-built devices matter.
+
+FULL DEVICE EXPLANATION
+
+1st image just choases a blaster For typical slug yk not a good blaster but a normal one that owrks
+
+Wisps use a special device called a Resonator which produces frequencies that activate their powers and allow them to transform into stronger forms while floating inside the device and different frequencies unlock different abilities depending on the Wisp being used
+
+Korrins use a special device called an Impact Core which holds them safely inside a mechanical sphere and when thrown against the ground it creates powerful vibrations that trigger their transformation into larger battle forms ready to fight
+
+Veyliths use a device called a Rift Projector which opens dimensional portals allowing them to teleport across the battlefield and use their shapeshifting abilities to attack enemies from unexpected directions
+
+Ordinary Slug: Blaster only under Croco's explicit reply. Wisp: Resonator frequencies activate its powers and different stronger forms/abilities. Korrin: Impact Core holds it in a mechanical sphere; ground impact creates transformation-triggering vibrations. Veylith: Rift Projector opens portals for teleportation and shapeshifting attacks. Do not assume every variant uses every device or that an unapproved gauntlet substitutes for a Blaster.
+
+The earlier location post says Slugs are found in the world; Croco's later edited allowance gives everyone a common spin. These can coexist as collection and introductory distribution methods. The actual observed grants are:
+
+Loki / Shift: Air, Common, dark variant, explicitly stated by Croco. A later statement confirms a common one-shell Slug Blaster.

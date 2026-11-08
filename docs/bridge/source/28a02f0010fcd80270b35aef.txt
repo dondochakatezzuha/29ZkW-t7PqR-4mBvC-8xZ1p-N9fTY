@@ -1,0 +1,84 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Power_Team_Guide/0084.md
+Category: powers | Collection: Power Team Guide
+Export content (not verified canon; see source context):
+
+# Source chunk 0084
+
+Source: `Archive/Original_Texts/Reference/Power_Team_Guide.txt`  
+Lines: 4706–4777  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561334070368010371
+kaizen | 2026-10-18T04:27:54.683Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561234347112136755
+Croco | 2026-10-18T04:33:39.454Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561235793186398292
+Croco | 2026-10-18T04:33:08.515Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561235663418826804
+Shift | 2026-10-18T10:14:12.761Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561321496687804518
+
+37.3 SECRET EYE AVAILABILITY AND ENDED LUCK EVENT
+
+At 10:05 UTC on October 18, sub-announcements states that Secret Eyes 1-3 have been removed from spins and each was obtainable by one user. The same wording is cross-posted to General and forwarded into XIV. These copies are one rule announcement, not three independent proofs. At that point the confirmed holders are Loki/Shift with Secret Eye 1, Adelram with Secret Eye 2, and Dargan with Secret Eye 3.
+
+During the later dispute, Arlo asks that they become obtainable. Croco replies 'okay', '1 hour', and 'u got 1 hour' at 10:43 UTC. This is a later limited reopening or exception addressed to Arlo; the transcript does not clarify whether it reopened all three eyes server-wide, changed the one-holder rule permanently, or only authorized Arlo's attempt. His subsequent Secret Eye 2 attempt ends on Ire. No extra Secret Eye holder is awarded in the captured continuation. At the afternoon cutoff that one-hour allowance has elapsed; do not describe a permanent open pool or a new duplicate holder.
+
+The preceding Luck Boost event explicitly ends with Dargan's Void result at 10:24:56 UTC. Croco names October 25 as the next Luck Boost. The later one-hour availability allowance is not an explicit restart of that boost. Preserve the announced date as a future schedule, not a completed event or a reminder automation.
+
+Croco also clarifies that the attachment order in sub-announcements is not rarity order. Use the explicitly stated rarities: Ire Uncommon, Zyra Common, Director Dragon x2, OVRATH Mythical++, Moon Dragon+++, and the three Secret Eyes TGC rated. Prior '1' Dragon+++ and other directly established ratings remain distinct. No arbitrary total strength ranking follows from attachment position.
+
+Sources:
+Croco | 2026-10-18T10:05:31.666Z | #sub-announcements
+https://discord.com/channels/1535189086258855946/1546587596392759366/1561319311056961562
+Regnum of Regalia: #sub-announcements | 2026-10-18T10:05:35.309Z | #general
+https://discord.com/channels/1535189086258855946/1535189087282008114/1561319326336684105
+Croco | 2026-10-18T10:05:42.892Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561319358142091317
+Croco | 2026-10-18T10:02:50.718Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561318635992125460
+Croco | 2026-10-18T10:05:07.796Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561319210938929238
+Croco | 2026-10-18T02:29:43.753Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561204605596074034
+Croco | 2026-10-18T10:43:13.316Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561328797104607264
+Croco | 2026-10-18T10:43:17.443Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561328814414368810
+Croco | 2026-10-18T10:43:21.022Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561328829425918127
+Croco | 2026-10-18T10:57:20.683Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561332351219273729
+Croco | 2026-10-18T10:24:56.736Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561324197714731129
+Croco | 2026-10-18T11:01:43.259Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561333452542976032
+Croco | 2026-10-18T11:01:45.305Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561333461124386949
+Croco | 2026-10-18T11:01:47.436Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561333470062452828
+Croco | 2026-10-18T11:00:57.957Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561333262532608152
+Croco | 2026-10-18T10:59:41.765Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561332942960332823
+Croco | 2026-10-18T10:47:39.941Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1561329915410780222
+
+37.4 REVERIE LOOM - FLOWERS, POISON AND AIR-TO-WATER
+
+Croco answers Adelram's Reverie Loom request with five named passives. This documents the sheet associated with Adelram's earlier grant; after later rerolls, the remaining slot must be resolved before treating Reverie Loom as still equipped.
+
+FULL GM-SUPPLIED SHEET
+
+Passive 1  The First Flower 
+
+ The eye can grow supernatural flowers on any surface, including metal, stone and air, each flower produces its own poisonous liquid that the holder can control, allowing them to create rivers, floating spheres and poisonous rain without needing water abilities 
+
+ Passive 2  The Poison That Learns 
+
+ Every time an enemy survives the eye's poison, the next flower produces a different venom designed to attack whatever resisted the previous one, the poison can cause paralysis, blindness, loss of balance or uncontrollable muscle movements 
+
+ Passive 3  The Hollow Lotus 
+

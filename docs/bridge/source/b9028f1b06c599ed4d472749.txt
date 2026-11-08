@@ -1,0 +1,66 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Slug_Register/0000.md
+Category: powers | Collection: Slug Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0000
+
+Source: `Archive/Original_Texts/Reference/Slug_Register.txt`  
+Lines: 1–54  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+v52 DATED CLARIFICATIONS
+
+5. The golden entity and Sovereign Fracture conflict
+
+Adelram uses Forgotten Sovereign, temporal techniques and Black Flame Time Adze against the golden entity. It regenerates armour and copies or counters several personally linked abilities: Moon Reflection, Blizzard Watch, Sylvara branches, Realm Severance/Black Divide, Mirror, Lunar Sovereignty, Impossible Exchange and Reflective Convergence. Large lunar attacks and mutually fragile glass-like defences do not immediately decide the battle. Player requests for larger quantities are not automatically the resolved quantity.
+
+The 09:23 narration describes Sovereign Fracture making enormous temporal fractures. That conflicts with the user's controlling replacement for TGC Eye 2 ability 2: a tiny invisible fracture in Fire, Shadow or physical abilities, undetectable to the opponent even when stronger, creating an exploitable defensive opening. It cannot affect nonphysical Time, Reality, Soul or Existence Manipulation. Preserve the battle narration as source history and flag the misuse; do not broaden Sovereign Fracture into Time manipulation or restore its superseded 'gains powers' description.
+
+The decisive attack comes from the slug, whose power is external to Adelram's copied personal abilities. Water Prism surrounds the enemy in reforming water bubbles, applies pressure and restricts breathing. The entity cannot copy this particular external slug attack. Adelram recalls, reloads and repeats it; the glass armour and halo break, and the mini-boss is defeated at 10:16 UTC. X confirms a 25 million OM reward and subsequently a 25,000,000 OM balance. This demonstrates an encounter-specific counter, not a universal rule that all external sources defeat every copying power.
+Sources: 1565295064434090055, 1565298492702859317, 1565300342021820480, 1565302610766860359, 1565304729855328279, 1565307231312941211, 1565308457320583252, 1565309557234733136
+
+6. Poseidon, purchases, catalogues and Chronos Heart
+
+The successful Water Prism slug is named Poseidon at 10:33 UTC. Its panel reads Species: Gunslinger; Element: Water; Status: Healthy. Preserve that literal species field alongside the weapon's use of the same Gunslinger name, without silently resolving the taxonomy. Poseidon is released from his pod and settles on Adelram's shoulder. The capture establishes this slug's Water Prism use, not a new slug for every player.
+
+Adelram buys The Unborn Second for 12 million OM, permanently registering it to his Outside System and leaving 13 million. It permits one action in a moment that never officially existed, outside the recorded timeline; its listing explicitly cannot bypass superior temporal abilities. No combat use is yet resolved. He then buys Mystia Awakening for 6 million and Phoenix Ascension for 4 million, leaving 3 million OM. Mystia Awakening gives advanced enchantment techniques and improved control but requires training to master. Phoenix Ascension gives blazing wings, aerial combat and enhanced flame regeneration. Both are added to inventory; no equipped form test is shown.
+
+Other ability/weapon listings, not purchases: Paradox Debt, 7M, consequences before an action that must still occur; Tomorrow's Corpse, 9M, a temporary possible defeated future enemy with memories but unable to fight; Infernal Collapse, 4M, ministar compression/detonation; Mystia's Embrace, 5M, enchanted draining chains; Eclipse Fang, 2M Legendary sword storing successful-strike force for a slash; Gravity Breaker, 3M Legendary greatsword producing gravity shockwaves; Void Piercer, 6M Mythical spear disrupting conventional barriers/regeneration at impact. These descriptions do not establish unlimited bypass.
+
+Other transformation/upgrade listings, not purchases: Abyssal Titan, 8M, strength/size/durability at a mobility cost; Chrono Sovereign Path, 10M, temporal progression requiring training; Celestial Dragon Form, 15M, draconic armour/flight/breath; Secondary Form Slot, 5M, an additional compatible transformation slot for rapid switching. A shop listing is not a new biological race, equipped slot or earned form.
+
+Chronos Heart is appraised at UNKNOWN rarity and 0 OM sale value. X explicitly says zero shop value does not mean uselessness; it is not sold. At 11:03 Adelram locates Toby through Time Branch, teleports to him and activates the item. The resolved effect again is Shift's ten-year-old appearing and dancing. No time pause, Dragon x2 buff or improved artifact effect is demonstrated. Do not convert an earlier misleading description into current functionality.
+Sources: 1565312539988861050, 1565311535931195513, 1565315029790883901, 1565316871656439899, 1565318488543723531, 1565320183407710309
+
+PRIOR SOURCE HISTORY
+
+v51 check through 2026-10-28T11:17:12.399Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v50 check through 2026-10-28T11:07:29.996Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v49 check through 2026-10-28T00:30:44.171Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v48 check through 2026-10-27T12:27:23.437Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v47 check through 2026-10-27T06:07:42.634Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+SLUG REGISTER - v46
+
+No new Slug award confirmed.
+
+SLUG REGISTER - v45
+
+No new Slug award confirmed.
+
+SLUG REGISTER - v44
+
+No new Slug award confirmed.
+
+SLUG REGISTER - v43
+
+No new Slug award confirmed. Earlier creatures/devices retained.
+
+SLUG REGISTER - v42
+

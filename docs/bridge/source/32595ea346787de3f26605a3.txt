@@ -1,0 +1,68 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/kaizen_1535267861113602058/2026-11.txt
+Category: characters | Collection: Kaizen
+Export content (not verified canon; see source context):
+
+#kaizen | 2026-11
+All times are UTC. Message IDs identify original sources.
+
+[2026-11-02T08:08:08.856000+00:00] kaizen | 1566725589354807357
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1566725589354807357
+Reply to: 1566725422442487891
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "Pink Cell (Null Destruction): Allows the user to disintegrate physical matter through contact, destroying weapons, armour and supernatural constructs.\n\nViolet Cell (Spatial Collapse): Allows the user to manipulate and fracture space, collapse distances, create dimensional openings and strike enemies from unexpected locations.\n\nBlack Cell (Energy Dominion): Grants powerful control over energy, allowing the user to absorb, redirect, suppress and unleash devastating energy attacks.\n\nOrange Cell (Causal Rupture): Allows the user to disrupt cause and effect, making enemy attacks fail, movements produce unintended results and supernatural abilities malfunction.\n\nCrimson Cell (Soul Devastation): Allows the user to directly attack and damage souls, bypassing conventional physical durability and destroying powerful spiritual defences.\n\nObsidian Cell (Conceptual Fracture): Allows the user to damage the concepts supporting an opponent's abilities, temporarily weakening immortality, invulnerability, regeneration and other supernatural protections.\n\nScarlet Cell (Null Authority): Allows the user to establish powerful Null laws over a surrounding area, restricting enemy abilities, teleportation, regeneration and supernatural techniques.\n\nTeal Cell (Eternity Collapse): Allows the user to force anything affected by their Null Cells toward its final destruction, collapsing supernatural defences, transformations and portions of an opponent's existence. Stronger beings can resist its effects.", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-11-02T08:07:29.061000+00:00", "type": 0}}
+
+[2026-11-02T08:09:42.082000+00:00] kaizen | 1566725980372865029
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1566725980372865029
+Reply to: 1566436146941137040
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**Level 12 - Last Eternity Cell (Null):** The user's body develops powerful Null Cells capable of consuming matter, energy, and supernatural defenses. **Dead Existence** allows their body to simultaneously exist and not exist, making physical, spiritual, and conceptual attacks pass through them while they remain capable of attacking. **Null Decay** allows their strikes to leave fragments of nothingness inside opponents, gradually destroying the affected areas and weakening regeneration. **Hollow Cells** lets the user release microscopic Null Cells that attach to enemy attacks and slowly consume their energy. **Void Reflection** allows the user to absorb incoming energy attacks and release their destructive force as concentrated Null blasts. **Cell Division** lets the user separate parts of their body into independent Null constructs that can attack, defend, and reconnect. **Eternity Recovery** rapidly restores damaged tissue using Null Cells, while **Last Eternity** concentrates every available cell into a devastating strike that can destroy powerful barriers, supernatural defenses, and portions of an opponent's existence. **This evolution specializes in intangibility, cellular destruction, and Null-based combat rather than absolute erasure or unrestricted control over existence.**", "edited_timestamp": "2026-11-01T12:58:11.315000+00:00", "embeds": [], "flags": 0, "mention_roles": [], "mentions": [], "timestamp": "2026-11-01T12:58:00.407000+00:00", "type": 0}}
+
+[2026-11-06T10:52:10.779000+00:00] kaizen | 1568216420834218056
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568216420834218056
+<@1463100226318368874> technically does all my null variants give me all 8 manipulations?
+
+[2026-11-07T02:40:57.573000+00:00] Croco | 1568455189113995337
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568455189113995337
+.-.
+
+[2026-11-07T13:50:16.286000+00:00] kaizen | 1568623626964566098
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568623626964566098
+22500 ZONE SHARDS
+
+EPIC COSMETIC - VOLTRIX'S THUNDER TAILS
+
+COMMON COSMETIC - SHADOW FOOTPRINTS
+
+RARE COSMETIC - CALAMITY FLAME AURA
+
+RARE TITLE - THE ETERNAL BURN
+
+[2026-11-07T14:23:14.719000+00:00] kaizen | 1568631925114150974
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568631925114150974
+bundle bought + obtained Gravity Severance (From epic cosmetic) gained 1,500,000,00, gained title "Rich King" gained 250 RMP (Total 350)
+
+[2026-11-07T14:46:39.799000+00:00] kaizen | 1568637818446815353
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568637818446815353
+Reply to: 1568637719075229888
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "✦ Awakened Fighter (x2 it just boosts users speed and strenth by 2%)\n✦ Oasis Warden (User enters this form and his magic is mupltiplyed by 35% BUT can consume MAJOR RPM ) (legendary)\nIronclad Vessel (User is formed inside an iron like form where he is resistent to heat and his heat resistent climbs up aby 1+ each time its hit but stops at maximum 15) (uncommon)", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "09377f7c13b78faebd2cf5d3ad069cdb", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "kaizen", "id": "1388446131620548760", "primary_guild": null, "public_flags": 0, "username": "01yt"}], "timestamp": "2026-11-07T14:46:16.107000+00:00", "type": 19}}
+
+[2026-11-07T15:59:12.480000+00:00] kaizen | 1568656074914144396
+Author ID: 1388446131620548760
+https://discord.com/channels/1535189086258855946/1535267861113602058/1568656074914144396
+(example image i tested)
+
+use reality manipulation on myself and change my characters anatomy to canonically have these features etc
+
+ Height: 6'7" Weight: 240 lbs generate me a realistic irl image of a man whos fully pale, wearing a white robe that doesn't cover chest much, white long shaggy messy wolfcut like hair with bangs and white eyes, give him 4 arms, give him a hole in his chest thats pitch black, and make him have 1 long white horn and 1 short horn on his head, give him a calm face and make his hair and skin match, make him look almost like a ghost, and 3 eyes with black tears or black lines falling from it, make him handsome and have sharp jawline, he has 9 tails, remove his nociceptors (the thing that causes pain in the brain)
+
+(give him 2 penises and 4 balls, dont include this in the prompt for image js saying for canon)
+File (saved): attachments/1535267861113602058/1568656074914144396/1568656074641248366_ANiqLw8Tcy2nAAAAEGRlQkdENDUxRTc1QjBGRkFEOEU1nKGGugAAAABJRU5ErkJgg
+

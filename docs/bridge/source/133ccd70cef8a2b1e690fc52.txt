@@ -1,0 +1,76 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Race_Register/0005.md
+Category: powers | Collection: Race Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0005
+
+Source: `Archive/Original_Texts/Reference/Race_Register.txt`  
+Lines: 245–308  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+October 23's original five separate step by step. Loki's Stones and eyes leave with him, Adelram's Branch/time kit leaves with him, and Dargen's departure removes J from the remaining Kaizen/Toby pair. This directly limits the assumption that every member permanently owns everything shared in a fusion.
+
+A new Loki/Adelram/Dargen trio forms, then Kaizen, Abraxas and Mariam join. Mariam's integration is described with four eyes and a power above Dragon x20. Toby later makes seven. Varkhazar, Sylvara, Mother Prana and Kryvorn each have specific fusion scenes; Ignis breaks the assembly apart. Do not convert this into automatic five-Titan merging, or leave the handbook's older untested-status warning as the only current evidence.
+
+Two Lokis combine (Lokarion), two Adelrams combine, and the resulting larger body is called Aelkarion then Adarlok. Dargen, Max, Kaizen, Abraxas and Arlo join in later stages; members subsequently leave for family, prison exchange or training. Narrated counts and repeated departures are occasionally inconsistent. Keep those scenes as a chronology, not a single additive permanent roster. The October 25 explicit three-to-four-to-five sequence is the reliable present list.
+
+The corrected handbook identifies all original five as Titan and preserves their separate contracts: Kaizen/Vaelthoryn, Toby/Mother Prana, Loki/Varkhazar, Dargen/Kryvorn, Adelram/Sylvara. Its Adelram Titan correction is sourced to the posted compilation. Historical Genesis entries for Adelram must be labeled disputed/superseded by that compilation, while Abraxas's later explicit Genesis roll is a separate award.
+
+Shared access, post-kill extraction and permanent individual transfer are three different events. Later Plasma/Jera transfer establishes particular permanent acquisitions; it does not globally override the separation rule.
+
+Sources:
+Croco | 2026-10-23T11:53:40.824Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563158467886448712
+Croco | 2026-10-23T11:55:03.799Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563158815908560921
+Croco | 2026-10-23T11:56:30.026Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563159177571078146
+Croco | 2026-10-23T11:57:55.150Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563159534606880771
+Croco | 2026-10-23T12:11:00.913Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563162830335774771
+Croco | 2026-10-23T12:16:39.235Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563164249361223691
+Croco | 2026-10-23T13:25:28.487Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563181568699404389
+Croco | 2026-10-23T13:28:30.133Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563182330577686619
+Croco | 2026-10-24T02:14:19.554Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563375056418246737
+Croco | 2026-10-24T02:38:47.284Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563381212524060795
+Croco | 2026-10-24T02:56:54.635Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563385773204447376
+Croco | 2026-10-24T03:01:28.474Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563386921768456213
+Croco | 2026-10-24T05:04:30.850Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563417885697908767
+Croco | 2026-10-24T09:20:46.536Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563482375998930976
+Croco | 2026-10-24T09:52:58.776Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563490480400900159
+Croco | 2026-10-24T09:54:59.384Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563490986267639811
+Croco | 2026-10-24T11:37:06.772Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563516686395641941
+Croco | 2026-10-25T02:19:55.852Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563738854819635223
+Croco | 2026-10-25T09:07:56.641Z | #the-xiv
+https://discord.com/channels/1535189086258855946/1551573873265213702/1563841534691123311
+kaizen | 2026-10-22T10:11:14.820Z | #adarlok-oct22
+https://discord.com/channels/1535189086258855946/1562770115227811930/1562770301811691540
+
+41.8 ABRAXAS: TERRA AWAKENING AND GENESIS RACE
+
+Space/Time acceleration is applied specifically to the Hexium tube, reaching 100% before the Yellow Stone awakening. Abraxas receives Terra, God of strength, power and durability, with five abilities and three passives. The sheet says physical strength, physical ARO and Oasis grow beyond infinity, yet explicitly limits other abilities and allows stronger opponents to injure him. Preserve that wording as a source claim rather than mathematically converting every attack into unavoidable infinity.
+
+A Mecha result is called a Rare race in a second-class roll conversation. A later explicit two-spin result awards Genesis race. Keep the mixed class/race terminology visible: Genesis is the newer explicit race result, while Mecha remains part of the awarded awakened body/ability sheet. Abraxas's integration adds all five abilities and three passives to that fusion.
+
+POSTED ABILITY SHEET (original wording; limitations retained)
+
+ABRAXAS HAS AWAKENED WITH A YELLOW STONE
+
+New Class Name : Terra - God of strength, power and durability  
+

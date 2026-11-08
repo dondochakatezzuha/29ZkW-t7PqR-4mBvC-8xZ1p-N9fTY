@@ -1,0 +1,42 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Fusion_Register/0003.md
+Category: powers | Collection: Fusion Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Fusion_Register.txt`  
+Lines: 91–120  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Before this interval the verified working roster was Toby, Abraxas, Max, real Dargen and Mariam, plus the previously integrated Platonic Dargen record. Kaizen and Loki were already physically out; Adelram was out; Arlo's re-entry remained unresolved. Remove Toby and real Dargen from any current shared-power calculation. Abraxas, Max and Mariam have no explicit departure here, but the broad phrase "Adarlok separates" does not clearly establish whether a residual merged body persists. Mark that residual body's activity and the Platonic replica's post-separation status unresolved rather than claiming a fully verified active roster.
+
+The user's controlling rule remains: a completed unmerge removes the departing person's contributions unless the specific ability was unlocked through J/L and distributed through the Max Method. No new such distribution is shown. Dargen's later personal all-eight transfer is not automatically available to a residual merge. No combined new rank or automatic return of Loki's restricted flames/Stone powers is established.
+Sources: 1564906006725533737, 1564907015665483807, 1564909391193309235, 1564909391227002892, 1564909597431435386, 1564958069350469713
+
+Kaizen: interrupted Null access and a stable experimental mixture
+
+Kaizen answers Null's earlier question with his desire for strength, protection and more Cell forms. Null recognizes the names but says mastery requires understanding. Before it completes its explanation, Paja interrupts and the connection is severed. Kaizen returns to his body and an immediate re-entry attempt produces no Null Core or rising energy. Player claims that all Null powers or Aro Zone are permanently lost are not established.
+
+Later Predator's Eye sees a faint blue pulse recovering in the Null Heart. The connection remains unstable, the Aro Zone entrance inaccessible and Null silent. Aeth advises against forcing it. Existing YellowCell and Mercury Null are demonstrated meanwhile, so this is an access/recovery problem, not loss of the entire power system. No fixed cooldown, restored entry, WhiteCell mastery or new Cell reward is resolved.
+
+Kaizen's nine tails describe themselves as manifestations of Oasis energy with individual consciousness and abilities, without remembering their exact creation. They cannot activate Aro Zone for him; Aeth sensed Kaizen's consciousness reach beyond their mental link. Their stated specialties are Raiko/Lightning, Zeph/wind, Kairo/impact and force, Veya/barriers, Ryn/regeneration, Draz/gravity, Sora/sensing, Zarek/spatial abilities and Aeth/mental links. Preserve these as stated specialties, not nine new unrestricted Fundamental Manipulations.
+
+Kaizen has the tails isolate a small YellowCell fragment from his body, then combine it with Shadow and Black Flames. Veya contains it, Zarek spatially isolates it, and Kairo compresses it. A stable black/gold orb forms, but Zeph and Aeth explicitly say it is not fully fused or a confirmed new ability. Aeth later enlarges it to basketball size and compresses it below marble size; Sora reports increased density, Shadow containing Black Flames and YellowCell balancing them. Stable size control is achieved, genuine fusion remains pending. No name, rank, combat result or formula for a new Cell is awarded.
+Sources: 1564905885954871319, 1564906769174503508, 1564909309341470795, 1564935164369436767, 1564949972552515729, 1564953525040185375, 1564955838412496937, 1564957197878824971
+
+PRIOR SOURCE HISTORY
+
+v49 check through 2026-10-28T00:30:44.171Z: no new award or completed change to this register. Prior sourced entries remain below.
+
+v48 DATED CLARIFICATIONS
+
+48.4 Eight manipulations, White Flames and Primal restrictions
+
+An early J analysis says all eight of Loki's manipulations are exclusive grants and inaccessible even while merged. Later, at 10:02 UTC, J explicitly reverses that statement: Shadow, Spatial, Energy, Existence, Matter, Reality, Soul and Time can be accessed through Loki because they are not tied to the Primal Staff or Multiverse Stones. Apply the later correction to the earlier denial; do not keep both as simultaneous rules. Access is conditional on Loki being present in the merge, and his later departure removes his contributions absent specific proven retention.
+
+Separate from borrowed access, J's earlier independent inventory credits Kaizen with Matter Manipulation and Toby with Soul Manipulation, not the other six. Named techniques are not necessarily full fundamental authority: Shadowics do not by themselves establish unrestricted Shadow Manipulation, Max's control of his own Pure Energy is not control of every energy source, and Astria's short-range teleportation/spatial distortions/attack redirection remain limited spatial techniques. Croco reiterates this distinction at 11:44. The eight-through-Loki correction does not grant independent ownership to each member.
+
+Primal Staff, Multiverse Stones, Grey Flames, All Stone Form and Grey Flames Form remain restricted in this session's analyses. The correction specifically excludes the eight manipulations from those restrictions; it does not remove the Primal restrictions themselves. White Flames are expressly distinguished from Grey Flames: Adarlok successfully uses Loki's White Flames against Caelen, and J confirms they are not covered by the Primal/Grey restriction. There is no completed J unlock plus Max Method distribution of these powers in this interval.
+

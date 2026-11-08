@@ -1,0 +1,158 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Important_1535199055141933056/announcements_1535199194967441458/2026-09.txt
+Category: rules | Collection: Announcements
+Export content (not verified canon; see source context):
+
+#announcements | 2026-09
+All times are UTC. Message IDs identify original sources.
+
+[2026-09-01T10:18:22.757000+00:00] Draven | 1544290315563704445
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535199194967441458/1544290315563704445
+Reply to: 1544290075523686416
+js start game 2 😹
+
+[2026-09-03T11:50:10.449000+00:00] Riven | 1545038192229621760
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535199194967441458/1545038192229621760
+
+Poll: {"allow_multiselect": false, "answers": [{"answer_id": 1, "poll_media": {"text": "draven"}}, {"answer_id": 2, "poll_media": {"emoji": {"id": null, "name": "❌"}, "text": "civic"}}, {"answer_id": 3, "poll_media": {"text": "arlo"}}, {"answer_id": 4, "poll_media": {"text": "loki"}}, {"answer_id": 5, "poll_media": {"text": "toby"}}, {"answer_id": 6, "poll_media": {"text": "mariam"}}, {"answer_id": 7, "poll_media": {"text": "dargan"}}, {"answer_id": 8, "poll_media": {"text": "adelram"}}, {"answer_id": 9, "poll_media": {"text": "tanish"}}, {"answer_id": 10, "poll_media": {"text": "kaizen"}}], "expiry": "2026-09-04T11:50:10.443057+00:00", "layout_type": 1, "question": {"text": "Whos the funniest here @everyone"}, "results": {"answer_counts": [{"count": 1, "id": 7, "me_voted": false}, {"count": 0, "id": 2, "me_voted": false}, {"count": 1, "id": 5, "me_voted": false}, {"count": 0, "id": 8, "me_voted": false}, {"count": 2, "id": 10, "me_voted": false}, {"count": 0, "id": 9, "me_voted": false}, {"count": 1, "id": 3, "me_voted": false}, {"count": 4, "id": 1, "me_voted": false}, {"count": 0, "id": 6, "me_voted": false}, {"count": 0, "id": 4, "me_voted": false}], "is_finalized": true}}
+
+[2026-09-04T11:50:13.634000+00:00] Riven | 1545400593453940837
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535199194967441458/1545400593453940837
+Reply to: 1545038192229621760
+
+Embed: {"content_scan_version": 4, "fields": [{"inline": false, "name": "poll_question_text", "value": "Whos the funniest here @everyone"}, {"inline": false, "name": "victor_answer_votes", "value": "4"}, {"inline": false, "name": "total_votes", "value": "9"}, {"inline": false, "name": "victor_answer_id", "value": "1"}, {"inline": false, "name": "victor_answer_text", "value": "draven"}], "type": "poll_result"}
+
+[2026-09-04T11:55:36.486000+00:00] Riven | 1545401947593375807
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535199194967441458/1545401947593375807
+Holy aura
+
+[2026-09-05T09:45:34.835000+00:00] Riven | 1545731612963110922
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535199194967441458/1545731612963110922
+# @everyone 8th CLASS : Redcell
+
+**Redcell is Bluecell's offensive twin, created by Null purely for attacking. Most Redcells reside within the user's eyes as microscopic eyes of their own, constantly observing the battlefield and searching for openings. When the user attacks, Redcell doesn't replace their action. It enhances it, adapting the attack in real time to make sure the user's intention succeeds**
+
+**The cells escape through microscopic openings in the skin as red, shadow-like particles, forming hands, blades, spikes, additional limbs, or whatever shape is necessary to complete the attack. A player may choose exactly how they want to strike, but Redcell can modify, extend, redirect, or add onto that attack if circumstances change**
+
+**Redcell is always active and requires no activation command. It possesses almost no defensive purpose. Its entire existence revolves around one objective: find the opening and strike**
+File (saved): attachments/1535199194967441458/1545731612963110922/1545731612291899422_content.png
+File (saved): attachments/1535199194967441458/1545731612963110922/1545731612694683698_content.png
+
+[2026-09-06T03:01:17.789000+00:00] Riven | 1545992259403522128
+Author ID: 1538115083513761813
+https://discord.com/channels/1535189086258855946/1535199194967441458/1545992259403522128
+Reply to: 1545731612963110922
+# @everyone  9th CLASS : Star 
+
+**Stellar allows the user to create and bend Stellar Energy through the Stellar Jera, a heart-like core connecting the chest and back that can automatically counter openings with energy reaching 20x the Sun's heat; however, Star requires an enormous amount of Aro before awakening, and if forcibly awakened through injury without enough Aro, Stellar becomes completely unusable **
+
+**The Jera is a passive ability that allows the user to create openings, counter-attack it's basically a literal brain working with the user, if the player's stellar energy blasts get counter-attacked by a stronger opponent the jera, opens itself taking the blast then blasting it out of the back**
+File (saved): attachments/1535199194967441458/1545992259403522128/1545992259055390821_content.png
+
+[2026-09-09T05:48:16.258000+00:00] Croco | 1547121443505045574
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1547121443505045574
+# @everyone NEW game UPDATE this is canon and CAN NOT be against IF a person does not reason with this new updates they should then die or leave the server :
+
+
+UPDATE 1 : Nerf on tyreror : Our 2nd in hand creator master Draven has said Ty can create water from nothing, this is impossible from now on let's actually see what liquid control does, it let's users control any type of liquid BUT - IF the liquid they are trying to control was created by another user or npc whose mastry/power is ABOVE the user trying to control IT WILL NOT work this is simple to follow so please do not try to control a person whos power is above yous liquid and then cry to GM that its unfair. Just get stronger
+
+
+UPDATE 2 : Buff on Stella : Stellar was added as a way for users to use aro in a much more smarter way than just either use speed or liquid control - Before stellar needed A large amount of energy to awaken BUT ! It has been changed User who awakens early with stellar will still have no power to use but now average users can use stellar except it'll be weak - A stellar user CAN NOT awaken with yellow stone next slide will explain why
+
+[2026-09-09T06:03:18.131000+00:00] Croco | 1547125226234716190
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1547125226234716190
+Reply to: 1547121443505045574
+Yellow Stone Awakening happens when someone uses a small Yellow Stone filled with a huge amount of energy called Aethel. As they awaken, they release a massive amount of ARO, which reacts with the Aethel and causes the stone to dissolve. The two energies combine and create Aether, a new energy that becomes part of the user's ARO. This gives them much more ARO to work with, better control over it, and a huge boost in stamina. Stellar users also have Aether, but theirs works differently. Instead of improving their ARO, their Aether allows them to use massive amounts of Stellar energy, which is why they already need a large amount of ARO before they can awaken. Because Stellar users already have Aether, using a Yellow Stone won't do anything to them. Aethel is meant to become Aether, so it can't give an already-awakened Stellar user another awakening.
+
+[2026-09-09T06:09:15.211000+00:00] Croco | 1547126723936653323
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1547126723936653323
+Reply to: 1547125226234716190
+**Aro explained even further and athel and how users who awakened early or haven't awakened want to get stronger without yellow stone or doing a lot of gameplay This wont make u powerful as a person who used a yellow stone or plays the game alot BUT it'll help enough :**
+
+
+**Abyss Water is one of the ways new users can awaken without really understanding what it does. It contains a huge amount of Vexium, an energy that already exists naturally within a person's soul. As someone gets older, fights, gains experience, develops their personality, and grows as a person, the amount of Vexium inside them slowly increases. Think of it like a large tube being filled with water over time; once the tube is completely full, the person's Vexium reaches its limit and they automatically awaken at their full natural strength. Abyss Water basically speeds this process up by giving the soul a massive amount of Vexium at once, allowing someone to awaken much earlier than they normally would. However, if someone forces an awakening before their Vexium has properly developed, they won't be as strong as someone who awakened with a full amount, and it's even worse for people who awaken when their natural Vexium has barely grown at all, since they're awakening with a much weaker foundation.**
+
+[2026-09-09T06:11:33.471000+00:00] Croco | 1547127303840989245
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1547127303840989245
+Reply to: 1547126723936653323
+Abyss Water doesn't completely fill someone's Hexium with Vexium or bring them to the point they would have naturally reached; it only pushes the Vexium inside their Hexium to around the middle. Think of a person's Hexium like a huge empty tube that slowly fills with Vexium throughout their life. Every day they're adding small buckets through things like fighting, gaining experience, developing their personality, maturing, and simply living. Eventually, someone who keeps doing this will completely fill their Hexium and naturally awaken with all the Vexium they were meant to have. During awakening, a massive amount of ARO is released inside the Hexium and combines with the Vexium, creating Aether. Abyss Water is basically the shortcut: instead of patiently using buckets, someone grabs a hose and rapidly fills the Hexium, but once it reaches the halfway point, the hose shuts off and forces an early awakening. That's why Abyss Water is useful but not amazing. It gives someone enough Vexium to awaken and become an average, capable user without spending all that time naturally developing themselves, but it doesn't give them the foundation or potential of someone whose Vexium was allowed to fully mature. You're basically choosing to awaken sooner and be average instead of waiting and potentially awakening much stronger
+
+[2026-09-09T06:16:06.940000+00:00] Croco | 1547128450853380199
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1547128450853380199
+Reply to: 1547127303840989245
+Mixing a Yellow Stone directly into Abyss Water creates a completely different reaction. The Vexium in the water makes the stone think an awakening is already happening, so instead of releasing all its Aethel, it adjusts and releases the amount needed to work with the Abyss Water. When the user drinks the mixture, the Abyss Water fills their Hexium with enough Vexium to force an awakening, causing a massive amount of ARO to be released. The Vexium combines with that ARO to create Aether, while the Aethel released by the Yellow Stone combines with the massive amount of ARO to create Solvex. This means the user gets the early awakening from Abyss Water while also gaining the benefits of a Yellow Stone awakening at the same time, basically upgrading their awakening altogether. It's a really smart shortcut, but not something everyone can do since Yellow Stones are extremely hard to find.
+
+[2026-09-17T06:35:29.883000+00:00] Croco | 1550032431514390629
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1550032431514390629
+Reply to: 1547128450853380199
+**NEW CLASS : Rinkinji**
+
+ Rinkinji is an Aro Class where the user awakens with two orbs, Rinki and Kinji, that do completely different things. Rinki protects the user by spreading over their entire body whenever a powerful blast or energy attack hits them, absorbing that attack instead of just blocking it, then returning to orb form afterward. The more energy Rinki stores, the larger the orb becomes. Kinji can transform into any solid object the user can clearly imagine, whether that’s a weapon, shield, ladder, bridge, flying cloud or anything else useful, but whatever it creates has no special powers of its own and only works based on its actual shape and function.
+File (saved): attachments/1535199194967441458/1550032431514390629/1550032430860083260_content.png
+
+[2026-09-17T06:50:44.318000+00:00] Croco | 1550036266932764703
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1550036266932764703
+Reply to: 1550032431514390629
+**NEW CLASS : Fracture **
+
+Fractura is an Aro Class that lets the user place invisible cracks on solid surfaces that act as private openings through space. The user can connect cracks together and travel through them, reach through them, move or store objects inside them, or allow an incoming attack to enter one crack and come out of another. Fractura’s attacks come from what the user sends through the cracks, not from the cracks themselves, so they could punch through a crack beside them and have their fist come out behind someone, fire a weapon through one, drop a heavy stored object from a crack above an enemy, or redirect someone’s own blast back at them. Nobody else can see, enter, or send anything through a crack unless the Fractura user specifically allows it
+File (saved): attachments/1535199194967441458/1550036266932764703/1550036266492498061_content.png
+
+[2026-09-19T07:52:27.996000+00:00] Croco | 1550776577015554139
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1550776577015554139
+# @everyone GAME 3 TRAILER FIRST PART.
+
+[2026-09-19T09:23:23.485000+00:00] Croco | 1550799458994888794
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1550799458994888794
+Reply to: 1550776577015554139
+**GAME 3 TRAILER PART 2**
+File (saved): attachments/1535199194967441458/1550799458994888794/1550799458483310602_content.png
+
+[2026-09-20T04:20:59.136000+00:00] Draven | 1551085743944765571
+Author ID: 1311460994660306996
+https://discord.com/channels/1535189086258855946/1535199194967441458/1551085743944765571
+Reply to: 1550799458994888794
+**GAME TRAILER PART 3**
+File (saved): attachments/1535199194967441458/1551085743944765571/1551085743475134474_content.png
+
+[2026-09-20T04:43:03.262000+00:00] Croco | 1551091297731743744
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1551091297731743744
+Reply to: 1551085743944765571
+**Part 4 of trailer**
+File (saved): attachments/1535199194967441458/1551091297731743744/1551091297232752773_content.png
+
+[2026-09-20T04:59:45.545000+00:00] Croco | 1551095501611339856
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1551095501611339856
+Reply to: 1551091297731743744
+**Part 5 of trailer**
+File (saved): attachments/1535199194967441458/1551095501611339856/1551095501246570616_content.png
+
+[2026-09-20T05:12:44.666000+00:00] Croco | 1551098769481797787
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1551098769481797787
+Reply to: 1551095501611339856
+6
+File (saved): attachments/1535199194967441458/1551098769481797787/1551098769523871925_content.png
+
+[2026-09-20T05:36:32.725000+00:00] Croco | 1551104759195508867
+Author ID: 1463100226318368874
+https://discord.com/channels/1535189086258855946/1535199194967441458/1551104759195508867
+Reply to: 1551098769481797787
+end of trailer
+File (saved): attachments/1535199194967441458/1551104759195508867/1551104758872408166_content.png
+

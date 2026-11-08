@@ -1,0 +1,62 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Character_Power_Updates/0003.md
+Category: powers | Collection: Character Power Updates
+Export content (not verified canon; see source context):
+
+# Source chunk 0003
+
+Source: `Archive/Original_Texts/Reference/Character_Power_Updates.txt`  
+Lines: 166–215  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565295064434090055
+2026-10-29T09:37:22.500Z | Croco | 1565298492702859317
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565298492702859317
+2026-10-29T09:44:43.412Z | Croco | 1565300342021820480
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565300342021820480
+2026-10-29T09:53:44.323Z | Croco | 1565302610766860359
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565302610766860359
+2026-10-29T10:02:09.553Z | Croco | 1565304729855328279
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565304729855328279
+2026-10-29T10:12:05.947Z | Croco | 1565307231312941211
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565307231312941211
+2026-10-29T10:16:58.250Z | Croco | 1565308457320583252
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565308457320583252
+2026-10-29T10:21:20.490Z | Croco | 1565309557234733136
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565309557234733136
+
+6. Poseidon, purchases, catalogues and Chronos Heart
+REGISTERED COMPANION, COMPLETED PURCHASES AND ITEM OBSERVATIONS
+
+The successful Water Prism slug is named Poseidon at 10:33 UTC. Its panel reads Species: Gunslinger; Element: Water; Status: Healthy. Preserve that literal species field alongside the weapon's use of the same Gunslinger name, without silently resolving the taxonomy. Poseidon is released from his pod and settles on Adelram's shoulder. The capture establishes this slug's Water Prism use, not a new slug for every player.
+
+Adelram buys The Unborn Second for 12 million OM, permanently registering it to his Outside System and leaving 13 million. It permits one action in a moment that never officially existed, outside the recorded timeline; its listing explicitly cannot bypass superior temporal abilities. No combat use is yet resolved. He then buys Mystia Awakening for 6 million and Phoenix Ascension for 4 million, leaving 3 million OM. Mystia Awakening gives advanced enchantment techniques and improved control but requires training to master. Phoenix Ascension gives blazing wings, aerial combat and enhanced flame regeneration. Both are added to inventory; no equipped form test is shown.
+
+Other ability/weapon listings, not purchases: Paradox Debt, 7M, consequences before an action that must still occur; Tomorrow's Corpse, 9M, a temporary possible defeated future enemy with memories but unable to fight; Infernal Collapse, 4M, ministar compression/detonation; Mystia's Embrace, 5M, enchanted draining chains; Eclipse Fang, 2M Legendary sword storing successful-strike force for a slash; Gravity Breaker, 3M Legendary greatsword producing gravity shockwaves; Void Piercer, 6M Mythical spear disrupting conventional barriers/regeneration at impact. These descriptions do not establish unlimited bypass.
+
+Other transformation/upgrade listings, not purchases: Abyssal Titan, 8M, strength/size/durability at a mobility cost; Chrono Sovereign Path, 10M, temporal progression requiring training; Celestial Dragon Form, 15M, draconic armour/flight/breath; Secondary Form Slot, 5M, an additional compatible transformation slot for rapid switching. A shop listing is not a new biological race, equipped slot or earned form.
+
+Chronos Heart is appraised at UNKNOWN rarity and 0 OM sale value. X explicitly says zero shop value does not mean uselessness; it is not sold. At 11:03 Adelram locates Toby through Time Branch, teleports to him and activates the item. The resolved effect again is Shift's ten-year-old appearing and dancing. No time pause, Dragon x2 buff or improved artifact effect is demonstrated. Do not convert an earlier misleading description into current functionality.
+
+Sources:
+2026-10-29T10:33:11.634Z | Croco | 1565312539988861050
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565312539988861050
+2026-10-29T10:29:12.248Z | Croco | 1565311535931195513
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565311535931195513
+2026-10-29T10:43:05.249Z | Croco | 1565315029790883901
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565315029790883901
+2026-10-29T10:50:24.384Z | Croco | 1565316871656439899
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565316871656439899
+2026-10-29T10:56:49.880Z | Croco | 1565318488543723531
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565318488543723531
+2026-10-29T11:03:33.967Z | Croco | 1565320183407710309
+https://discord.com/channels/1535189086258855946/1551573873265213702/1565320183407710309
+
+7. Dargen trains with the God of Speed
+MEASURED IMPROVEMENTS AND INCOMPLETE PROGRESSION
+
+Dargen's Oasis Zone training continues with the God of Speed and L. He demonstrates Divine Rush, then Heaven Step and TGC Eye Enhancement together, improving perception, reaction and movement with increased consumption. The scene calls his movement omnipresence through sheer speed, while the teacher remains far above it. This is not a new omnipresence power or a newly awarded eye. The teacher then has him remove the enhancements to train natural movement.
+
+Reported changes are 18% lower energy expenditure from posture/stride efficiency, then 12% improved acceleration, then a further 9% acceleration improvement while top speed remains unchanged. Later natural top speed improves by 4%, then another 3%. Keep each dated metric with its context; no common base or combined multiplier is supplied, so do not add all percentages into a global speed/power increase.
+

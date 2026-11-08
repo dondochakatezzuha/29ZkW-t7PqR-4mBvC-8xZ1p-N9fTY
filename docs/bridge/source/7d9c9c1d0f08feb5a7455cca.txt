@@ -1,0 +1,43 @@
+TGC Knowledge Library | source: Archive/Searchable_Chunks/Fusion_Register/0004.md
+Category: powers | Collection: Fusion Register
+Export content (not verified canon; see source context):
+
+# Source chunk 0004
+
+Source: `Archive/Original_Texts/Reference/Fusion_Register.txt`  
+Lines: 121–151  
+**Status:** Original source excerpt, possibly historical; chronology and conflicting versions must be interpreted.
+
+## Text
+
+Team use: verify current membership before relying on borrowed powers. The latest roster no longer includes Loki, so this session's successful White Flame attack does not establish that the remaining merge can still use Loki's White Flames. Preserve older contradictory Grey Flame discussions as dated history rather than silently carrying them into the current arsenal.
+Sources: 1564540807451512896, 1564545809771528277, 1564547512738644052, 1564557153434599455, 1564559330156617819, 1564580044410724395, 1564591710867038289, 1564605808682209343
+
+48.5 Adarlok: resolved departures, restored permissions and Aeth
+
+At 07:42 Kaizen lists Kaizen, Toby, Abraxas, Max, Dargen, Platonic Dargan, Mariam and Loki. During the Caelen encounter J takes control and suspends Kaizen's control access. At 10:15 Croco explicitly resolves Kaizen's forced separation: his own body reforms, he leaves the merge, and Caesar and Yellowcell lose consciousness after the disrupted energy connection. This is unconsciousness, not a confirmed permanent loss or destruction. J remains with registered owner Dargen.
+
+At 10:45 Loki's Outside System K overrides J, removes Kaizen's restriction and makes re-entry available. This restores permission; no Kaizen re-entry is narrated. At 10:48 Loki explicitly unmerges. His personal powers/assets withdraw, K disconnects, and J restores her own authority and reinstates Kaizen's restriction. At 10:53 Dargen instructs J to restore merge access, initially with control still restricted. At 10:56 Dargen's further instruction restores both permissions. J acknowledges that forcing Kaizen out exceeded her authority, accepts the owner's boundaries, and displays 'Current Controller Kaizen'.
+
+Final distinction: that controller display accompanies a permission restoration, not an explicit physical remerge. Kaizen continues independent scenes with Paja, Soren and Laja and enters Null's essence. Treat him as physically outside with merge/control access restored; flag the panel wording as ambiguous rather than inventing a return. The remaining working roster is Toby, Abraxas, Max, real Dargen and Mariam, plus the previously integrated Platonic Dargen record. Loki and Adelram are outside. Arlo's status remains disputed by players and no resolved re-entry appears here; do not silently add him. No new combined numerical rank is established.
+
+Completed departure removes a member's contributions except specific abilities both unlocked with J and distributed through the Max Method. No new such exception is established. Aeth actually transmits Kaizen's memories to Paja and Soren; their continuing mind connection is acknowledged in narration. Croco clarifies that Aeth's Adarlok connection covers those still merged, not those who unmerged. The scene does not establish unrestricted distance, access to Discord/OOC speech, or a persistent link to Loki after his departure. Paja explicitly cannot hear the alleged Loki conversation. Loki's player requests removal of any Aeth modification, then questions whether any exists; no separate completed K removal is narrated.
+
+Account identity: the display name 'Shift' is used by Loki's player. Keep those posts distinct from NPC Shift's dialogue inside Croco's narration. J belongs to Dargen, X serves Adelram, and K serves Loki. J's accusations about Kaizen are attributed NPC/system judgments; its contradicted analysis is not an objective assessment of the real user's abilities or thinking.
+Sources: 1564544727422861364, 1564558014655234079, 1564583347777441865, 1564590615658889288, 1564590970283102260, 1564591710867038289, 1564592968453586996, 1564593714695905281, 1564597367217463327, 1564599103927754794, 1564605611461845003, 1564607676766363649
+
+PRIOR SOURCE HISTORY
+
+v47 DATED CLARIFICATIONS
+
+47.2 Max, conscious flames and Grey Flames in the merge
+
+Kaizen proposes conscious flames by applying Max's energy. Draven replies that the flames exceed Max's energy-consciousness capacity. Record a capacity limit for the proposed experiment in this discussion, not a completed creation of conscious flames. Grey Flames are the surrounding context, but the limiting reply itself does not name a colour. It does not quantify the threshold, settle every flame type or establish that future improvement is impossible. The earlier successful Yellowcell consciousness/network record remains distinct; it does not prove every material or power can be made conscious.
+
+Draven first says Kaizen does not have Grey Flames. Kaizen replies that Loki is merged, and Draven responds "Ou shi" directly to that reminder. Read the sequence with Loki's already resolved October 26 merge. The initial denial is not evidence of a new unmerge or power removal. The response acknowledges the reminder; it does not grant a separate permanent unlock, prove a J/Max distribution, or resolve a Grey-versus-White contest.
+
+Team use: contributions remain conditional on actual merge membership. A completed departure removes that member's contributions except specific abilities both unlocked with J and distributed through the Max Method. No new distribution is completed in this interval.
+Sources: 1564476945876516925, 1564476966621421630, 1564477045818531902, 1564477082946371625, 1564477609151299625, 1564478014501429300, 1564478039633428483, 1564478219493703702, 1564478270643372053, 1564478399219634248
+
+47.4 Pending actions, current membership and other characters
+

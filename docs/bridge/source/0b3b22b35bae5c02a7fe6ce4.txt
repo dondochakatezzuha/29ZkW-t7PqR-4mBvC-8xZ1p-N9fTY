@@ -1,0 +1,13 @@
+TGC Knowledge Library | source: Archive/Discord/1535189086258855946/channels/Characters_1535189087760154670/character-creation_1535189087760154671/2026-08.txt
+Category: characters | Collection: Character Creation
+Export content (not verified canon; see source context):
+
+#character-creation | 2026-08
+All times are UTC. Message IDs identify original sources.
+
+[2026-08-07T11:21:58.891000+00:00] Tickets v2 | 1535246624950067292
+Author ID: 1325579039888511056
+https://discord.com/channels/1535189086258855946/1535189087760154671/1535246624950067292
+
+Embed: {"color": 3066993, "content_scan_version": 4, "description": "By clicking the button, a ticket will be opened where you can create and store character information, via forwarding or copy and paste.", "footer": {"icon_url": "https://tickets.bot/assets/img/logo.png", "proxy_icon_url": "https://images-ext-1.discordapp.net/external/8MjyyuscKsVyuL1EfsDZtZd8r36jwYZjKpVb8s2tYws/https/tickets.bot/assets/img/logo.png", "text": "Powered by tickets.bot"}, "title": "Create a Character", "type": "rich"}
+
