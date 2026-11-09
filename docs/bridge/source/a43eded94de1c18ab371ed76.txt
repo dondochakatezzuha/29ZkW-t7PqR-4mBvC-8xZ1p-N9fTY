@@ -35,3 +35,10 @@ PRANA'S THUNDER HEART - SECRET COSMETIC
 
 A celestial lightning core commemorating Dargen's instant defeat of Mother Prana
 
+[2026-11-09T05:40:35.457000+00:00] Dargan | 1569225170567307346
+Author ID: 1198167960133566523
+https://discord.com/channels/1535189086258855946/1535941051322466405/1569225170567307346
+Reply to: 1568931970426208378
+
+Forwarded reference (sender is not necessarily the original author): {"message": {"attachments": [], "components": [], "content": "**SYSTEM - DRAVEN TOKEN ACTIVATED**\n\n**Draven silently appeared and transferred complete Lightning mastery into Dargen before vanishing**\n\n**SYSTEM - MAXIMUM LIGHTNING ACHIEVED**\n\n**SYSTEM - UNLIMITED SPEED UNLOCKED**\n\n**UNLIMITED SPEED - Dargen has no maximum speed and can accelerate endlessly without a speed cap allowing him to surpass any finite speed through continuous acceleration**\n\n**MAXIMUM LIGHTNING - Complete mastery over electricity including its creation and manipulation with unlimited electrical output and no energy depletion**\n\n**UNLIMITED ELECTRICITY - Dargen can generate limitless electricity and continuously increase its intensity without an upper limit**\n\n**SYSTEM - DRAVEN TOKEN CONSUMED**\n\n**Seraphine smiled softly at Dargen**\n\n**SERAPHINE - You've been missing me**\n\n**SERAPHINE - I've missed you too**\n\n**SERAPHINE - I'm happy you came to see me**", "edited_timestamp": null, "embeds": [], "flags": 0, "mention_roles": [], "mentions": [{"accent_color": null, "avatar": "73fd4ee5e0944ac6ed383f08754f719b", "avatar_decoration_data": null, "banner": null, "banner_color": null, "clan": null, "collectibles": null, "discriminator": "0", "display_name_styles": null, "flags": 0, "global_name": "Dargan", "id": "1198167960133566523", "primary_guild": null, "public_flags": 0, "username": "boran_thegoat"}], "timestamp": "2026-11-08T10:15:31.096000+00:00", "type": 19}}
+
