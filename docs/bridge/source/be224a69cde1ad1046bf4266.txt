@@ -648,7 +648,7 @@ are we serious
 Author ID: 1187513925739237408
 https://discord.com/channels/1535189086258855946/1541045902351925330/1542989690574217286
 https://cdn.discordapp.com/attachments/1487508670957883453/1488559459528609944/togif.gif
-Embed: {"content_scan_version": 4, "thumbnail": {"content_type": "image/gif", "flags": 0, "height": 1080, "placeholder": "nSiGC4QPb0aOlrMAMiSgdIeHgHeABwg=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1487508670957883453/1488559459528609944/togif.gif?ex=6af28e47&is=6af13cc7&hm=2f05f174c539481cc12b36e0350aa0d81802fa8b63763d0ea4a4839f404a2f09&", "url": "https://cdn.discordapp.com/attachments/1487508670957883453/1488559459528609944/togif.gif?ex=6af28e47&is=6af13cc7&hm=2f05f174c539481cc12b36e0350aa0d81802fa8b63763d0ea4a4839f404a2f09&", "width": 1923}, "type": "image", "url": "https://cdn.discordapp.com/attachments/1487508670957883453/1488559459528609944/togif.gif"}
+Embed: {"content_scan_version": 4, "thumbnail": {"content_type": "image/gif", "flags": 0, "height": 1080, "placeholder": "nSiGC4QPb0aOlrMAMiSgdIeHgHeABwg=", "placeholder_version": 1, "proxy_url": "https://media.discordapp.net/attachments/1487508670957883453/1488559459528609944/togif.gif?ex=6af33707&is=6af1e587&hm=0e590d14972bb154152ce57af52f55fe5091e7f02c0d3ede0c24a4c0fc13dcfb&", "url": "https://cdn.discordapp.com/attachments/1487508670957883453/1488559459528609944/togif.gif?ex=6af33707&is=6af1e587&hm=0e590d14972bb154152ce57af52f55fe5091e7f02c0d3ede0c24a4c0fc13dcfb&", "width": 1923}, "type": "image", "url": "https://cdn.discordapp.com/attachments/1487508670957883453/1488559459528609944/togif.gif"}
 
 [2026-08-28T20:38:38.111000+00:00] Draven | 1542996856609579148
 Author ID: 1311460994660306996
